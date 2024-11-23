@@ -1,4 +1,4 @@
-# External plugins
+o# External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Ecophysiology Lab
+subtitle: "Exploring ecology and evolution using integrative physiology"
+email: riddell@unc.edu
+name: Eric Riddell
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -71,8 +71,8 @@ descriptions:
 # social:
 #   - name: Twitter                         # Name of the service
 #     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-#     username: "@TheBenCentra"             # (User) Name to display in the footer link
-#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+#     username: "@eco_physiology"             # (User) Name to display in the footer link
+#     url: https://twitter.com/eco_physiology # URL of your profile (leave blank to not display in footer)
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
@@ -88,7 +88,7 @@ social:
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
@@ -102,14 +102,14 @@ social:
     username: Ben Centra
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -130,7 +130,7 @@ social:
     username: ""
     url: ""
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
