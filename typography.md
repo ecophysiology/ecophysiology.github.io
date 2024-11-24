@@ -19,3 +19,4 @@ E.A. Riddell, I.J. Burger, M.M. Muñoz, S.J. Weaver, M.W. Womack. Integrative an
 <p>Assessing hybrid vigor using the thermal sensitivity of physiological trade-offs in tiger salamanders
 I.J. Burger, E. Carter, L. Magner, M.M. Muñoz, M.W. Sears, B. Fitzpatrick, and E.A. Riddell. Functional Ecology, 38:143-152. LINK</p>
      Press Coverage: AmphibiaWeb
+<hr>
