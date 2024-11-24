@@ -35,7 +35,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#266CF7"><b>Amphibians exhibit extremely high hydric costs of respiration</b></font>
-<p><b>E.A. Riddell</b>, <b>I.J. Burger</b>, M.M. Muñoz, <b>S.J. Weaver</b>, M.W. Womack. Integrative and Comparative Biology, In press. LINK PDF</p>
+<p><b>E.A. Riddell</b>, <b>I.J. Burger</b>, M.M. Muñoz, <b>S.J. Weaver</b>, M.W. Womack. Integrative and Comparative Biology, In press. <a href="[https://example.com](https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory)" target="_blank">LINK</a></p>
    <details style="margin:0; padding:0;">
   <summary> Abstract (+)</summary>
   
@@ -44,7 +44,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#266CF7"><b>Assessing hybrid vigor using the thermal sensitivity of physiological trade-offs in tiger salamanders</b></font>
-<p><b>I.J. Burger</b>, E. Carter, <b>L. Magner</b>, M.M. Muñoz, M.W. Sears, B. Fitzpatrick, and <b>E.A. Riddell</b>. Functional Ecology, 38:143-152. LINK</p>
+<p><b>I.J. Burger</b>, E. Carter, <b>L. Magner</b>, M.M. Muñoz, M.W. Sears, B. Fitzpatrick, and <b>E.A. Riddell</b>. Functional Ecology, 38:143-152. <a href="[https://example.com](https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory)" target="_blank">LINK</a></p>
    <details style="margin:0; padding:0;">
   <summary> Abstract (+)</summary>
   
