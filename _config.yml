@@ -1,4 +1,4 @@
-o# External plugins
+# External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
@@ -12,7 +12,7 @@ exclude:
 title: Ecophysiology Lab
 subtitle: "Exploring ecology and evolution using integrative physiology"
 email: riddell@unc.edu
-name: Eric Riddell
+name: Ecophysiology Lab
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
