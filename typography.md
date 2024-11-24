@@ -12,6 +12,12 @@ main_nav: true
 <font size="12" color="green"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
 <p>C.K. Porter, K.M. Cortes, O. Levy, E.A. Riddell. Journal of Experimental Biology, jeb. 247357. LINK</p>
    <p>Press Coverage: JEB</p>
+   <details>
+  <summary> Abstract (+)</summary>
+  
+  This is the hidden text that appears when you click. You can include **Markdown**, code snippets, or even images here!
+  
+</details>
 
 <font size="12" color="green"><b>Amphibians exhibit extremely high hydric costs of respiration</b></font>
 <p>E.A. Riddell, I.J. Burger, M.M. Muñoz, S.J. Weaver, M.W. Womack. Integrative and Comparative Biology, In press. LINK PDF</p>
