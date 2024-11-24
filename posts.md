@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Posts"
-permalink: /posts/
+title: "Our Lab"
+permalink: /ourlab/
 main_nav: true
 ---
 
