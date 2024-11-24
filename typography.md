@@ -9,7 +9,7 @@ main_nav: true
 
 <hr>
 
-<h1 id="2024">Headings</h1>
+<h1 id="2024">2024</h1>
 
 The effects of humidity on thermoregulatory physiology of a small songbird
 C.K. Porter, K.M. Cortes, O. Levy, E.A. Riddell. Journal of Experimental Biology, jeb. 247357. LINK
