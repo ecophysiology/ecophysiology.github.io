@@ -13,7 +13,7 @@ main_nav: true
 C.K. Porter, K.M. Cortes, O. Levy, E.A. Riddell. Journal of Experimental Biology, jeb. 247357. LINK</p>
    <p>Press Coverage: JEB</p>
 
-<font size="4" color="green">Amphibians exhibit extremely high hydric costs of respiration</font>
+<font size="10" color="green">Amphibians exhibit extremely high hydric costs of respiration</font>
 <p>E.A. Riddell, I.J. Burger, M.M. Muñoz, S.J. Weaver, M.W. Womack. Integrative and Comparative Biology, In press. LINK PDF</p>
 ​
 <p>Assessing hybrid vigor using the thermal sensitivity of physiological trade-offs in tiger salamanders
