@@ -7,6 +7,22 @@ main_nav: true
 
 <p>Welcome! Below you will find my publications, starting with my most recent work. Note that I have provided a link to the publication or a copy of the PDF at the end of the author list below each publication. I have also underlined any co-authors that were trained as mentees. If you have trouble accessing any of the publications, please feel free to reach out to my e-mail (riddell@unc.edu) to request a copy.</p>
 
+<style>
+    details {
+        margin: 0;
+        padding: 0;
+    }
+
+    p {
+        margin: 0; /* Prevent extra space below paragraphs */
+    }
+
+    font {
+        display: block; /* Treat font tags as block elements */
+        margin: 0;
+    }
+</style>
+
 <h1 id="Header">2024</h1>
 
 <font size="4" font color="#266CF7"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
