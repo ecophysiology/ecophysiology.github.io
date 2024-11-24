@@ -9,7 +9,7 @@ main_nav: true
 
 <h1 id="Header">2024</h1>
 
-<font size="12" color="blue"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
+<font size="8" color="blue"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
 <p>C.K. Porter, K.M. Cortes, O. Levy, E.A. Riddell. Journal of Experimental Biology, jeb. 247357. LINK</p>
    <p>Press Coverage: JEB</p>
    <details>
@@ -19,10 +19,10 @@ main_nav: true
   
 </details>
 
-<font size="12" color="blue"><b>Amphibians exhibit extremely high hydric costs of respiration</b></font>
+<font size="8" color="blue"><b>Amphibians exhibit extremely high hydric costs of respiration</b></font>
 <p>E.A. Riddell, I.J. Burger, M.M. Muñoz, S.J. Weaver, M.W. Womack. Integrative and Comparative Biology, In press. LINK PDF</p>
 ​
-<font size="12" color="blue"><b>Assessing hybrid vigor using the thermal sensitivity of physiological trade-offs in tiger salamanders</b></font> 
+<font size="8" color="blue"><b>Assessing hybrid vigor using the thermal sensitivity of physiological trade-offs in tiger salamanders</b></font> 
 <p>I.J. Burger, E. Carter, L. Magner, M.M. Muñoz, M.W. Sears, B. Fitzpatrick, and E.A. Riddell. Functional Ecology, 38:143-152. LINK</p>
 
 <h1 id="Header">2023</h1>
