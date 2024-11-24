@@ -10,7 +10,7 @@ main_nav: true
 <h1 id="Header">2024</h1>
 
 <font size="4" font color="#266CF7"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
-<p>C.K. Porter, K.M. Cortes, O. Levy, E.A. Riddell. Journal of Experimental Biology, jeb. 247357. <a href="[https://example.com](https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory)" target="_blank">LINK</a> </p>
+<p><b></b>C.K. Porter</b>, <b>K.M. Cortes</b>, O. Levy, <b>E.A. Riddell</b>. Journal of Experimental Biology, jeb. 247357. <a href="[https://example.com](https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory)" target="_blank">LINK</a> </p>
    <details>
   <summary> Abstract (+)</summary>
   
@@ -25,7 +25,8 @@ main_nav: true
   
  Terrestrial environments pose many challenges to organisms, but perhaps one of the greatest is the need to breathe while maintaining water balance. Breathing air requires thin, moist respiratory surfaces, and thus the conditions necessary for gas exchange are also responsible for high rates of water loss that lead to desiccation. Across the diversity of terrestrial life, water loss acts as a universal cost of gas exchange and thus imposes limits on respiration. Amphibians are known for being vulnerable to rapid desiccation, in part because they rely on thin, permeable skin for cutaneous respiration. Yet, we have a limited understanding of the relationship between water loss and gas exchange within and among amphibian species. In this study, we evaluated the hydric costs of respiration in amphibians using the transpiration ratio, which is defined as the ratio of water loss (mol H2O d−1) to gas uptake (mol O2 d−1). A high ratio suggests greater hydric costs relative to the amount of gas uptake. We compared the transpiration ratio of amphibians with that of other terrestrial organisms to determine whether amphibians had greater hydric costs of gas uptake relative to plants, insects, birds, and mammals. We also evaluated the effects of temperature, humidity, and body mass on the transpiration ratio both within and among amphibian species. We found that hydric costs of respiration in amphibians were two to four orders of magnitude higher than the hydric costs of plants, insects, birds, and mammals. We also discovered that larger amphibians had lower hydric costs than smaller amphibians, at both the species- and individual-level. Amphibians also reduced the hydric costs of respiration at warm temperatures, potentially reflecting adaptive strategies to avoid dehydration while also meeting the demands of higher metabolic rates. Our results suggest that cutaneous respiration is an inefficient mode of respiration that produces the highest hydric costs of respiration yet to be measured in terrestrial plants and animals. Yet, amphibians largely avoid these costs by selecting aquatic or moist environments, which may facilitate more independent evolution of water loss and gas exchange.
 
-</details>​
+</details>
+​
 <font size="4" font color="#266CF7"><b>Assessing hybrid vigor using the thermal sensitivity of physiological trade-offs in tiger salamanders</b></font> 
 <p>I.J. Burger, E. Carter, L. Magner, M.M. Muñoz, M.W. Sears, B. Fitzpatrick, and E.A. Riddell. Functional Ecology, 38:143-152. LINK</p>
    <details>
