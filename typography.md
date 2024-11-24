@@ -9,7 +9,7 @@ main_nav: true
 
 <h1 id="Header">2024</h1>
 
-<font size="4" color="blue"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
+<font size="4" color="lightblue"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
 <p>C.K. Porter, K.M. Cortes, O. Levy, E.A. Riddell. Journal of Experimental Biology, jeb. 247357. <a href="[https://example.com](https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory)" target="_blank">LINK</a> </p>
    <details>
   <summary> Abstract (+)</summary>
