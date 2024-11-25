@@ -23,5 +23,5 @@ main_nav: true
 <p><b>Tamara Tyner</b>, PhD Student</p>
 <p>My name is Tamara and I am joining the Ecophysiology Lab after studying and working as a Forensic Anthropologist for the past few years. Before my anthropology days, I studied organismal biology and stable isotopes in aquatic food webs at the University of Kansas. I'm very excited to return to bio and explore the physiology of bumble bees! Outside of researching, I enjoy cooking, gardening, and any sort of adventure I can jump into with friends and family.</p>
 
-<p><b></b>Savannah Weaver</p>, PhD Student</p>
+<p><b>Savannah Weaver</b></p>, PhD Student</p>
 <p>I am pursuing my PhD in the Ecophysiology Lab after spending my Master’s investigating the hydration and evaporative water loss of lizards in the Physiology Ecology of Reptiles Lab at California Polytechnic State University, San Luis Obispo. While at UNC Chapel Hill, I will be focusing on hydric trade-offs for anurans, their acclimation capacity, and how that will relate to their extinction or resilience to climate change. In addition to the mind-blowing physiology of reptiles and amphibians, I love the great outdoors, my mischievous kitties, and good food.<p>
