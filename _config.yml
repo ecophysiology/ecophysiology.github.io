@@ -78,9 +78,9 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
+    username: ecophysiology.bsky.social
+    url: https://bsky.app/profile/ecophysiology.bsky.social
+    desc: Follow me on BlueSky
     share: true
 
   - name: Facebook
