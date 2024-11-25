@@ -5,9 +5,10 @@ permalink: /ourlab/
 main_nav: true
 ---
 
-<p><b>Philosophy on Community</b></p>
+<h1 id="Header">Philosophy on Community</h1>
 <p>Our lab is committed to fostering an inclusive environment for all in science, especially for people from historically excluded groups.  Equity and inclusion interact to form major barriers that exclude groups of people from science.  Over my career, I have learned about these barriers by regularly attending student-organized discussions, protests, and organizing workshops. I have learned that barriers to equity often originate from a lack of diversity and inclusion across the academic hierarchy. Through this process, I learned how important it is to develop a deep appreciation for listening and become a better advocate for all members of the community. I believe that the future of science depends upon having a diverse faculty that share the same experiences and backgrounds as the student body. Being a professor is a privilege, and I will use it to ensure people have access to and ongoing support in academia.</p>
 
+<h1 id="Header">Lab Members</h1>
 <p><b>Eric Riddell</b>, Principal Investigator (riddell@unc.edu) </p>
 <p>My name is Eric, and I am an Assistant Professor in the Biology Department at the University of North Carolina at Chapel Hill. After college, I  abandoned my ambition of becoming a dentist and moved to the Galapagos Islands. I spent several months working at hotels and teaching English, but then I got an opportunity to work on a deserted island studying a colony of Nazca boobies. In graduate school, I dove headfirst into the field of environmental and ecological physiology, and I haven't looked back. I love what I do, and I also love spending time with my family, friends, and fishing.</p>
 
@@ -26,7 +27,7 @@ main_nav: true
 <p><b>Savannah Weaver</b>, PhD Student</p>
 <p>I am pursuing my PhD in the Ecophysiology Lab after spending my Master’s investigating the hydration and evaporative water loss of lizards in the Physiology Ecology of Reptiles Lab at California Polytechnic State University, San Luis Obispo. While at UNC Chapel Hill, I will be focusing on hydric trade-offs for anurans, their acclimation capacity, and how that will relate to their extinction or resilience to climate change. In addition to the mind-blowing physiology of reptiles and amphibians, I love the great outdoors, my mischievous kitties, and good food.<p>
 
-<p><b>Are you interested in joining the lab?</b></p>
+<h1 id="Header">Joining the lab</h1>
 <p>As a member of the lab, you will have opportunities to gain experience in environmental physiology, functional genomics, and individual-based modeling. Research in the lab generally focuses on amphibians, birds, and small mammals, but we are question-based scientists and open to any system that helps us answer fundamental questions in ecology and evolution using physiological approaches.</p>
 
 <p>We are committed to maintaining a supportive and inclusive environment in the Riddell Lab, and we strongly encourage anyone with the same commitments to apply to the program. We acknowledge that the academic community requires fundamental changes in our culture to become more diverse, equitable, and inclusive. Our goal, as a lab and community, is to focus on the education and action required to be anti-racist through reflection on our biases and support of policies that translate into an anti-racist culture.</p>
