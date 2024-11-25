@@ -3,6 +3,16 @@ layout: default
 pagination: 
   enabled: true
 ---
+<style>
+  .intro-text {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 1.2em;
+    color: #333; /* Optional: Change text color */
+    line-height: 1.5; /* Optional: Improve readability */
+  }
+</style>
+
 <div class="home">
 
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
