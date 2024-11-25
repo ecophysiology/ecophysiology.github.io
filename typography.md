@@ -65,15 +65,14 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Parameterizing mechanistic niche models in biophysical ecology: a review of empirical approaches</b></font>
-<p>E.A. Riddell, I.J. Burger, T.L. Tyner-Swanson, J. Biggerstaff, M.M. Muñoz, O. Levy, and C.K. Porter. Journal of Experimental Biology, 226: jeb245543.. <a href="https://journals.biologists.com/jeb/article/226/22/jeb245543/334656/Parameterizing-mechanistic-niche-models-in" target="_blank">LINK</a> </p>
-   <details style="margin:0; padding:0;">
+<p>E.A. Riddell, I.J. Burger, T.L. Tyner-Swanson, J. Biggerstaff, M.M. Muñoz, O. Levy, and C.K. Porter. Journal of Experimental Biology, 226: jeb245543. <a href="https://journals.biologists.com/jeb/article/226/22/jeb245543/334656/Parameterizing-mechanistic-niche-models-in" target="_blank">LINK</a> </p>
+  <details style="margin:0; padding:0;">
   <summary> Abstract (+)</summary>
   
  Mechanistic niche models are computational tools developed using biophysical principles to address grand challenges in ecology and evolution, such as the mechanisms that shape the fundamental niche and the adaptive significance of traits. Here, we review the empirical basis of mechanistic niche models in biophysical ecology, which are used to answer a broad array of questions in ecology, evolution and global change biology. We describe the experiments and observations that are frequently used to parameterize these models and how these empirical data are then incorporated into mechanistic niche models to predict performance, growth, survival and reproduction. We focus on the physiological, behavioral and morphological traits that are frequently measured and then integrated into these models. We also review the empirical approaches used to incorporate evolutionary processes, phenotypic plasticity and biotic interactions. We discuss the importance of validation experiments and observations in verifying underlying assumptions and complex processes. Despite the reliance of mechanistic niche models on biophysical theory, empirical data have and will continue to play an essential role in their development and implementation.
 
 </details>
 ​
-
 <font size="4" font color="#5691E8"><b>Environmentally stable cis-regulatory changes underlie rapid climatic adaptation</b></font>
 <p>Ballinger M.A., K.L. Mack, S.M. Durkin, E.A. Riddell, and M.W. Nachman. Proceedings of the National Academy of Sciences U.S.A. 120: e2214614120. <a href="https://journals.biologists.com/jeb/article/226/22/jeb245543/334656/Parameterizing-mechanistic-niche-models-in" target="_blank">LINK</a> </p>
   <details style="margin:0; padding:0;">
