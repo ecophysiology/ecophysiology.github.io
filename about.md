@@ -11,7 +11,7 @@ We study organisms to understand (1) the mechanistic underpinnings of the niche,
 
 I combine physiological experiments on animals with simulation-based models to explore the ecological and evolutionary consequences of variation in physiology across landscapes and through time. At the molecular level, I use functional genomics to understand relationship between genes and organismal responses to environmental change. Together, these approaches provide an integrative understanding of biological systems, from genes to geography. Read more by clicking on a discipline!
 
-Physiology
+<h1 id="Header">Physiology</h1>
 
 How does physiology vary across space?
 ​Animals can adjust physiological traits in ways that helps them live in different environments. My research explores the potential for animals to adapt or acclimate to stressful environments by adjusting physiological traits. My research has found that salamanders from lower elevations can exhibit lower water loss rates possible to minimize the risk of rapid dehydrating.
@@ -22,7 +22,7 @@ Animals in temperate climates experience a wide range of climatic conditions thr
 What factors influence rates of water loss?
 Water is essential for life. Animals that lose water too quickly risk rapidly dehydrating or limit the amount of time they can be active. The physiology of water loss, however, is very complex. Body size, boundary layers, humidity, and windspeed all play critical roles in determining how quickly animals lose water. A major goal of my research program is to improve the field of water loss physiology using experimental techniques and biophysical modeling.
 
-Ecology
+<h1 id="Header">Ecology</h1>
 
 How does physiology determine a species' range?
 A fundamental problem in ecology is to explain the uneven distribution of a species across space. My research blends physiology and biophysics in simulation-based models to identify the mechanisms that determine a species geographic range. I have used physiological simulations to identify the importance of water loss physiology in structuring the geographic range of salamanders. My research has found that salamanders exhibit ecologically relevant resistance to water loss that helps to predict where salamanders can live across the Appalachian landscape.
@@ -33,7 +33,7 @@ Extinction rates are predicted to accelerate over the next century due to human-
 How does heat and mass flow between an animal and their environment?
 Animal are in a constant state of energy flux with their environment. Whether it is heat, mass, or water, the exchange of these different forms of energy requires certain physiological and behavioral adjustments to maintain a state of balance. My research uses computer simulations to generate predictions on the physiological and behavioral responses to their environment using thermodynamic and biophysical theory. These simulations are a powerful tool to understand the impact of climate change on animals.
 
-Evolution
+<h1 id="Header">Evolution</h1>
 
 How does selection favor environmental cues?
 Organisms rely upon external cues to avoid detrimental conditions during environmental change. Cues facilitate phenotypic changes by stimulating gene expression to regulate fitness-related traits. In turn, the response helps to avoid conditions that threaten survival. These environmentally-mediated responses are a widespread strategy among organisms termed phenotypic plasticity. My research has shown that temperature is an important cue for developing a desiccation-resistant phenotype.
