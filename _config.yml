@@ -7,7 +7,7 @@ plugins:
 
 exclude:
   - "/vendor/"
-
+<p> Test </p>
 # Site settings
 title: The Ecophysiology Lab
 subtitle: "Exploring ecology and evolution using integrative physiology"
