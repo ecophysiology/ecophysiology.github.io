@@ -64,21 +64,53 @@ main_nav: true
 
 </details>
 
+<font size="4" font color="#5691E8"><b>Parameterizing mechanistic niche models in biophysical ecology: a review of empirical approaches</b></font>
+<p>E.A. Riddell, I.J. Burger, T.L. Tyner-Swanson, J. Biggerstaff, M.M. Muñoz, O. Levy, and C.K. Porter. Journal of Experimental Biology, 226: jeb245543.. <a href="https://journals.biologists.com/jeb/article/226/22/jeb245543/334656/Parameterizing-mechanistic-niche-models-in" target="_blank">LINK</a> </p>
+   <details style="margin:0; padding:0;">
+  <summary> Abstract (+)</summary>
+  
+ Mechanistic niche models are computational tools developed using biophysical principles to address grand challenges in ecology and evolution, such as the mechanisms that shape the fundamental niche and the adaptive significance of traits. Here, we review the empirical basis of mechanistic niche models in biophysical ecology, which are used to answer a broad array of questions in ecology, evolution and global change biology. We describe the experiments and observations that are frequently used to parameterize these models and how these empirical data are then incorporated into mechanistic niche models to predict performance, growth, survival and reproduction. We focus on the physiological, behavioral and morphological traits that are frequently measured and then integrated into these models. We also review the empirical approaches used to incorporate evolutionary processes, phenotypic plasticity and biotic interactions. We discuss the importance of validation experiments and observations in verifying underlying assumptions and complex processes. Despite the reliance of mechanistic niche models on biophysical theory, empirical data have and will continue to play an essential role in their development and implementation.
 
-<p>Parameterizing mechanistic niche models in biophysical ecology: a review of empirical approaches
-E.A. Riddell, I.J. Burger, T.L. Tyner-Swanson, J. Biggerstaff, M.M. Muñoz, O. Levy, and C.K. Porter. Journal of Experimental Biology, 226: jeb245543. LINK PDF</p>
+</details>
 ​
-<p>Environmentally stable cis-regulatory changes underlie rapid climatic adaptation
-Ballinger M.A., K.L. Mack, S.M. Durkin, E.A. Riddell, and M.W. Nachman. Proceedings of the National Academy of Sciences U.S.A., 120: e2214614120. LINK</p>
 
-<p>TrenchR: an R package for transparent microclimate and biophysical ecology
-Buckley, L.B., B. Ortiz, I. Caruso, A. John, O. Levy, A. Meyer, E.A. Riddell, Y. Sakairi, J. Simonis. PLoS Climate, 2.8: e0000139. LINK</p>
+<font size="4" font color="#5691E8"><b>Environmentally stable cis-regulatory changes underlie rapid climatic adaptation</b></font>
+<p>Ballinger M.A., K.L. Mack, S.M. Durkin, E.A. Riddell, and M.W. Nachman. Proceedings of the National Academy of Sciences U.S.A. 120: e2214614120. <a href="https://journals.biologists.com/jeb/article/226/22/jeb245543/334656/Parameterizing-mechanistic-niche-models-in" target="_blank">LINK</a> </p>
+  <details style="margin:0; padding:0;">
+  <summary> Abstract (+)</summary>
+  
+ Changes in gene expression are thought to play a major role in adaptive evolution. While it is known that gene expression is highly sensitive to the environment, very few studies have determined the influence of genetic and environmental effects on adaptive gene expression differences in natural populations. Here, we utilize allele-specific expression to characterize cis and trans gene regulatory divergence in temperate and tropical house mice in two metabolic tissues under two thermal conditions. First, we show that gene expression divergence is pervasive between populations and across thermal conditions, with roughly 5 to 10% of genes exhibiting genotype-by-environment interactions. Second, we found that most expression divergence was due to cis-regulatory changes that were stable across temperatures. In contrast, patterns of expression plasticity were largely attributable to trans-effects, which showed greater sensitivity to temperature. Nonetheless, we found a small subset of temperature-dependent cis-regulatory changes, thereby identifying loci underlying expression plasticity. Finally, we performed scans for selection in wild house mice to identify genomic signatures of rapid adaptation. Genomic outliers were enriched in genes with evidence for cis-regulatory divergence. Notably, these genes were associated with phenotypes that affected body weight and metabolism, suggesting that cis-regulatory changes are a possible mechanism for adaptive body size evolution between populations. Our results show that gene expression plasticity, largely controlled in trans, may facilitate the colonization of new environments, but that evolved changes in gene expression are largely controlled in cis, illustrating the genetic and nongenetic mechanisms underlying the establishment of populations in new environments.
 
-<p>Hydric effects on thermal tolerance influence climate vulnerability in a high-latitude beetle
-E.A. Riddell, M. Mutanen, C.K. Ghalambor. Global Change Biology, gcb.16830. PDF</p>
+</details>
 
-<p>​Plumage balances camouflage and thermoregulation in horned larks (Eremophila alpestris)
-Mason, N.A., E.A. Riddell, F. Romero, C. Cicero, R.C.K. Bowie. The American Naturalist, 201(2). PDF</p>
+
+<font size="4" font color="#5691E8"><b>TrenchR: an R package for transparent microclimate and biophysical ecology</b></font>
+<p>Buckley, L.B., B. Ortiz, I. Caruso, A. John, O. Levy, A. Meyer, E.A. Riddell, Y. Sakairi, J. Simonis. PLoS Climate, 2.8: e0000139. <a href="https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000139" target="_blank">LINK</a> </p>
+  <details style="margin:0; padding:0;">
+  <summary> Abstract (+)</summary>
+  
+ Much understanding of organismal responses to climate change and variability relies on the assumption that body temperatures are equal to temporally averaged air temperatures high above the ground. However, most organisms experience microclimates near the ground and acute exposure to solar and thermal radiation and thermal extremes can substantially elevate or depress their body temperatures. We introduce the TrenchR package, which aids in Translating Environmental Change into organismal responses. The package includes microclimate models to vertically scale weather station data to organismal heights. Additional functions model and temporally partition air and soil temperatures and solar radiation. TrenchR biophysical modeling tools include both general models for heat flows and specific models to predict body temperatures for a variety of ectothermic taxa. We also offer utility functions to aid in estimating the organismal and environmental parameters needed for biophysical ecology. TrenchR focuses on simple and modular functions so users can create transparent and flexible models for biophysical applications. The package aims to introduce and enable microclimate and biophysical modeling to improve ecological and evolutionary forecasting. We further this aim through a series of educational modules that introduce the field of biophysical ecology.
+
+</details>
+
+<font size="4" font color="#5691E8"><b>Hydric effects on thermal tolerance influence climate vulnerability in a high-latitude beetle</b></font>
+<p>E.A. Riddell, M. Mutanen, C.K. Ghalambor. Global Change Biology, gcb.16830.. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16830" target="_blank">LINK</a> </p>
+  <details style="margin:0; padding:0;">
+  <summary> Abstract (+)</summary>
+  
+ Species' thermal tolerances are used to estimate climate vulnerability, but few studies consider the role of the hydric environment in shaping thermal tolerances. As environments become hotter and drier, organisms often respond by limiting water loss to lower the risk of desiccation; however, reducing water loss may produce trade-offs that lower thermal tolerances if respiration becomes inhibited. Here, we measured the sensitivity of water loss rate and critical thermal maximum (CTmax) to precipitation in nature and laboratory experiments that exposed click beetles (Coleoptera: Elateridae) to acute- and long-term humidity treatments. We also took advantage of their unique clicking behavior to characterize subcritical thermal tolerances. We found higher water loss rates in the dry acclimation treatment compared to the humid, and water loss rates were 3.2-fold higher for individuals that had experienced a recent precipitation event compared to individuals that had not. Acute humidity treatments did not affect CTmax, but precipitation indirectly affected CTmax through its effect on water loss rates. Contrary to our prediction, we found that CTmax was negatively associated with water loss rate, such that individuals with high water loss rate exhibited a lower CTmax. We then incorporated the observed variation of CTmax into a mechanistic niche model that coupled leaf and click beetle temperatures to predict climate vulnerability. The simulations indicated that indices of climate vulnerability can be sensitive to the effects of water loss physiology on thermal tolerances; moreover, exposure to temperatures above subcritical thermal thresholds is expected to increase by as much as 3.3-fold under future warming scenarios. The correlation between water loss rate and CTmax identifies the need to study thermal tolerances from a “whole-organism” perspective that considers relationships between physiological traits, and the population-level variation in CTmax driven by water loss rate complicates using this metric as a straightforward proxy of climate vulnerability.
+
+</details>
+
+<font size="4" font color="#5691E8"><b>Plumage balances camouflage and thermoregulation in horned larks (Eremophila alpestris)</b></font>
+<p>Mason, N.A., E.A. Riddell, F. Romero, C. Cicero, R.C.K. Bowie. The American Naturalist, 201(2). <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/722560?journalCode=an" target="_blank">LINK</a> </p>
+  <details style="margin:0; padding:0;">
+  <summary> Abstract (+)</summary>
+  
+ Animal coloration serves many biological functions and must therefore balance potentially competing selective pressures. For example, many animals have camouflage in which coloration matches the visual background that predators scan for prey. However, different colors reflect different amounts of solar radiation and may therefore have thermoregulatory implications as well. In this study, we examined geographic variation in dorsal patterning, coloration, and solar reflectance among horned larks (Eremophila alpestris) of the western United States. We found that plumage brightness was positively associated with soil granularity, aridity, and temperature. Plumage redness—both in terms of saturation (i.e., chroma) and hue—was positively associated with soil redness and temperature, while plumage patterning was positively associated with soil granularity. Together, these plumage-environment associations support both background matching and Gloger’s rule, a widespread ecogeographic pattern in animal coloration. We also constructed thermoregulatory models that estimated cooling benefits provided by solar reflectance profiles of the dorsal plumage of each specimen based on the collection site. We found increased cooling benefits in hotter, more arid environments. Finally, cooling benefits were positively associated with residual brightness, such that individuals that were brighter than expected based on environmental conditions also had higher cooling benefits, suggesting a trade-off between camouflage and thermoregulation. Together, these data suggest that natural selection has balanced camouflage and thermoregulation in horned larks, and they illustrate how multiple competing evolutionary pressures may interact to shape geographic variation in adaptive phenotypes.
+
+</details>
+
 
 <h1 id="Header">2022</h1>
 <hr>
