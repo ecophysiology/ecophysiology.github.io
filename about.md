@@ -5,7 +5,7 @@ permalink: /research/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/summary_v2-01.png "Profile Picture"){:.profile}
 
 We study organisms to understand (1) the mechanistic underpinnings of the niche, (2) the processes that drive climate vulnerability, and (3) the interactions between the genome and phenome that determine fitness.
 
