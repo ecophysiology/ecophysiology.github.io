@@ -25,7 +25,7 @@ main_nav: true
 
 <h1 id="Header">2024</h1>
 
-<font size="4" font color="#266CF7"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
+<font size="4" font color="#5691E8"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
 <p><b>C.K. Porter</b>, <b>K.M. Cortes</b>, O. Levy, <b>E.A. Riddell</b>. Journal of Experimental Biology, jeb. 247357. <a href="https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory" target="_blank">LINK</a> </p>
    <details style="margin:0; padding:0;">
   <summary> Abstract (+)</summary>
@@ -34,7 +34,7 @@ main_nav: true
 
 </details>
 
-<font size="4" font color="#266CF7"><b>Amphibians exhibit extremely high hydric costs of respiration</b></font>
+<font size="4" font color="#5691E8"><b>Amphibians exhibit extremely high hydric costs of respiration</b></font>
 <p><b>E.A. Riddell</b>, <b>I.J. Burger</b>, M.M. Muñoz, <b>S.J. Weaver</b>, M.W. Womack. Integrative and Comparative Biology, In press. <a href="https://academic.oup.com/icb/article-abstract/64/2/366/7683269?redirectedFrom=fulltext" target="_blank">LINK</a></p>
    <details style="margin:0; padding:0;">
   <summary> Abstract (+)</summary>
@@ -43,7 +43,7 @@ main_nav: true
 
 </details>
 
-<font size="4" font color="#266CF7"><b>Assessing hybrid vigor using the thermal sensitivity of physiological trade-offs in tiger salamanders</b></font>
+<font size="4" font color="#5691E8"><b>Assessing hybrid vigor using the thermal sensitivity of physiological trade-offs in tiger salamanders</b></font>
 <p><b>I.J. Burger</b>, E. Carter, <b>L. Magner</b>, M.M. Muñoz, M.W. Sears, B. Fitzpatrick, and <b>E.A. Riddell</b>. Functional Ecology, 38:143-152. <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14463" target="_blank">LINK</a></p>
    <details style="margin:0; padding:0;">
   <summary> Abstract (+)</summary>
