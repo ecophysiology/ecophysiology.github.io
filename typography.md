@@ -55,8 +55,15 @@ main_nav: true
 
 <h1 id="Header">2023</h1>
 
-<p>Adaptive and non-adaptive convergent evolution in feather reflectance of California Chanel Islands songbirds
-C.K. Porter, F.G. Romero, D.C. Adams, R.C.K. Bowie, and E.A. Riddell. Proceedings of the Royal Society B, 290: 20231914. LINK</p>
+<font size="4" font color="#5691E8"><b>Adaptive and non-adaptive convergent evolution in feather reflectance of California Chanel Islands songbirds</b></font>
+<p><b>C.K. Porter</b>, F.G. Romero, D.C. Adams, R.C.K. Bowie, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B, 290: 20231914. <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2023.1914" target="_blank">LINK</a> </p>
+   <details style="margin:0; padding:0;">
+  <summary> Abstract (+)</summary>
+  
+ Convergent evolution is widely regarded as a signature of adaptation. However, testing the adaptive consequences of convergent phenotypes is challenging, making it difficult to exclude non-adaptive explanations for convergence. Here, we combined feather reflectance spectra and phenotypic trajectory analyses with visual and thermoregulatory modelling to test the adaptive significance of dark plumage in songbirds of the California Channel Islands. By evolving dark dorsal plumage, island birds are generally less conspicuous to visual-hunting raptors in the island environment than mainland birds. Dark dorsal plumage also reduces the energetic demands associated with maintaining homeothermy in the cool island climate. We also found an unexpected pattern of convergence, wherein the most divergent island populations evolved greater reflectance of near-infrared radiation. However, our heat flux models indicate that elevated near-infrared reflectance is not adaptive. Analysis of feather microstructure suggests that mainland-island differences are related to coloration of feather barbs and barbules rather than their structure. Our results indicate that adaptive and non-adaptive mechanisms interact to drive plumage evolution in this system. This study sheds light on the mechanisms driving the association between dark colour and wet, cold environments across the tree of life, especially in island birds.
+
+</details>
+
 
 <p>Parameterizing mechanistic niche models in biophysical ecology: a review of empirical approaches
 E.A. Riddell, I.J. Burger, T.L. Tyner-Swanson, J. Biggerstaff, M.M. Muñoz, O. Levy, and C.K. Porter. Journal of Experimental Biology, 226: jeb245543. LINK PDF</p>
