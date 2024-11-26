@@ -109,6 +109,18 @@ main_nav: true
 
 </details>
 
-
 <h1 id="Header">2022</h1>
+
+<font size="4" font color="#5691E8"><b>Mechanistic forecasts of species responses to climate change: the promise of biophysical ecology</b></font>
+<p>Briscoe, N., S. Morris, P. Mathewson, L. Buckley, M. Jusup, O. Levy, I. Maclean, S. Pincebourde, E.A. Riddell, J. Roberts, R. Schouten, M.W. Sears, M. Kearney. Global Change Biology. gcb.16557. <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.16557" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ A core challenge in global change biology is to predict how species will respond to future environmental change and to manage these responses. To make such predictions and management actions robust to novel futures, we need to accurately characterize how organisms experience their environments and the biological mechanisms by which they respond. All organisms are thermodynamically connected to their environments through the exchange of heat and water at fine spatial and temporal scales and this exchange can be captured with biophysical models. Although mechanistic models based on biophysical ecology have a long history of development and application, their use in global change biology remains limited despite their enormous promise and increasingly accessible software. We contend that greater understanding and training in the theory and methods of biophysical ecology is vital to expand their application. Our review shows how biophysical models can be implemented to understand and predict climate change impacts on species' behavior, phenology, survival, distribution, and abundance. It also illustrates the types of outputs that can be generated, and the data inputs required for different implementations. Examples range from simple calculations of body temperature at a particular site and time, to more complex analyses of species' distribution limits based on projected energy and water balances, accounting for behavior and phenology. We outline challenges that currently limit the widespread application of biophysical models relating to data availability, training, and the lack of common software ecosystems. We also discuss progress and future developments that could allow these models to be applied to many species across large spatial extents and timeframes. Finally, we highlight how biophysical models are uniquely suited to solve global change biology problems that involve predicting and interpreting responses to environmental variability and extremes, multiple or shifting constraints, and novel abiotic or biotic environments.
+
+</details>
+
+
+
+
 <hr>
