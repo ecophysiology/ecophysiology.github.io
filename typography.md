@@ -65,7 +65,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Parameterizing mechanistic niche models in biophysical ecology: a review of empirical approaches</b></font>
-<p>E.A. Riddell, I.J. Burger, T.L. Tyner-Swanson, J. Biggerstaff, M.M. Muñoz, O. Levy, and C.K. Porter. Journal of Experimental Biology, 226: jeb245543. <a href="https://journals.biologists.com/jeb/article/226/22/jeb245543/334656/Parameterizing-mechanistic-niche-models-in" target="_blank">LINK</a> </p>
+<p><b>E.A. Riddell</b>, <b>I.J. Burger</b>, <b>T.L. Tyner-Swanson</b>, <b>J. Biggerstaff</b>, M.M. Muñoz, O. Levy, and <b>C.K. Porter</b>. Journal of Experimental Biology, 226: jeb245543. <a href="https://journals.biologists.com/jeb/article/226/22/jeb245543/334656/Parameterizing-mechanistic-niche-models-in" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -74,7 +74,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Environmentally stable cis-regulatory changes underlie rapid climatic adaptation</b></font>
-<p>Ballinger M.A., K.L. Mack, S.M. Durkin, E.A. Riddell, and M.W. Nachman. Proceedings of the National Academy of Sciences U.S.A. 120: e2214614120. <a href="https://www.pnas.org/doi/10.1073/pnas.2214614120" target="_blank">LINK</a> </p>
+<p>Ballinger M.A., K.L. Mack, S.M. Durkin, <b>E.A. Riddell</b>, and M.W. Nachman. Proceedings of the National Academy of Sciences U.S.A. 120: e2214614120. <a href="https://www.pnas.org/doi/10.1073/pnas.2214614120" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -83,7 +83,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>TrenchR: an R package for transparent microclimate and biophysical ecology</b></font>
-<p>Buckley, L.B., B. Ortiz, I. Caruso, A. John, O. Levy, A. Meyer, E.A. Riddell, Y. Sakairi, J. Simonis. PLoS Climate, 2.8: e0000139. <a href="https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000139" target="_blank">LINK</a> </p>
+<p>Buckley, L.B., B. Ortiz, I. Caruso, A. John, O. Levy, A. Meyer, <b>E.A. Riddell</b>, Y. Sakairi, J. Simonis. PLoS Climate, 2.8: e0000139. <a href="https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000139" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -92,7 +92,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Hydric effects on thermal tolerance influence climate vulnerability in a high-latitude beetle</b></font>
-<p>E.A. Riddell, M. Mutanen, C.K. Ghalambor. Global Change Biology, gcb.16830.. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16830" target="_blank">LINK</a> </p>
+<p><b>E.A. Riddell</b>, M. Mutanen, C.K. Ghalambor. Global Change Biology, gcb.16830.. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16830" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -101,7 +101,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Plumage balances camouflage and thermoregulation in horned larks (Eremophila alpestris)</b></font>
-<p>Mason, N.A., E.A. Riddell, F. Romero, C. Cicero, R.C.K. Bowie. The American Naturalist, 201(2). <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/722560?journalCode=an" target="_blank">LINK</a> </p>
+<p>Mason, N.A., <b>E.A. Riddell</b>, F. Romero, C. Cicero, R.C.K. Bowie. The American Naturalist, 201(2). <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/722560?journalCode=an" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -112,7 +112,7 @@ main_nav: true
 <h1 id="Header">2022</h1>
 
 <font size="4" font color="#5691E8"><b>Mechanistic forecasts of species responses to climate change: the promise of biophysical ecology</b></font>
-<p>Briscoe, N., S. Morris, P. Mathewson, L. Buckley, M. Jusup, O. Levy, I. Maclean, S. Pincebourde, E.A. Riddell, J. Roberts, R. Schouten, M.W. Sears, M. Kearney. Global Change Biology. gcb.16557. <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.16557" target="_blank">LINK</a> </p>
+<p>Briscoe, N., S. Morris, P. Mathewson, L. Buckley, M. Jusup, O. Levy, I. Maclean, S. Pincebourde, <b>E.A. Riddell</b>, J. Roberts, R. Schouten, M.W. Sears, M. Kearney. Global Change Biology. gcb.16557. <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.16557" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -121,7 +121,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Thermal adaptation of pelage in desert rodents balances cooling and insulation</b></font>
-<p>Riddell, E.A., J.L. Patton, & S.R. Beissinger. Global Change Biology. gcb.16557. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14643" target="_blank">LINK</a> </p>
+<p><b>Riddell</b>, E.A., J.L. Patton, & S.R. Beissinger. Global Change Biology. gcb.16557. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14643" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -130,7 +130,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Integrating physiology into correlative models can alter predictions of habitat suitability under climate change for a threatened amphibian</b></font>
-<p>Newman, J.*, E.A. Riddell*, M.W. Sears, K. Barrett. Ecography, e06082. <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.06082" target="_blank">LINK</a> </p>
+<p>Newman, J., <b>E.A. Riddell</b>, M.W. Sears, K. Barrett. Ecography, e06082. <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.06082" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
