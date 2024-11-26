@@ -121,7 +121,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Thermal adaptation of pelage in desert rodents balances cooling and insulation</b></font>
-<p><b>Riddell, E.A.</b>, J.L. Patton, & S.R. Beissinger. Global Change Biology. gcb.16557. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14643" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.A.</b>, J.L. Patton, & S.R. Beissinger. Evolution, evo.14463. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14643" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
