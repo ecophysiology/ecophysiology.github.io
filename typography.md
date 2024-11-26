@@ -25,6 +25,16 @@ main_nav: true
 
 <h1 id="Header">2024</h1>
 
+
+<font size="4" font color="#5691E8"><b>Lack of thermal acclimation in multiple indices of climate vulnerability in bumble bees</b></font>
+<p><b>Poore, C.L. </b>, <b>E.J. Ibarra-Garibay</b>, A.L. Toth, <b>E.A. Riddell</b>. Proceedings of the Royal Society B. In press. <a href="http://www.ecophysiology.org" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Indices of climate vulnerability are used to predict species’ vulnerability to climate change based on intrinsic physiological traits such as thermal tolerance, thermal sensitivity, and thermal acclimation, but rarely is the consistency among indices evaluated simultaneously. We compared the thermal physiology of queen bumble bees between a species experiencing local declines (Bombus auricomus) and a species exhibiting continent-wide increases (B. impatiens). We conducted a multi-week acclimation experiment under simulated climate warming to measure critical thermal maximum (CTmax), critical thermal minimum (CTmin), the thermal sensitivity of metabolic rate and water loss rate, and acclimation in each of these traits. We also measured survival throughout the experiment and after the thermal tolerance trials. Neither species acclimated to the temperature treatments by adjusting any physiological trait. We found conflicting patterns among indices of vulnerability within and between species. We also found that individuals with the highest CTmax exhibited the lowest survival following the thermal tolerance trial. Our study highlights inconsistent patterns across multiple indices of climate vulnerability within and between species, indicating that physiological studies measuring only one index of climate vulnerability may be limited in their ability to inform species’ responses to environmental change.
+
+</details>
+
 <font size="4" font color="#5691E8"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
 <p><b>Porter, C.K. </b>, <b>K.M. Cortes</b>, O. Levy, <b>E.A. Riddell</b>. Journal of Experimental Biology, jeb. 247357. <a href="https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
