@@ -26,7 +26,7 @@ main_nav: true
 <h1 id="Header">2024</h1>
 
 <font size="4" font color="#5691E8"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
-<p><b>C.K. Porter</b>, <b>K.M. Cortes</b>, O. Levy, <b>E.A. Riddell</b>. Journal of Experimental Biology, jeb. 247357. <a href="https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory" target="_blank">LINK</a> </p>
+<p><b>Porter, C.K. </b>, <b>K.M. Cortes</b>, O. Levy, <b>E.A. Riddell</b>. Journal of Experimental Biology, jeb. 247357. <a href="https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -35,7 +35,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Amphibians exhibit extremely high hydric costs of respiration</b></font>
-<p><b>E.A. Riddell</b>, <b>I.J. Burger</b>, M.M. Muñoz, <b>S.J. Weaver</b>, M.W. Womack. Integrative and Comparative Biology, In press. <a href="https://academic.oup.com/icb/article-abstract/64/2/366/7683269?redirectedFrom=fulltext" target="_blank">LINK</a></p>
+<p><b>Riddell, E.A. </b>, <b>I.J. Burger</b>, M.M. Muñoz, <b>S.J. Weaver</b>, M.W. Womack. Integrative and Comparative Biology, In press. <a href="https://academic.oup.com/icb/article-abstract/64/2/366/7683269?redirectedFrom=fulltext" target="_blank">LINK</a></p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -44,7 +44,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Assessing hybrid vigor using the thermal sensitivity of physiological trade-offs in tiger salamanders</b></font>
-<p><b>I.J. Burger</b>, E. Carter, <b>L. Magner</b>, M.M. Muñoz, M.W. Sears, B. Fitzpatrick, and <b>E.A. Riddell</b>. Functional Ecology, 38:143-152. <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14463" target="_blank">LINK</a></p>
+<p><b>Burger, I.J. </b>, E. Carter, <b>L. Magner</b>, M.M. Muñoz, M.W. Sears, B. Fitzpatrick, and <b>E.A. Riddell</b>. Functional Ecology, 38:143-152. <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14463" target="_blank">LINK</a></p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -56,7 +56,7 @@ main_nav: true
 <h1 id="Header">2023</h1>
 
 <font size="4" font color="#5691E8"><b>Adaptive and non-adaptive convergent evolution in feather reflectance of California Chanel Islands songbirds</b></font>
-<p><b>C.K. Porter</b>, F.G. Romero, D.C. Adams, R.C.K. Bowie, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B, 290: 20231914. <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2023.1914" target="_blank">LINK</a> </p>
+<p><b>Porter, C.K.</b>, F.G. Romero, D.C. Adams, R.C.K. Bowie, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B, 290: 20231914. <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2023.1914" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -65,7 +65,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Parameterizing mechanistic niche models in biophysical ecology: a review of empirical approaches</b></font>
-<p><b>E.A. Riddell</b>, <b>I.J. Burger</b>, <b>T.L. Tyner-Swanson</b>, <b>J. Biggerstaff</b>, M.M. Muñoz, O. Levy, and <b>C.K. Porter</b>. Journal of Experimental Biology, 226: jeb245543. <a href="https://journals.biologists.com/jeb/article/226/22/jeb245543/334656/Parameterizing-mechanistic-niche-models-in" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.A. </b>, <b>I.J. Burger</b>, <b>T.L. Tyner-Swanson</b>, <b>J. Biggerstaff</b>, M.M. Muñoz, O. Levy, and <b>C.K. Porter</b>. Journal of Experimental Biology, 226: jeb245543. <a href="https://journals.biologists.com/jeb/article/226/22/jeb245543/334656/Parameterizing-mechanistic-niche-models-in" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -92,7 +92,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Hydric effects on thermal tolerance influence climate vulnerability in a high-latitude beetle</b></font>
-<p><b>E.A. Riddell</b>, M. Mutanen, C.K. Ghalambor. Global Change Biology, gcb.16830.. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16830" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.A. </b>, M. Mutanen, C.K. Ghalambor. Global Change Biology, gcb.16830.. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16830" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -121,7 +121,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Thermal adaptation of pelage in desert rodents balances cooling and insulation</b></font>
-<p><b>Riddell</b>, E.A., J.L. Patton, & S.R. Beissinger. Global Change Biology. gcb.16557. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14643" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.A.</b>, J.L. Patton, & S.R. Beissinger. Global Change Biology. gcb.16557. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14643" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -139,7 +139,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>​Keeping your cool: Thermoregulatory performance in desert cricetid rodents</b></font>
-<p>R.W. Ramirez, <b>E.A. Riddell</b>, S.R. Beissinger, B.O. Wolf. Journal of Experimental Biology 225 (5), jeb243131. <a href="https://journals.biologists.com/jeb/article/225/5/jeb243131/274628/Keeping-your-cool-thermoregulatory-performance-and" target="_blank">LINK</a> </p>
+<p>Ramirez, R.W. , <b>E.A. Riddell</b>, S.R. Beissinger, B.O. Wolf. Journal of Experimental Biology 225 (5), jeb243131. <a href="https://journals.biologists.com/jeb/article/225/5/jeb243131/274628/Keeping-your-cool-thermoregulatory-performance-and" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -157,7 +157,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>The thermal costs and benefits of replicated color evolution in the White Sands Desert lizard community</b></font>
-<p>A.R. Gunderson, E.A. Riddell, M.W. Sears, and E.B. Rosenblum. The American Naturalist 199 (5): 666-678. <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/719027?journalCode=an" target="_blank">LINK</a> </p>
+<p>Gunderson, A.R., E.A. Riddell, M.W. Sears, and E.B. Rosenblum. The American Naturalist 199 (5): 666-678. <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/719027?journalCode=an" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
