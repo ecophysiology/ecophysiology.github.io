@@ -139,7 +139,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>​Keeping your cool: Thermoregulatory performance in desert cricetid rodents</b></font>
-<p>R.W. Ramirez, E.A. Riddell, S.R. Beissinger, B.O. Wolf. Journal of Experimental Biology 225 (5), jeb243131. <a href="https://journals.biologists.com/jeb/article/225/5/jeb243131/274628/Keeping-your-cool-thermoregulatory-performance-and" target="_blank">LINK</a> </p>
+<p>R.W. Ramirez, <b>E.A. Riddell</b>, S.R. Beissinger, B.O. Wolf. Journal of Experimental Biology 225 (5), jeb243131. <a href="https://journals.biologists.com/jeb/article/225/5/jeb243131/274628/Keeping-your-cool-thermoregulatory-performance-and" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -147,7 +147,14 @@ main_nav: true
 
 </details>
 
+<font size="4" font color="#5691E8"><b>​Effect of supplemental feeding on nesting success and physiological metrics in Eastern Bluebirds (Sialia sialis)</b></font>
+<p>Perryman, D.C., M.M. Pandit, <b>E.A. Riddell</b>, T.L. Sanders, I.A. Kanda, J.L. Grindstaff. Journal of Avian Biology, e02920. <a href="https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/jav.02920" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Supplemental feeding is a common anthropogenic influence on wildlife which, dependent on natural food availability, can have positive or negative effects on physiological condition. For example, animals may respond negatively to supplemental feeding if the artificial food source increases disease exposure or there may be negative consequences from removal of a supplemental food source. We manipulated supplemental food availability in a wild population of eastern bluebirds Sialia sialis to examine the influence on body mass, physiological metrics and nesting success. Adult and nestling bluebirds were randomly assigned to one of three feeding groups. The first treatment group received mealworm Tenebrio molitor larvae inside nest boxes throughout the breeding attempt, the second treatment group received mealworms from nest completion until nestlings hatched, and the third treatment group received no supplementation. We collected blood samples from adults and nestlings to quantify bacterial killing ability, corticosterone levels and heterophil to lymphocyte ratios. As measures of nesting success, we quantified hatching success and fledging success. Supplement group tended to impact nestling mass near fledging; however, neither the physiological metrics nor the nesting success metrics differed significantly among experimental groups. Our results suggest eastern bluebird supplementation is largely neutral with the exception of its removal at the time of hatching, at least when natural food sources are abundant. Bird feeding by hobbyists may attract birds to locations with available nesting sites without demonstrably negative or positive effects, unless practiced inconsistently during breeding.
 
-. . PDF.
+</details>
+
 
 <hr>
