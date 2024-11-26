@@ -138,6 +138,16 @@ main_nav: true
 
 </details>
 
+<font size="4" font color="#5691E8"><b>​Keeping your cool: Thermoregulatory performance in desert cricetid rodents</b></font>
+<p>R.W. Ramirez, E.A. Riddell, S.R. Beissinger, B.O. Wolf. Journal of Experimental Biology 225 (5), jeb243131. <a href="https://journals.biologists.com/jeb/article/225/5/jeb243131/274628/Keeping-your-cool-thermoregulatory-performance-and" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Small mammals in hot deserts often avoid heat via nocturnality and fossoriality, and are thought to have a limited capacity to dissipate heat using evaporative cooling. Research to date has focused on thermoregulatory responses to air temperatures (Ta) below body temperature (Tb). Consequently, the thermoregulatory performance of small mammals exposed to high Ta is poorly understood, particularly responses across geographic and seasonal scales. We quantified the seasonal thermoregulatory performance of four cricetid rodents (Neotoma albigula, Neotoma lepida, Peromyscus eremicus, Peromyscus crinitus) exposed to high Ta, at four sites in the Mojave Desert. We measured metabolism, evaporative water loss and Tb using flow-through respirometry. When exposed to Ta≥Tb, rodents showed steep increases in Tb, copious salivation and limited evaporative heat dissipation. Most individuals were only capable of maintaining Ta–Tb gradients of ∼1°, resulting in heat tolerance limits (HTLs) in the range Ta=43–45°C. All species exhibited a thermoneutral Tb of ∼35–36°C, and Tb increased to maximal levels of ∼43°C. Metabolic rates and rates of evaporative water loss increased steeply in all species as Ta approached Tb. We also observed significant increases in resting metabolism and evaporative water loss from summer to winter at Ta within and above the thermoneutral zone. In contrast, we found few differences in the thermoregulatory performance within species across sites. Our results suggest that cricetid rodents have a limited physiological capacity to cope with environmental temperatures that exceed Tb and that a rapidly warming environment may increasingly constrain their nocturnal activity.
 
-. ​. *Equal contribution PDF.
+</details>
+
+
+. . PDF.
+
 <hr>
