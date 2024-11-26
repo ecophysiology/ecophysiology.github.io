@@ -156,5 +156,15 @@ main_nav: true
 
 </details>
 
+<font size="4" font color="#5691E8"><b>The thermal costs and benefits of replicated color evolution in the White Sands Desert lizard community</b></font>
+<p>A.R. Gunderson, E.A. Riddell, M.W. Sears, and E.B. Rosenblum. The American Naturalist 199 (5): 666-678. <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/719027?journalCode=an" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Traits often contribute to multiple functions, complicating our understanding of the selective pressures that influence trait evolution. In the Chihuahuan Desert, predation is thought to be the primary driver of cryptic light coloration in three White Sands lizard species relative to the darker coloration of populations on adjacent dark soils. However, coloration also influences radiation absorption and thus animal body temperatures. We combined comparative physiological experiments and biophysical models to test for thermal consequences of evolving different color morphs in White Sands across the three species. While light and dark morphs have not evolved different physiological heat limits within species, differences in radiation absorption between morphs lead to body temperature differences that impact relative overheating risk and activity patterns. Moreover, for all three species, an idealized morph that matches the White Sands substrate would have considerably less activity time, by approximately 1 month, than existing light morphs. Overall, there are both benefits and costs to greater substrate matching, the balance of which may prevent the evolution of optimal crypsis. Our work highlights the importance of color in dictating thermal performance and the complexity inherent in understanding the evolution of coloration.
+
+</details>
+
+<h1 id="Header">2021</h1>
 
 <hr>
