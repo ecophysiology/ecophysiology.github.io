@@ -121,7 +121,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Thermal adaptation of pelage in desert rodents balances cooling and insulation</b></font>
-<p>Riddell, E.A., J.L. Patton, & S.R. Beissinger. Global Change Biology. gcb.16557. <a href="Evolution, evo.14463" target="_blank">LINK</a> </p>
+<p>Riddell, E.A., J.L. Patton, & S.R. Beissinger. Global Change Biology. gcb.16557. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14643" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -129,6 +129,15 @@ main_nav: true
 
 </details>
 
+<font size="4" font color="#5691E8"><b>Integrating physiology into correlative models can alter predictions of habitat suitability under climate change for a threatened amphibian</b></font>
+<p>Newman, J.*, E.A. Riddell*, M.W. Sears, K. Barrett. Ecography, e06082. <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.06082" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Rapid global change has increased interest in developing ways to identify suitable refugia for species of conservation concern. Correlative and mechanistic species distribution models (SDMs) represent two approaches to generate spatially-explicit estimates of climate vulnerability. Correlative SDMs generate distributions using statistical associations between environmental variables and species presence data. In contrast, mechanistic SDMs use physiological traits and tolerances to identify areas that meet the conditions required for growth, survival and reproduction. Correlative approaches assume modeled environmental variables influence species distributions directly or indirectly; however, the mechanisms underlying these associations are rarely verified empirically. We compared habitat suitability predictions between a correlative-only SDM, a mechanistic SDM and a correlative framework that incorporated mechanistic layers (‘hybrid models'). Our comparison focused on green salamanders Aneides aeneus, a priority amphibian threatened by climate change throughout their disjunct range. We developed mechanistic SDMs using experiments to measure the thermal sensitivity of resistance to water loss (ri) and metabolism. Under current climate conditions, correlative-only, hybrid and mechanistic SDMs predicted similar overlap in habitat suitability; however, mechanistic SDMs predicted habitat suitability to extend into regions without green salamanders but known to harbor many lungless salamanders. Under future warming scenarios, habitat suitability depended on climate scenario and SDM type. Correlative and hybrid models predicted a 42% reduction or 260% increase in area considered to be suitable depending on the climate scenario. In mechanistic SDMs, energetically suitable habitat declined with both climate scenarios and was driven by the thermal sensitivity of ri. Our study indicates that correlative-only and hybrid approaches produce similar predictions of habitat suitability; however, discrepancies can arise for species that do not occupy their entire fundamental niche, which may hold consequences of conservation planning of threatened species.
+
+</details>
 
 
+. ​. *Equal contribution PDF.
 <hr>
