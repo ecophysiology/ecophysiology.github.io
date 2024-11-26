@@ -157,7 +157,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>The thermal costs and benefits of replicated color evolution in the White Sands Desert lizard community</b></font>
-<p>Gunderson, A.R., E.A. Riddell, M.W. Sears, and E.B. Rosenblum. The American Naturalist 199 (5): 666-678. <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/719027?journalCode=an" target="_blank">LINK</a> </p>
+<p>Gunderson, A.R., <b>E.A. Riddell</b>, M.W. Sears, and E.B. Rosenblum. The American Naturalist 199 (5): 666-678. <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/719027?journalCode=an" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -166,5 +166,24 @@ main_nav: true
 </details>
 
 <h1 id="Header">2021</h1>
+
+<font size="4" font color="#5691E8"><b>Why are species traits weak predictors of range shifts?</b></font>
+<p>Beissinger S.R. and <b>E.A. Riddell</b>. Annual Reviews of Ecology, Evolution, and Systematics, 52:47-66. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-012021-092849" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ We examine the evidence linking species’ traits to contemporary range shifts and find they are poor predictors of range shifts that have occurred over decades to a century. We then discuss reasons for the poor performance of traits for describing interspecific variation in range shifts from two perspectives: (a) factors associated with species’ traits that degrade range-shift signals stemming from the measures used for species’ traits, traits that are typically not analyzed, and the influence of phylogeny on range-shift potential and (b) issues in quantifying range shifts and relating them to species’ traits due to imperfect detection of species, differences in the responses of altitudinal and latitudinal ranges, and emphasis on testing linear relationships between traits and range shifts instead of nonlinear responses. Improving trait-based approaches requires a recognition that traits within individuals interact in unexpected ways and that different combinations of traits may be functionally equivalent.
+
+</details>
+
+<font size="4" font color="#5691E8"><b>Exposure to climate change drives stability or collapse of desert mammal and bird communities</b></font>
+<p><b>Riddell, E.A.</b>, K. Iknayan, L. Hargrove, S. Tremor, J.L. Patton, R. Ramirez, B.O. Wolf, & S.R. Beissinger. Science 371: 633-636. <a href="https://www.science.org/doi/10.1126/science.abd4605" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ High exposure to warming from climate change is expected to threaten biodiversity by pushing many species toward extinction. Such exposure is often assessed for all taxa at a location from climate projections, yet species have diverse strategies for buffering against temperature extremes. We compared changes in species occupancy and site-level richness of small mammal and bird communities in protected areas of the Mojave Desert using surveys spanning a century. Small mammal communities remained remarkably stable, whereas birds declined markedly in response to warming and drying. Simulations of heat flux identified different exposure to warming for birds and mammals, which we attribute to microhabitat use. Estimates from climate projections are unlikely to accurately reflect species’ exposure without accounting for the effects of microhabitat buffering on heat flux.
+
+</details>
+
 
 <hr>
