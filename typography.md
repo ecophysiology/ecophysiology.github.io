@@ -120,6 +120,14 @@ main_nav: true
 
 </details>
 
+<font size="4" font color="#5691E8"><b>Thermal adaptation of pelage in desert rodents balances cooling and insulation</b></font>
+<p>Riddell, E.A., J.L. Patton, & S.R. Beissinger. Global Change Biology. gcb.16557. <a href="Evolution, evo.14463" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Phenotypic convergence across distantly related taxa can be driven by similar selective pressures from the environment or intrinsic constraints. The roles of these processes on physiological strategies, such as homeothermy, are poorly understood. We studied the evolution of thermal properties of mammalian pelage in a diverse community of rodents inhabiting the Mojave Desert, USA. We used a heat flux device to measure the thermal insulation of museum specimens and determined whether thermal properties were associated with habitat preferences while assessing phylogenetic dependence. Species that prefer arid habitats exhibited lower conductivity and thinner pelage relative to species with other habitat preferences. Despite being thinner, the pelage of arid species exhibited comparable insulation to the pelage of the other species due to its lower conductivity. Thus, arid species have insulative pelage while simultaneously benefitting from thin pelage that promotes convective cooling. We found no evidence of intrinsic constraints or phylogenetic dependence, indicating pelage readily evolves to environmental pressures. Thermoregulatory simulations demonstrated that arid specialists reduced energetic costs required for homeothermy by 14.5% by evolving lower conductivity, providing support for adaptive evolution of pelage. Our study indicates that selection for lower energetic requirements of homeothermy has shaped evolution of pelage thermal properties.
+
+</details>
 
 
 
