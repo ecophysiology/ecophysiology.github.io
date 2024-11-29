@@ -206,4 +206,105 @@ main_nav: true
 
 </details>
 
+<h1 id="Header">2019</h1>
+
+<font size="4" font color="#5691E8"><b>Cooling requirements fueled the collapse of a desert bird community from climate change</b></font>
+<p><b>Riddell, E.A.</b>, K. Iknayan, B.O. Wolf, B. Sinervo, and S.R. Beissinger. Proceedings of the National Academy of Sciences U.S.A. <a href="https://www.pnas.org/doi/10.1073/pnas.1908791116">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Climate change threatens global biodiversity by increasing extinction risk, yet few studies have uncovered a physiological basis of climate-driven species declines. Maintaining a stable body temperature is a fundamental requirement for homeothermic animals, and water is a vital resource that facilitates thermoregulation through evaporative cooling, especially in hot environments. Here, we explore the potential for thermoregulatory costs to underlie the community collapse of birds in the Mojave Desert over the past century in response to climate change. The probability of persistence was lowest for species occupying the warmest and driest sites, which imposed the greatest cooling costs. We developed a general model of heat flux to evaluate whether water requirements for evaporative cooling contributed to species’ declines by simulating thermoregulatory costs in the Mojave Desert for 50 bird species representing the range of observed declines. Bird species’ declines were positively associated with climate-driven increases in water requirements for evaporative cooling and exacerbated by large body size, especially for species with animal-based diets. Species exhibiting reductions in body size across their range saved up to 14% in cooling costs and experienced less decline than species without size reductions, suggesting total cooling costs as a mechanism underlying Bergmann’s rule. Reductions in body size, however, are unlikely to offset the 50 to 78% increase in cooling costs threatening desert birds from future climate change. As climate change spreads warm, dry conditions across the planet, water requirements are increasingly likely to drive population declines, providing a physiological basis for climate-driven extinctions.
+
+</details>
+
+<font size="4" font color="#5691E8"><b>Thermal cues drive plasticity of desiccation resistance in a montane salamander with implications for climate change</b></font>
+<p><b>Riddell, E.A.</b>, E. Roback, C.E. Wells, K. R. Zamudio, and M.W. Sears. Nature Communications, 10: 4091. <a href="https://www.nature.com/articles/s41467-019-11990-4">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Organisms rely upon external cues to avoid detrimental conditions during environmental change. Rapid water loss, or desiccation, is a universal threat for terrestrial plants and animals, especially under climate change, but the cues that facilitate plastic responses to avoid desiccation are unclear. We integrate acclimation experiments with gene expression analyses to identify the cues that regulate resistance to water loss at the physiological and regulatory level in a montane salamander (Plethodon metcalfi). Here we show that temperature is an important cue for developing a desiccation-resistant phenotype and might act as a reliable cue for organisms across the globe. Gene expression analyses consistently identify regulation of stem cell differentiation and embryonic development of vasculature. The temperature-sensitive blood vessel development suggests that salamanders regulate water loss through the regression and regeneration of capillary beds in the skin, indicating that tissue regeneration may be used for physiological purposes beyond replacing lost limbs.
+
+</details>
+
+<font size="4" font color="#5691E8"><b>The world still isn't flat: lessons learned from organismal interactions with environmental heterogeneity in terrestrial environments</b></font>
+<p>Sears, M.W., <b>E.A. Riddell</b>, T. Rusch, and M. J. Angilletta, Jr. Integrative and Comparative Biology, icz130. <a href="https://www.nature.com/articles/s41467-019-11990-4">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Over the past decade, ecologists and physiologists alike have acknowledged the importance of environmental heterogeneity. Meaningful predictions of the responses of organisms to climate will require an explicit understanding of how organismal behavior and physiology are affected by such heterogeneity. Furthermore, the responses of organisms themselves are quite heterogeneous: physiology and behavior vary over different time scales and across different life stages, and because physiological systems do not operate in isolation of one another, they need to be considered in a more integrated fashion. Here, we review case studies from our laboratories to highlight progress that has been made along these fronts and generalizations that might be made to other systems, particularly in the context of predicting responses to climate change.
+
+</details>
+
+<h1 id="Header">2018</h1>
+
+<font size="4" font color="#5691E8"><b>Plasticity reveals hidden resistance to extinction under climate change in the global hotspot of salamander diversity</b></font>
+<p><b>Riddell E.A.</b>, J. Odom, J. Damm, and M.W. Sears. Science Advances 4, eaar5471. <a href="https://www.science.org/doi/10.1126/sciadv.aar5471">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Extinction rates are predicted to rise exponentially under climate warming, but many of these predictions ignore physiological and behavioral plasticity that might buffer species from extinction. We evaluated the potential for physiological acclimatization and behavioral avoidance of poor climatic conditions to lower extinction risk under climate change in the global hotspot of salamander diversity, a region currently predicted to lose most of the salamander habitat due to warming. Our approach integrated experimental physiology and behavior into a mechanistic species distribution model to predict extinction risk based on an individual’s capacity to maintain energy balance with and without plasticity. We assessed the sensitivity of extinction risk to body size, behavioral strategies, limitations on energy intake, and physiological acclimatization of water loss and metabolic rate. The field and laboratory experiments indicated that salamanders readily acclimatize water loss rates and metabolic rates in ways that could maintain positive energy balance. Projections with plasticity reduced extinction risk by 72% under climate warming, especially in the core of their range. Further analyses revealed that juveniles might experience the greatest physiological stress under climate warming, but we identified specific physiological adaptations or plastic responses that could minimize the lethal physiological stress imposed on juveniles. We conclude that incorporating plasticity fundamentally alters ecological predictions under climate change by reducing extinction risk in the hotspot of salamander diversity.
+
+</details>
+
+<font size="4" font color="#5691E8"><b>Trade-offs between water loss and gas exchange influence habitat suitability in a woodland salamander</b></font>
+<p><b>Riddell E.A.</b>, J. McPhail, J.D. Damm, and M.W. Sears. Functional Ecology 32: 916-925. <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13030">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Reversible acclimation increases resilience to environmental stress, but acclimation may have hidden costs due to underlying linkages between related physiological traits. These linkages might result in trade-offs that undermine whole-organism performance if the change in a related trait reduces the net benefits of acclimation or increases susceptibility to alternative environmental stressors. Metabolic rate and water loss rate are two fundamental physiological traits that could interact due to their dependence on gas exchange across shared physical surfaces. Reductions in water loss rate in response to dehydration stress might reduce metabolic rate by constraining the flux of both water and oxygen. We examined acclimation of metabolic rate and water loss rate using a species of woodland salamander (Plethodon metcalfi) in response to temperature and humidity using a full factorial experimental design. We controlled the evaporative demand of the air across temperatures to assess temperature and humidity as independent cues for acclimation. We predicted that reductions in water loss rate would coincide with reductions in metabolic rate in response to temperature due to shared physical and chemical pathways. We also assessed acclimation of heart rates as a potential compensatory mechanism used to promote oxygen delivery. We integrated these responses into a biophysical model developed from first principles to demonstrate the potential for these interactions to influence habitat suitability. We found that reductions in water loss rates during thermal acclimation were associated with simultaneous reductions in metabolic rates, and we did not find a compensatory response in heart rates. We suggest that these linkages underlie whole-organism strategies (e.g. physiological dormancy or arousal) for reducing the energetic costs imposed by warm temperatures. The biophysical model suggested that the interaction between these two traits potentially structures phenotypic variation in our population because certain combinations of trait values were incapable of reaching positive energy balance. Trade-offs between linked physiological traits potentially structure whole-organism strategies for responding to environmental stressors and constrain phenotypic variation. Therefore, predictions of the benefits of acclimation must be interpreted cautiously without knowledge of the underlying trade-offs among linked physiological traits.
+
+</details>
+
+<font size="4" font color="#5691E8"><b>Recurrent sublethal warming in the nest reduces embryo survival and post-hatching growth</b></font>
+<p>Carlo, M.C., <b>E.A. Riddell</b>, O. Levy, and M.W. Sears. Ecology Letters, 21:104-116. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.12877">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ The capacity to tolerate climate change often varies across ontogeny in organisms with complex life cycles. Recently developed species distribution models incorporate traits across life stages; however, these life-cycle models primarily evaluate effects of lethal change. Here, we examine impacts of recurrent sublethal warming on development and survival in ecological projections of climate change. We reared lizard embryos in the laboratory under temperature cycles that simulated contemporary conditions and warming scenarios. We also artificially warmed natural nests to mimic laboratory treatments. In both cases, recurrent sublethal warming decreased embryonic survival and hatchling sizes. Incorporating survivorship results into a mechanistic species distribution model reduced annual survival by up to 24% compared to models that did not incorporate sublethal warming. Contrary to models without sublethal effects, our model suggests that modest increases in developmental temperatures influence species ranges due to effects on survivorship.
+
+</details>
+
+<h1 id="Header">2017</h1>
+
+<font size="4" font color="#5691E8"><b>​Physical calculations of resistance to water loss improve species range models: reply</b></font>
+<p><b>Riddell E.A.</b> and M.W. Sears. Ecology 98: 2965-2968. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2022">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Christian et al. (2017) proposed several possible flaws in the methods and logic presented by Riddell et al. (2017) that included potential activity of salamanders during measurements, trimming of the agar model’s legs, misinterpretations of the empirical data, limitations on agar models, and the relationship between body size and skin resistance to water loss (ri). We argue that these criticisms are easily addressable, and here, we reinforce our original claim that the agar method for determination of resistance to water loss is flawed. Before responding to these individual critiques, we begin with a deeper criticism of the agar model method and general methodology for determining resistance to water loss that has resulted in the reification of the boundary layer’s ecological and physiological importance. Christian et al. also promoted misleading information on the established physical processes for estimating the value of the boundary layer resistance (rb) that relate directly to the flaws of the agar model method. We hope that our response enlightens physiological ecologists on the obstacles that impede the progress of water loss studies.
+
+</details>
+
+<font size="4" font color="#5691E8"><b>Physical calculations of resistance to water loss improve predictions of species range models</b></font>
+<p><b>Riddell E.A.</b>, E.K. Apanovitch, J.P. Odom, and M.W. Sears. Ecological Monographs, 87: 21-33. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1240">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Species ranges are constrained by the physiological tolerances of organisms to climatic conditions. By incorporating physiological constraints, species distribution models can identify how biotic and abiotic factors constrain a species' geographic range. Rates of water loss influence species distributions, but characterizing water loss for an individual requires complex calculations. Skin resistance to water loss (ri) is considered to be the most informative metric of water loss rates because it controls for experimental biases. However, calculating ri requires biophysical equations to solve for the resistance of the air that surrounds an organism, termed the boundary layer resistance (rb). Here, we compared theoretical and empirical methods for measuring skin resistance to water loss of a Plethodon salamander collected from nature. For the empirical methods, we measured rb of agar replicas at five body sizes, two temperatures, three vapor pressure deficits, and six flow rates using a flow-through system. We also calculated rb using biophysical equations under the same experimental conditions. We then determined the ecological implications of incorporating skin and boundary layer resistance into a species range model that estimated potential activity time and energy balance throughout the geographic range of the study species. We found that empirical methods for calculating rb resulted in negative values of ri, whereas biophysical calculations produced meaningful values of ri. The species range model determined that ignoring realistic boundary layer and skin resistances reduced average estimates of energy balance by as much as 64% and potential activity time by 88% throughout the spatial extent of the model. We conclude that the use of agar replicas is an inadequate technique to characterize skin resistance to water loss, and incorporating boundary layer and skin resistances to water loss improves estimates of activity and energetics for mechanistic species distribution models. More importantly, our study suggests that incorporating the physical processes underlying rates of water loss could improve estimates of habitat suitability for many animals.
+
+</details>
+
+<h1 id="Header">2015</h1>
+
+<font size="4" font color="#5691E8"><b>​Geographic variation of resistances to water loss within two species of salamanders: implications for activity</b></font>
+<p><b>Riddell E.A.</b> and M.W. Sears. Riddell E.A., and M.W. Sears. Ecosphere 6: Article 86. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/ES14-00360.1">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ For many organisms, constraints on activity increase energetic costs, which ultimately reduce the suitability of a particular habitat. Mechanistic species distribution models often use estimates of activity to predict how organisms will respond to climate change. These models couple physiology and morphology with climatic data to estimate potential activity. In turn, the duration of activity is used to estimate the energetic balance of individuals at a given location. Whether individuals remain in positive net energetic balance determines if a given location is suitable for the species. However, because these models often assume that physiology does not vary across the species range, estimates of activity (and consequently energetics) are potentially misleading. To test the consequence of this assumption, we measured total resistance to water loss (R) within two species of lungless salamanders (Plethodon metcalfi and P. teyahalee) collected from locations along their elevational extent in southwestern North Carolina. Because hydration state constrains the activity of salamanders, increasing R would increase potential activity. Here, we leveraged the natural changes in environmental conditions along an elevational gradient to determine if salamanders modify R in different environments. We predicted that salamanders collected from low elevations would have higher R to compensate for the warmer, drier conditions at low elevations that may limit activity. We determined R in the laboratory using a flow-through system at two temperatures (12°C, 18°C) and at three vapor pressure deficits (0.2 kPa, 0.35 kPa, 0.5 kPa). For P. metcalfi, individuals collected from low elevations exhibited the highest R, suggesting either acclimatization or adaptation to local conditions. For P. teyahalee, individuals collected from high elevations exhibited the highest R, but these results may reflect alternative pressures due to differences in behavior. The results also suggest that salamanders might use temperature as a cue to increase R, but the capacity to do so depends upon the temperatures experienced in nature. Moreover, we show that variation in R has the potential to alter the duration of activity over the elevational ranges of these species, illustrating the importance of incorporating geographic variation of physiological traits for predicting a species' response to climate.
+
+</details>
+
+<h1 id="Header">2013</h1>
+
+<font size="4" font color="#5691E8"><b>​Incidental capture of an alternative prey by a dietary specialist, the endangered Snail Kite</b></font>
+<p><b>Riddell E.A.</b>, and D.P. Cavanaugh. Florida Field Naturalist 41:49-50. <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=2244&context=ffn">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Referred to as a dietary specialist (Beissinger et al. 1994, Cattau et al. 2010), the endangered Snail Kite (Rostrhamus sociabilis plumbeus) is a medium-sized raptor found in central and southern Florida (Cottam and Knappen 1939). Its diet consists almost exclusively of apple snails (Pomacea spp.) (Sykes et al. 1995). Despite being dietary specialists, Snail Kites have been observed consuming a variety of alternative prey including small turtles (Sykes and Kale 1974, Beissinger 1988, 1990), mammals (Sykes and Kale 1974), a Speckled Perch (Pomoxis nigromaculatus), and crayfish (Procambarus spp.) (Bennetts et al. 1994). Snail Kites forage during the day and capture food near the water’s surface (Snyder and Snyder 1969); therefore, crayfish in particular would seem to be an unlikely prey source for Snail Kites as they are nocturnal, cryptic, and benthic (Momot et al. 1978, Davis and Huber 2007). Furthermore, crayfish are vigilant (Davis and Huber 2007) and highly mobile relative to apple snails. Here we describe the incidental capture of crayfish by Snail Kites in southern Florida.
+
+</details>
+
+
 <hr>
