@@ -195,5 +195,15 @@ main_nav: true
 
 </details>
 
+<h1 id="Header">2020</h1>
+
+<font size="4" font color="#5691E8"><b>Terrestrial salamanders maintain habitat suitability under climate change despite trade-offs between water loss and gas exchange</b></font>
+<p><b>Riddell, E.A.</b> and M.W. Sears. Physiological and Biochemical Zoology 93: 310-319 <a href="https://www.journals.uchicago.edu/doi/10.1086/709558">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Physiological acclimation has the potential to improve survival during climate change by reducing sensitivity to warming. However, acclimation can produce trade-offs due to links between related physiological traits. Water loss and gas exchange are intrinsically linked by the need for respiratory surfaces to remain moist. As climates warm and dry, organisms may attempt to lower desiccation risk by limiting water loss but at a cost of inhibiting their ability to breathe. Here we used laboratory experiments to evaluate the trade-off between water loss and gas exchange in a fully terrestrial, lungless salamander (Plethodon metcalfi). We measured acclimation of resistance to water loss and metabolic rates in response to long-term exposure to temperature and humidity treatments. We then integrated the trade-off into a simulation-based species distribution model to determine the consequences of ignoring physiological trade-offs on energy balance and aerobic scope under climate change. In the laboratory, we found a close association between acclimation of resistance to water loss and metabolic rates indicative of a trade-off. After incorporating the trade-off into our simulations, we found that energy balance and aerobic scope were reduced by 49.7% and 34.3%, respectively, under contemporary climates across their geographic range. Under future warming scenarios, incorporating the trade-off lowered the number of sites predicted to experience local extirpation by 52.2% relative to simulations without the trade-off; however, the number of sites capable of supporting the energetic requirements for reproduction declined from 44.6% to 32.6% across the species’ geographic range. These experiments and simulations suggest that salamanders can maintain positive energy balance across their geographic range under climate change despite the costs associated with trade-offs between water loss and gas exchange.
+
+</details>
 
 <hr>
