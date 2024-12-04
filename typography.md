@@ -27,7 +27,7 @@ main_nav: true
 
 
 <font size="4" font color="#5691E8"><b>Lack of thermal acclimation in multiple indices of climate vulnerability in bumble bees</b></font>
-<p><b>Poore, C.L. </b>, E.J. Ibarra-Garibay, A.L. Toth, <b>E.A. Riddell</b>. Proceedings of the Royal Society B. In press. <a href="http://www.ecophysiology.org" target="_blank">LINK</a> </p>
+<p><b>Poore, C.L. </b>, E.J. Ibarra-Garibay, A.L. Toth, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B. In press. <a href="http://www.ecophysiology.org" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -36,7 +36,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
-<p><b>Porter, C.K. </b>, <b>K.M. Cortes</b>, O. Levy, <b>E.A. Riddell</b>. Journal of Experimental Biology, jeb. 247357. <a href="https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory" target="_blank">LINK</a> </p>
+<p><b>Porter, C.K. </b>, <b>K.M. Cortes</b>, O. Levy, and <b>E.A. Riddell</b>. Journal of Experimental Biology, jeb. 247357. <a href="https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -45,7 +45,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Amphibians exhibit extremely high hydric costs of respiration</b></font>
-<p><b>Riddell, E.A. </b>, <b>I.J. Burger</b>, M.M. Muñoz, <b>S.J. Weaver</b>, M.W. Womack. Integrative and Comparative Biology, In press. <a href="https://academic.oup.com/icb/article-abstract/64/2/366/7683269?redirectedFrom=fulltext" target="_blank">LINK</a></p>
+<p><b>Riddell, E.A. </b>, <b>I.J. Burger</b>, M.M. Muñoz, <b>S.J. Weaver</b>, M.W. Womack. Integrative and Comparative Biology, 64: 366–376. <a href="https://academic.oup.com/icb/article-abstract/64/2/366/7683269?redirectedFrom=fulltext" target="_blank">LINK</a></p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
