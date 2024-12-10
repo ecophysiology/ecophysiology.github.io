@@ -10,7 +10,7 @@ main_nav: true
 
 <h1 id="Header">Lab Members</h1>
 <p><b>Eric Riddell</b>, Principal Investigator (riddell@unc.edu) </p>
-<p>My name is Eric, and I am an Assistant Professor in the Biology Department at the University of North Carolina at Chapel Hill. After college, I  abandoned my ambition of becoming a dentist and moved to the Galapagos Islands. I spent several months working at hotels and teaching English, but then I got an opportunity to work on a deserted island studying a colony of Nazca boobies. In graduate school, I dove headfirst into the field of environmental and ecological physiology, and I haven't looked back. I love what I do, and I also love spending time with my family, friends, and fishing.</p>
+<p>My name is Eric, and I am an Assistant Professor in the Biology Department at the University of North Carolina at Chapel Hill. My lab studies how organisms function in their environment by running experiments on animals and integrating physiological and behavioral information in simulation-based models. We are also interested in understanding the mechanisms underlying complex phenotypes across the hierarchy of biological organization. I love what I do, and I also love spending time with my family, friends, and fishing.</p>
 
 <p><b>Braulio Assis</b>, Postdoc</p>
 <p>I am an evolutionary ecologist who studies how animal populations respond and adapt to a changing world. To address this question, I have explored various study organisms including fish, orb-weaving spiders, and lizards. In the Riddell Lab I work with lungless salamanders to understand how they respond to environmental change. In my free time I enjoy Brazilian music, the bass guitar, cooking, and swimming.</p>
