@@ -17,9 +17,6 @@ main_nav: true
 <p><b>Eric Riddell</b>, Principal Investigator (riddell@unc.edu) </p>
 <p>My name is Eric, and I am an Assistant Professor in the Biology Department at the University of North Carolina at Chapel Hill. My lab studies how organisms function in their environment by running experiments on animals and integrating physiological and behavioral information in simulation-based models. We are also interested in understanding the mechanisms underlying complex phenotypes across the hierarchy of biological organization. I love what I do, and I also love spending time with my family, friends, and fishing.</p>
 
-<p><b>Braulio Assis</b>, Postdoc</p>
-<p>I am an evolutionary ecologist who studies how animal populations respond and adapt to a changing world. To address this question, I have explored various study organisms including fish, orb-weaving spiders, and lizards. In the Riddell Lab I work with lungless salamanders to understand how they respond to environmental change. In my free time I enjoy Brazilian music, the bass guitar, cooking, and swimming.</p>
-
 <p><b>Ellen Keaveny</b>, Postdoc</p>
 <p>Coming soon!</p>
 
@@ -31,6 +28,11 @@ main_nav: true
 
 <p><b>Savannah Weaver</b>, PhD Student</p>
 <p>I am pursuing my PhD in the Ecophysiology Lab after spending my Master’s investigating the hydration and evaporative water loss of lizards in the Physiology Ecology of Reptiles Lab at California Polytechnic State University, San Luis Obispo. While at UNC Chapel Hill, I will be focusing on hydric trade-offs for anurans, their acclimation capacity, and how that will relate to their extinction or resilience to climate change. In addition to the mind-blowing physiology of reptiles and amphibians, I love the great outdoors, my mischievous kitties, and good food.<p>
+
+<p><b>Past Lab Members</b></p>
+<p>Braulio Assis, Postdoc, currently at Colorado State as a postdoc</p>
+<p>Cody Porter, Postdoc, faculty at Hope College</p>
+<p>Colton Poore, Masters Student, Communications Specialist at Princeton University</p>
 
 <h1 id="Header">Joining the lab</h1>
 <p>As a member of the lab, you will have opportunities to gain experience in environmental physiology, functional genomics, and individual-based modeling. Research in the lab generally focuses on amphibians, birds, and small mammals, but we are question-based scientists and open to any system that helps us answer fundamental questions in ecology and evolution using physiological approaches.</p>
