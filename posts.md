@@ -5,6 +5,11 @@ permalink: /ourlab/
 main_nav: true
 ---
 
+<figure style="text-align:center;">
+  <img src="/assets/IMG_2118.jpg" alt="Descriptive Alt Text" style="max-width:100%; height:auto;">
+  <figcaption style="font-style:italic; margin-top:10px;">The lab at SICB 2025. From left to right, David Adams, Issi Burger, Eric Riddell, Tamara Tyner-Swanson, and Savannah Weaver.</figcaption>
+</figure>
+
 <h1 id="Header">Philosophy on Community</h1>
 <p>Our lab is committed to fostering an inclusive environment for all in science, especially for people from historically excluded groups.  Equity and inclusion interact to form major barriers that exclude groups of people from science.  Over my career, I have learned about these barriers by regularly attending student-organized discussions, protests, and organizing workshops. I have learned that barriers to equity often originate from a lack of diversity and inclusion across the academic hierarchy. Through this process, I learned how important it is to develop a deep appreciation for listening and become a better advocate for all members of the community. I believe that the future of science depends upon having a diverse faculty that share the same experiences and backgrounds as the student body.</p>
 
