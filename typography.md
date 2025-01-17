@@ -23,15 +23,7 @@ main_nav: true
     }
 </style>
 
-<h1 id="Header">2024</h1>
-
-<font size="4" font color="#5691E8"><b>Range shifts as drivers of niche breadth and dispersal ability in wild populations</b></font>
-<p>Lustenhouwer, N. and <b>E.A. Riddell</b>. Journal of Animal Ecology, In press. <a href="http://www.ecophysiology.org" target="_blank">LINK</a> </p>
-  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
-  <summary> Abstract (+)</summary>
-  
- Research Highlight: Edwards et al. (2024) make an important contribution to this growing field by demonstrating a compelling case of phenotypic differentiation during native range expansion in the green treefrog (Hyla cinerea). These frogs have expanded their range poleward in North America over the past few decades, representing a rare example of rapid contemporary range shifts in amphibians. Edwards and colleagues collected frogs from wild populations in the historic range and at the expanding range edge and found increased dispersal ability and thermal niche breadth in populations at the range edge. They then address the forecasting implications of their findings by investigating how species distribution models fit separately to the historic and expanded range could better account for this intraspecific variation.
-
+<h1 id="Header">2025</h1>
 
 </details>
 
@@ -43,6 +35,15 @@ main_nav: true
  Indices of climate vulnerability are used to predict species’ vulnerability to climate change based on intrinsic physiological traits such as thermal tolerance, thermal sensitivity, and thermal acclimation, but rarely is the consistency among indices evaluated simultaneously. We compared the thermal physiology of queen bumble bees between a species experiencing local declines (Bombus auricomus) and a species exhibiting continent-wide increases (B. impatiens). We conducted a multi-week acclimation experiment under simulated climate warming to measure critical thermal maximum (CTmax), critical thermal minimum (CTmin), the thermal sensitivity of metabolic rate and water loss rate, and acclimation in each of these traits. We also measured survival throughout the experiment and after the thermal tolerance trials. Neither species acclimated to the temperature treatments by adjusting any physiological trait. We found conflicting patterns among indices of vulnerability within and between species. We also found that individuals with the highest CTmax exhibited the lowest survival following the thermal tolerance trial. Our study highlights inconsistent patterns across multiple indices of climate vulnerability within and between species, indicating that physiological studies measuring only one index of climate vulnerability may be limited in their ability to inform species’ responses to environmental change.
 
 </details>
+
+<h1 id="Header">2024</h1>
+
+<font size="4" font color="#5691E8"><b>Range shifts as drivers of niche breadth and dispersal ability in wild populations</b></font>
+<p>Lustenhouwer, N. and <b>E.A. Riddell</b>. Journal of Animal Ecology, In press. <a href="http://www.ecophysiology.org" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Research Highlight: Edwards et al. (2024) make an important contribution to this growing field by demonstrating a compelling case of phenotypic differentiation during native range expansion in the green treefrog (Hyla cinerea). These frogs have expanded their range poleward in North America over the past few decades, representing a rare example of rapid contemporary range shifts in amphibians. Edwards and colleagues collected frogs from wild populations in the historic range and at the expanding range edge and found increased dispersal ability and thermal niche breadth in populations at the range edge. They then address the forecasting implications of their findings by investigating how species distribution models fit separately to the historic and expanded range could better account for this intraspecific variation.
 
 <font size="4" font color="#5691E8"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
 <p><b>Porter, C.K. </b>, <b>K.M. Cortes</b>, O. Levy, and <b>E.A. Riddell</b>. Journal of Experimental Biology, jeb. 247357. <a href="https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory" target="_blank">LINK</a> </p>
