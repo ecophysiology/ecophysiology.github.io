@@ -25,8 +25,6 @@ main_nav: true
 
 <h1 id="Header">2025</h1>
 
-</details>
-
 <font size="4" font color="#5691E8"><b>Lack of thermal acclimation in multiple indices of climate vulnerability in bumble bees</b></font>
 <p><b>Poore, C.L. </b>, E.J. Ibarra-Garibay, A.L. Toth, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B. In press. <a href="http://www.ecophysiology.org" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
