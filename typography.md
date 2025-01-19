@@ -25,8 +25,17 @@ main_nav: true
 
 <h1 id="Header">2025</h1>
 
+<font size="4" font color="#5691E8"><b>Range shifts as drivers of niche breadth and dispersal ability in wild populations</b></font>
+<p>Lustenhouwer, N. and <b>E.A. Riddell</b>. Journal of Animal Ecology, In press. <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.14239" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Research Highlight: Edwards et al. (2024) make an important contribution to this growing field by demonstrating a compelling case of phenotypic differentiation during native range expansion in the green treefrog (Hyla cinerea). These frogs have expanded their range poleward in North America over the past few decades, representing a rare example of rapid contemporary range shifts in amphibians. Edwards and colleagues collected frogs from wild populations in the historic range and at the expanding range edge and found increased dispersal ability and thermal niche breadth in populations at the range edge. They then address the forecasting implications of their findings by investigating how species distribution models fit separately to the historic and expanded range could better account for this intraspecific variation.
+
+</details>
+
 <font size="4" font color="#5691E8"><b>Lack of thermal acclimation in multiple indices of climate vulnerability in bumble bees</b></font>
-<p><b>Poore, C.L. </b>, E.J. Ibarra-Garibay, A.L. Toth, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B. In press. <a href="http://www.ecophysiology.org" target="_blank">LINK</a> </p>
+<p><b>Poore, C.L. </b>, E.J. Ibarra-Garibay, A.L. Toth, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B. In press. <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2024.2216?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -35,15 +44,6 @@ main_nav: true
 </details>
 
 <h1 id="Header">2024</h1>
-
-<font size="4" font color="#5691E8"><b>Range shifts as drivers of niche breadth and dispersal ability in wild populations</b></font>
-<p>Lustenhouwer, N. and <b>E.A. Riddell</b>. Journal of Animal Ecology, In press. <a href="http://www.ecophysiology.org" target="_blank">LINK</a> </p>
-  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
-  <summary> Abstract (+)</summary>
-  
- Research Highlight: Edwards et al. (2024) make an important contribution to this growing field by demonstrating a compelling case of phenotypic differentiation during native range expansion in the green treefrog (Hyla cinerea). These frogs have expanded their range poleward in North America over the past few decades, representing a rare example of rapid contemporary range shifts in amphibians. Edwards and colleagues collected frogs from wild populations in the historic range and at the expanding range edge and found increased dispersal ability and thermal niche breadth in populations at the range edge. They then address the forecasting implications of their findings by investigating how species distribution models fit separately to the historic and expanded range could better account for this intraspecific variation.
-
-</details>
 
 <font size="4" font color="#5691E8"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
 <p><b>Porter, C.K. </b>, <b>K.M. Cortes</b>, O. Levy, and <b>E.A. Riddell</b>. Journal of Experimental Biology, jeb. 247357. <a href="https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory" target="_blank">LINK</a> </p>
