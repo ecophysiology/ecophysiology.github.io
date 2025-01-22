@@ -18,7 +18,7 @@ main_nav: true
 <p>My name is Eric, and I am an Assistant Professor in the Biology Department at the University of North Carolina at Chapel Hill. My lab studies how organisms function in their environment by running experiments on animals and integrating physiological and behavioral information in simulation-based models. We are also interested in understanding the mechanisms underlying complex phenotypes across the hierarchy of biological organization. I love what I do, and I also love spending time with my family, friends, and fishing.</p>
 
 <p><b>Ellen Keaveny</b>, Postdoc (ekeaveny@unc.edu)</p>
-<p>Coming soon!</p>
+<p>Prior to moving to UNC, I completed my PhD with Michael Dillon (University of Wyoming - 2024) addressing how body size and life history mediate bumble bee responses to temperature. With Eric in collaboration with the San Diego Zoo Alliance, I will measure physiological parameters and use biophysical modeling to characterize where Mojave desert tortoises may thrive across the landscape. When not in the lab or behind a computer, I enjoy spending time with my partner and daughter, exploring nature on foot or bike, and traveling.</p>
 
 <p><b>Issi Burger</b>, PhD Candidate (iburger@unc.edu) </p>
 <p>I joined the Ecophysiology Lab after completing my Masters in the Conservation Physiology Lab at Mississippi State University, focusing on amphibian reproductive physiology. While at Iowa State, I will be modeling species distribution of salamanders while also aiming to better understand their evolutionary and physiological ecology. When I’m not in the lab or in the field, I can be found reading, exploring the outdoors, or spending time with my partner and three pups.</p>
