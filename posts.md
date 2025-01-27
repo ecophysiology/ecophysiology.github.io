@@ -23,7 +23,7 @@ main_nav: true
 <p><b>Issi Burger</b>, PhD Candidate (iburger@unc.edu) </p>
 <p>I joined the Ecophysiology Lab after completing my Masters in the Conservation Physiology Lab at Mississippi State University, focusing on amphibian reproductive physiology. While at Iowa State, I will be modeling species distribution of salamanders while also aiming to better understand their evolutionary and physiological ecology. When I’m not in the lab or in the field, I can be found reading, exploring the outdoors, or spending time with my partner and three pups.</p>
 
-<p><b>Tamara Tyner</b>, PhD Student (tltyner@iastate.edu)</p>
+<p><b>Tamara Tyner</b>, PhD Candidate (tltyner@iastate.edu)</p>
 <p>My name is Tamara and I am joining the Ecophysiology Lab after studying and working as a Forensic Anthropologist for the past few years. Before my anthropology days, I studied organismal biology and stable isotopes in aquatic food webs at the University of Kansas. I'm very excited to return to bio and explore the physiology of bumble bees! Outside of researching, I enjoy cooking, gardening, and any sort of adventure I can jump into with friends and family.</p>
 
 <p><b>Savannah Weaver</b>, PhD Student (savjw@unc.edu)</p>
