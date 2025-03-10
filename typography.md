@@ -25,8 +25,18 @@ main_nav: true
 
 <h1 id="Header">2025</h1>
 
+<font size="4" font color="#5691E8"><b>Plastic mechanisms for unraveling a universal trade-off between water loss and respiration</b></font>
+<p><b>Assis, B.</b>, C.K. Ghalambor, <b>E.A. Riddell</b>. Evolution, In press. <a href="https://www.biorxiv.org/content/10.1101/2024.10.01.616113v1" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ The expression of phenotypes is often constrained by functional conflicts between traits, and the resulting trade-offs can impose limits on phenotypic and taxonomic diversity. However, organisms can circumvent trade-offs in specific environmental contexts through phenotypic plasticity, though the mechanisms that drive trade-offs or allow organisms to resolve trade-offs are often cryptic. The trade-off between water loss and gas exchange poses a fundamental challenge for terrestrial life because the capacity to absorb oxygen is limited by the risk of desiccation from water loss across respiratory surfaces. Here, we investigated the capacity to mitigate this trade-off in a lungless salamander that breathes exclusively across its skin. We measured water loss and oxygen uptake using respirometry in field- and laboratory-based studies to identify plastic responses to environmental variation, coupled with gene expression analyses to investigate biological pathways that regulate the trade-off. Though the trade-off between oxygen uptake and water loss was generally strong, we observed that its strength changed over time in the field and laboratory. At the molecular level, we found support for antagonistic pleiotropy in multiple pathways that simultaneously affect both physiological traits (e.g., via vasoconstriction and downregulation of aerobic respiration), and for mechanisms that mitigate the trade-off by affecting only one trait (e.g., oxygen binding affinity, melanin synthesis). As organisms disentangle such conflicts, however, alternative trade-offs are likely to arise. Our study provides evidence that alternative pathways allow organisms to mitigate pleiotropic conflicts, which ultimately may allow greater phenotypic diversity and persistence in novel environments.
+
+
+</details>
+
 <font size="4" font color="#5691E8"><b>Range shifts as drivers of niche breadth and dispersal ability in wild populations</b></font>
-<p>Lustenhouwer, N. and <b>E.A. Riddell</b>. Journal of Animal Ecology, In press. <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.14239" target="_blank">LINK</a> </p>
+<p>Lustenhouwer, N. and <b>E.A. Riddell</b>. Journal of Animal Ecology,94:175–178. <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.14239" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -35,7 +45,7 @@ main_nav: true
 </details>
 
 <font size="4" font color="#5691E8"><b>Lack of thermal acclimation in multiple indices of climate vulnerability in bumble bees</b></font>
-<p><b>Poore, C.L. </b>, E.J. Ibarra-Garibay, A.L. Toth, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B. In press. <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2024.2216?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed" target="_blank">LINK</a> </p>
+<p><b>Poore, C.L. </b>, E.J. Ibarra-Garibay, A.L. Toth, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B, 292:20242216. <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2024.2216?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
