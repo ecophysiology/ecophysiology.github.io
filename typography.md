@@ -25,6 +25,24 @@ main_nav: true
 
 <h1 id="Header">2025</h1>
 
+<font size="4" font color="#5691E8"><b>Genome composition predicts physiological responses to temperature in polyploid salamanders.</b></font>
+<p><b>Burger, I.J.</b>, M. Itgen, L. Tan, P. Woodward, L. Rivas-Moreno, T. Hunt, H.R. Ready, X.G.M. Geronimo, R.D. Denton, <b>E.A. Riddell</b>. The American Naturalist, In press. <a href="google.com" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Multi-trait analyses can be used to measure the differential performance of phenotypic traits in species complexes. Hybridization within these complexes can result in a mismatch between mitochondrial and nuclear DNA that may lead to reduced performance and acclimation capacity in hybrids. To test the effect of this mismatch on physiology, we compared physiological performance and acclimation capacity of metabolic rate (VCO2) and total resistance to water loss (rT) between two sexual Ambystoma species and a closely related unisexual lineage. We also separated unisexuals by their unique biotypes to determine how physiology varies with subgenomic composition. We found that unisexual biotypes exhibited phenotypes more like their related sexual species than to other unisexuals. We also found a trade-off between rT and VCO2, with increasing rT resulting in a decrease in VCO2. Although we did not find evidence for mitonuclear mismatch, our results indicate that genomic composition of hybrids may be a suitable predictor of hybrid trait performance. Multi-trait analyses are imperative for understanding variation in phenotypic diversity, providing insight into how this diversity affects species responses to environmental change.
+
+</details>
+
+<font size="4" font color="#5691E8"><b>Revisiting thermal gradient experiments: Effects of thermal heterogeneity on salamander behavior.</b></font>
+<p>Laterza-Barbosa, J., R. Rainha, A.F. Guzman, <b>E.A. Riddell</b>, M.M. Muñoz, C.A. Navas. Integrative and Comparative Biology, In press. <a href="google.com" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+ Thermal gradient experiments are commonly used in the laboratory on ectothermic organisms to infer the climatic preferences of animals in the absence of other variables. However, the ability to extrapolate laboratory results to the field is only as good as the accumulation of ecological data for that organism. When the variable quantified is interpreted as thermal “preference” there are some assumptions that come with it, namely that the organism selects a particular preferred temperature by positive thermotaxis. Amphibians, as well as most ectotherms, tend to be thermoconformers, so conclusions from thermal gradient experiments carry very different meanings than they do for organisms such as heliothermic ectotherms that maintain a narrow range of body temperatures in the lab and field. We tested whether and how the Eastern Red-backed Salamander (Plethodon cinereus) behaves when presented with a thermal gradient arena in comparison to a control arena. Control salamanders unambiguously moved towards either end of the arena despite no variation in temperature. We found that salamanders did respond to a thermal gradient, but their thermoregulatory behavior was limited to the avoidance of the hottest end of the gradient, and not a positive thermotaxis towards a specific temperature as assumed of a thermal “preference”. Our results encourage a broader consideration of how laboratory-measured behaviors relate to the predicted behaviors of organisms in natural settings, and a re-evaluation of the terminology used to describe movement behaviors in thermal gradients.
+
+</details>
+
 <font size="4" font color="#5691E8"><b>Plastic mechanisms for unraveling a universal trade-off between water loss and respiration</b></font>
 <p><b>Assis, B.</b>, C.K. Ghalambor, <b>E.A. Riddell</b>. Evolution, In press. <a href="https://www.biorxiv.org/content/10.1101/2024.10.01.616113v1" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
