@@ -25,7 +25,7 @@ main_nav: true
 
 <h1 id="Header">2025</h1>
 
-<font size="4" font color="#5691E8"><b>Genome composition predicts physiological responses to temperature in polyploid salamanders.</b></font>
+<font size="4" font color="#5691E8"><b>Genome composition predicts physiological responses to temperature in polyploid salamanders</b></font>
 <p><b>Burger, I.J.</b>, M. Itgen, L. Tan, P. Woodward, L. Rivas-Moreno, T. Hunt, H.R. Ready, X.G.M. Geronimo, R.D. Denton, <b>E.A. Riddell</b>. The American Naturalist, In press. <a href="google.com" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
@@ -34,7 +34,7 @@ main_nav: true
 
 </details>
 
-<font size="4" font color="#5691E8"><b>Revisiting thermal gradient experiments: Effects of thermal heterogeneity on salamander behavior.</b></font>
+<font size="4" font color="#5691E8"><b>Revisiting thermal gradient experiments: Effects of thermal heterogeneity on salamander behavior</b></font>
 <p>Laterza-Barbosa, J., R. Rainha, A.F. Guzman, <b>E.A. Riddell</b>, M.M. Muñoz, C.A. Navas. Integrative and Comparative Biology, In press. <a href="google.com" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
