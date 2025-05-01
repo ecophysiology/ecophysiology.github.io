@@ -25,6 +25,15 @@ main_nav: true
 
 <h1 id="Header">2025</h1>
 
+<font size="4" font color="#5691E8"><b>The wind niche: The thermal and hydric effects of wind speed on terrestrial organisms</b></font>
+<p><b>Riddell, E.R.</b> and <b>C.K. Porter</b>. Integrative and Comparative Biology, In press. <a href="google.com" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+Wind can significantly influence heat and water exchange between organisms and their environment, yet microclimatic variation in wind is often overlooked in models forecasting the effects of environmental change on organismal performance. Accounting for the effects of wind may become even more critical given the anticipated changes in wind speed across the planet as climates continue to warm. In this study, we first assessed how wind speed varies across the planet and how wind speed may change under climate warming at macroclimatic scales. We also used microclimatic data to assess how wind speed changes temporally throughout the day and year as well as the relationship between wind speed, temperature, and standard deviation in each environmental variable using data from weather stations in North America. Finally, we used a suite of biophysical simulations to understand how wind speed (and its interactions with other environmental variables and organismal traits) affects the temperatures and rates of water loss that plants and animals experience at a microclimatic scale. We found substantial latitudinal variation in wind speed and the change in wind speed under climate change, demonstrating that temperate regions are predicted to experience simultaneous warming and reductions in wind speed. From the microclimatic data, we also found that wind speed is positively associated with temperature and temperature variability, indicating that the effects of wind speed may become more challenging to predict under future warming scenarios. The biophysical simulations demonstrated that convective and evaporative cooling from wind interacts strongly with organismal traits (such as body size, solar absorptance, and conductance) and the heating effects of solar radiation to shape heat and water fluxes in terrestrial plants and animals. In many cases, the effect of wind (or its interaction with other variables) was comparable to the effects of air temperature or solar radiation. Understanding these effects will be important for predicting the ecological impacts of climate change and for explaining clinal variation in traits that have evolved across a range of thermal environments.
+
+</details>
+
 <font size="4" font color="#5691E8"><b>Genome composition predicts physiological responses to temperature in polyploid salamanders</b></font>
 <p><b>Burger, I.J.</b>, M. Itgen, L. Tan, P. Woodward, L. Rivas-Moreno, T. Hunt, H.R. Ready, X.G.M. Geronimo, R.D. Denton, <b>E.A. Riddell</b>. The American Naturalist, In press. <a href="google.com" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
