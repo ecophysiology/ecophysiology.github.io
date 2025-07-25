@@ -26,7 +26,7 @@ main_nav: true
 <h1 id="Header">2025</h1>
 
 <font size="4" font color="#5691E8"><b>The wind niche: The thermal and hydric effects of wind speed on terrestrial organisms</b></font>
-<p><b>Riddell, E.R.</b> and <b>C.K. Porter</b>. Integrative and Comparative Biology, In press. <a href="google.com" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.R.</b> and <b>C.K. Porter</b>. Integrative and Comparative Biology, In press. <a href="https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icaf025/8126092" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
