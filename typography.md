@@ -26,7 +26,7 @@ main_nav: true
 <h1 id="Header">2025</h1>
 
 <font size="4" font color="#5691E8"><b>The wind niche: The thermal and hydric effects of wind speed on terrestrial organisms</b></font>
-<p><b>Riddell, E.R.</b> and <b>C.K. Porter</b>. Integrative and Comparative Biology, In press. <a href="https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icaf025/8126092" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.R.</b> and <b>C.K. Porter</b>. Integrative and Comparative Biology, icaf025. <a href="https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icaf025/8126092" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -35,7 +35,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Genome composition predicts physiological responses to temperature in polyploid salamanders</b></font>
-<p><b>Burger, I.J.</b>, M. Itgen, L. Tan, P. Woodward, L. Rivas-Moreno, T. Hunt, H.R. Ready, X.G.M. Geronimo, R.D. Denton, <b>E.A. Riddell</b>. The American Naturalist, In press. <a href="google.com" target="_blank">LINK</a> </p>
+<p><b>Burger, I.J.</b>, M. Itgen, L. Tan, P. Woodward, L. Rivas-Moreno, T. Hunt, H.R. Ready, X.G.M. Geronimo, R.D. Denton, <b>E.A. Riddell</b>. The American Naturalist, 206(3): 000-000. <a href="https://www.journals.uchicago.edu/doi/10.1086/736728" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -44,7 +44,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Revisiting thermal gradient experiments: Effects of thermal heterogeneity on salamander behavior</b></font>
-<p>Laterza-Barbosa, J., R. Rainha, A.F. Guzman, <b>E.A. Riddell</b>, M.M. Muñoz, C.A. Navas. Integrative and Comparative Biology, In press. <a href="google.com" target="_blank">LINK</a> </p>
+<p>Laterza-Barbosa, J., R. Rainha, A.F. Guzman, <b>E.A. Riddell</b>, M.M. Muñoz, C.A. Navas. Integrative and Comparative Biology, obaf015 <a href="https://academic.oup.com/iob/article/7/1/obaf015/8108802" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -53,7 +53,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Plastic mechanisms for unraveling a universal trade-off between water loss and respiration</b></font>
-<p><b>Assis, B.</b>, C.K. Ghalambor, <b>E.A. Riddell</b>. Evolution, In press. <a href="https://www.biorxiv.org/content/10.1101/2024.10.01.616113v1" target="_blank">LINK</a> </p>
+<p><b>Assis, B.</b>, C.K. Ghalambor, <b>E.A. Riddell</b>. Evolution, 79:1073-1085. <a href="https://academic.oup.com/evolut/article/79/6/1073/8082053" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
