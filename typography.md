@@ -25,6 +25,16 @@ main_nav: true
 
 <h1 id="Header">2025</h1>
 
+<font size="4" font color="#5691E8"><b>Metabolic effects of dietary exposure to polystyrene microplastic and nanoplastic in fruit flies</b></font>
+<p><b>Riddell, E.R.</b>, R.M. Sorensen, E. McNeill, B. Jovanović. Journal of Experimental Biology, In press <a href="https://google.com" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+Understanding how anthropogenic change impacts metabolic physiology is crucial for predicting organismal energetics, survival, and ecosystem dynamics. Microplastics are ubiquitous in both aquatic and terrestrial environments and can disrupt organismal physiology. We used Drosophila melanogaster as a model species to identify the metabolic effects of dietary exposure to 1 µm polystyrene microplastics (MPs) and 50 nm nanoplastics (NPs) particles. We exposed flies to ecologically relevant and equivalent doses (1.4 × 10¹¹ particles d⁻¹ kg⁻¹ larvae for MPs; 1.2 × 10¹⁸ particles d⁻¹ kg⁻¹ larvae for NPs) from egg to adult eclosion and used flow-through respirometry to investigate changes in volume of carbon dioxide production and evaporative water loss rate. We observed that MP exposure weakened the apparent relationship between carbon dioxide production and water loss rate – suggesting shifts in organismal energetics – while NP exposure did not. Such responses could have implications for physiological function, ecological interactions, and evolutionary trajectories amid ongoing environmental change.
+
+
+</details>
+
 <font size="4" font color="#5691E8"><b>The wind niche: The thermal and hydric effects of wind speed on terrestrial organisms</b></font>
 <p><b>Riddell, E.R.</b> and <b>C.K. Porter</b>. Integrative and Comparative Biology, icaf025. <a href="https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icaf025/8126092" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
