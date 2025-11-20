@@ -25,8 +25,19 @@ main_nav: true
 
 <h1 id="Header">2025</h1>
 
+<font size="4" font color="#5691E8"><b>Live birth in lizards: A process-based model for the roles of temperature, behavior, and life history</b></font>
+<p>Garcia-Costoya, G., S.F. Domínguez-Guerrero, L. Fromhage, M.E. Gifford, <b>E.A. Riddell</b>, M.L. Logan. Evolution Letters, qraf043 <a href="https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qraf043/8321751?searchresult=1" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+Life-history traits evolve to optimize fitness trade-offs across an organism’s life cycle. Potentially to mediate the trade-off between survival and fecundity, multiple animal groups have independently evolved live birth (viviparity), including at least 70 transitions in lizards alone. In lizards, viviparity is thought to evolve as a mechanism to improve embryonic development in cold climates (cold climate hypothesis, or CCH), possibly at the expense of the mother’s survival. Past comparative studies often align with the CCH’s predictions, but they usually treat core features of the hypothesis as implicit and, most importantly, infer process from pattern rather than testing causal mechanisms. To address this, we developed a process-based model that integrates behavior, thermal physiology, life history, and climate to predict optimal gestation length in lizards globally. We generated a comprehensive trait database of 89 lizard populations that vary in parity mode, and we used ecophysiological modelling to test our model’s predictive power. Our model produced accurate predictions, strongly supporting the hypothesis that cold climates favor the evolution of viviparity in lizards and revealing the ecological contexts and underlying mechanisms by which this life history strategy evolves.
+
+
+</details>
+
+
 <font size="4" font color="#5691E8"><b>Metabolic effects of dietary exposure to polystyrene microplastic and nanoplastic in fruit flies</b></font>
-<p><b>Riddell, E.R.</b>, R.M. Sorensen, E. McNeill, B. Jovanović. Journal of Experimental Biology, In press <a href="https://google.com" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.R.</b>, R.M. Sorensen, E. McNeill, B. Jovanović. Journal of Experimental Biology, In press <a href="https://journals.biologists.com/jeb/article/228/19/jeb250522/369508/Metabolic-effects-of-dietary-exposure-to" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
