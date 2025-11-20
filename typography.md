@@ -37,7 +37,7 @@ Life-history traits evolve to optimize fitness trade-offs across an organism’s
 
 
 <font size="4" font color="#5691E8"><b>Metabolic effects of dietary exposure to polystyrene microplastic and nanoplastic in fruit flies</b></font>
-<p><b>Riddell, E.R.</b>, R.M. Sorensen, E. McNeill, B. Jovanović. Journal of Experimental Biology, In press <a href="https://journals.biologists.com/jeb/article/228/19/jeb250522/369508/Metabolic-effects-of-dietary-exposure-to" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.R.</b>, R.M. Sorensen, E. McNeill, B. Jovanović. Journal of Experimental Biology, 228(19):jeb25052 <a href="https://journals.biologists.com/jeb/article/228/19/jeb250522/369508/Metabolic-effects-of-dietary-exposure-to" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
