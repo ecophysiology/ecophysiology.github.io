@@ -45,6 +45,15 @@ Life-history traits evolve to optimize fitness trade-offs across an organism’s
 
 </details>
 
+<font size="4" font color="#5691E8"><b>Identifying the physiological mechanisms that underlie phenotypic responses to rapid environmental change</b></font>
+<p>Heidinger, B.J., J.L. Grindstaff, G.R. Names, J.T. Anderson, G. Brusch IV, L.B. Buckley, A.S. Cicchino, M.W. Kelly, <b>E.R. Riddell</b>, C.C. Taff. Integrative and Comparative Biology, 65(4):1018-1023 <a href="https://academic.oup.com/icb/article-abstract/65/4/1018/8248014" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+In response to rapidly changing environmental conditions, many organisms are experiencing shifts in geographic ranges and in the timing and expression of key life-history traits, which have important effects on fitness. However, the physiological mechanisms that mediate these phenotypic responses, such as endocrine and other signaling pathways are not well understood. This information will be critical for predicting organismal responses to climate change because physiological mechanisms are often highly responsive to environmental cues and influence the phenotypic variation available to selection. Additionally, they often integrate suites of correlated traits and are thus expected to influence the evolutionary response to selection. The overarching goals of this symposium were to gain novel insights into the physiological mechanisms that underlie organismal responses to rapidly changing environmental conditions and to identify gaps in knowledge and experimental approaches to advance the field. Here we review and discuss the symposium contributions and the research themes that emerged as important foci for future studies.
+
+
+</details>
 
 <font size="4" font color="#5691E8"><b>Metabolic effects of dietary exposure to polystyrene microplastic and nanoplastic in fruit flies</b></font>
 <p><b>Riddell, E.R.</b>, R.M. Sorensen, E. McNeill, B. Jovanović. Journal of Experimental Biology, 228(19):jeb25052 <a href="https://journals.biologists.com/jeb/article/228/19/jeb250522/369508/Metabolic-effects-of-dietary-exposure-to" target="_blank">LINK</a> </p>
