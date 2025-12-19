@@ -46,7 +46,7 @@ Life-history traits evolve to optimize fitness trade-offs across an organism’s
 </details>
 
 <font size="4" font color="#5691E8"><b>Identifying the physiological mechanisms that underlie phenotypic responses to rapid environmental change</b></font>
-<p>Heidinger, B.J., J.L. Grindstaff, G.R. Names, J.T. Anderson, G. Brusch IV, L.B. Buckley, A.S. Cicchino, M.W. Kelly, <b>E.R. Riddell</b>, C.C. Taff. Integrative and Comparative Biology, 65(4):1018-1023 <a href="https://academic.oup.com/icb/article-abstract/65/4/1018/8248014" target="_blank">LINK</a> </p>
+<p>Heidinger, B.J., J.L. Grindstaff, G.R. Names, J.T. Anderson, G. Brusch IV, L.B. Buckley, A.S. Cicchino, M.W. Kelly, <b>E.A. Riddell</b>, C.C. Taff. Integrative and Comparative Biology, 65(4):1018-1023 <a href="https://academic.oup.com/icb/article-abstract/65/4/1018/8248014" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
