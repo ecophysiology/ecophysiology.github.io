@@ -6,8 +6,8 @@ main_nav: true
 ---
 
 <figure style="text-align:center;">
-  <img src="/assets/IMG_2118.jpg" alt="Descriptive Alt Text" style="max-width:100%; height:auto;">
-  <figcaption style="font-style:italic; margin-top:10px;">The lab at SICB 2025. From left to right, David Adams, Issi Burger, Eric Riddell, Tamara Tyner-Swanson, and Savannah Weaver.</figcaption>
+  <img src="/assets/IMG_4265.jpeg" alt="Descriptive Alt Text" style="max-width:100%; height:auto;">
+  <figcaption style="font-style:italic; margin-top:10px;">The lab at SICB 2026. From left to right, Sneha Adayapalam (undergraduate), Savannah Weaver, Olivia Gatto (undergraduate), Ellen Keaveney, David Adams, Tamara Tyner-Swanson, Eric Riddell, Issi Burger.</figcaption>
 </figure>
 
 <h1 id="Header">Philosophy on Community</h1>
