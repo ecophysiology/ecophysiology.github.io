@@ -22,6 +22,19 @@ main_nav: true
         margin: 0;
     }
 </style>
+<h1 id="Header">2026</h1>
+
+<font size="4" font color="#5691E8"><b>Geographic divergence in the mechanisms underlying physiological plasticity: Implications for responses to environmental change<img width="468" height="28" alt="image" src="https://github.com/user-attachments/assets/6d2297f6-227b-4a64-8758-e35ce1778cf5" />
+</b></font>
+<p><b>E.A. Riddell</b>. The American Naturalist, In press <a href="google.com" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+Understanding how phenotypic plasticity is generated, whether through shared or divergent molecular mechanisms, is critical for predicting organismal responses to environmental change. Similar phenotypes can arise from different pathways, which may vary in costs, trade-offs, and consequences for performance. This study examined whether physiological plasticity in a woodland salamander (Plethodon metcalfi) was governed by common or distinct gene expression patterns across populations distributed along an elevational gradient. In a laboratory acclimation experiment, I measured plasticity in skin resistance to water loss and metabolic rate and used transcriptomic analyses to identify the underlying molecular mechanisms. Plasticity in skin resistance to water loss did not vary with elevation, yet the expression of molecular pathways associated with this plasticity differed depending on elevational origin. Low-elevation populations also tended to exhibit greater independent regulation of metabolic rate, despite the constraints imposed by the trade-off between metabolic rate and skin resistance. These findings reveal a distinct phenomenon: geographic divergence in plasticity mechanisms, where similar plastic phenotypes emerge from different molecular pathways. Despite being similar in magnitude, plasticity in some populations may be locally adapted through alternative mechanisms that differ in their costs and benefits, complicating our ability to predict responses to environmental change.<img width="468" height="483" alt="image" src="https://github.com/user-attachments/assets/79630c61-3ed3-4faf-8ada-195fbce1de4c" />
+
+
+
+</details>
 
 <h1 id="Header">2025</h1>
 
