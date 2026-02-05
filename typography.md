@@ -24,8 +24,7 @@ main_nav: true
 </style>
 <h1 id="Header">2026</h1>
 
-<font size="4" font color="#5691E8"><b>Geographic divergence in the mechanisms underlying physiological plasticity: Implications for responses to environmental change<img width="468" height="28" alt="image" src="https://github.com/user-attachments/assets/6d2297f6-227b-4a64-8758-e35ce1778cf5" />
-</b></font>
+<font size="4" font color="#5691E8"><b>Geographic divergence in the mechanisms underlying physiological plasticity: Implications for responses to environmental change</b></font>
 <p><b>E.A. Riddell</b>. The American Naturalist, In press <a href="google.com" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
