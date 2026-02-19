@@ -34,9 +34,9 @@ main_nav: true
 
 
 <p><b>Past Lab Members</b></p>
-<p>Braulio Assis, Postdoc, currently at Colorado State as a postdoc</p>
-<p>Cody Porter, Postdoc, faculty at Hope College</p>
-<p>Colton Poore, Masters Student, Communications Specialist at Princeton University</p>
+<p>Braulio Assis (Postdoc) </p>
+<p>Cody Porter (Postdoc), Currently faculty at Hope College</p>
+<p>Colton Poore (Masters Student), Currently Science Communicator at the Alfred P. Sloan Foundation</p>
 
 <h1 id="Header">Joining the lab</h1>
 <p>As a member of the lab, you will have opportunities to gain experience in environmental physiology, functional genomics, and individual-based modeling. Research in the lab generally focuses on amphibians, birds, and small mammals, but we are question-based scientists and open to any system that helps us answer fundamental questions in ecology and evolution using physiological approaches.</p>
