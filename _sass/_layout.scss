@@ -491,3 +491,16 @@ pre code.hljs {
   padding: 0 !important;
   background: transparent !important;
 }
+/* Full-bleed video hero (ignore any theme max-width/padding constraints) */
+.home .site-header-container.has-cover {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+}
+
+/* Ensure the video fills that full-bleed container */
+.home .site-header-container.has-cover video.cover-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
