@@ -17,6 +17,7 @@ html, body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
+	overflow-x: hidden; // prevent horizontal scrollbars (often caused by 100vw)
 }
 
 ol.default {
@@ -241,10 +242,12 @@ pre code.hljs {
 .page-content {
 	// Remove this to make header scrollable again
 	margin-top: 66px;
+
 	.wrapper {
 		@include outer-container;
 		padding: 1em;
 	}
+
 	/*
 	*	index.html
 	*/
@@ -254,7 +257,6 @@ pre code.hljs {
 	}
 	.post-meta {
 		@include outer-container;
-		// padding: 1em 0;
 		color: $medium-gray;
 		.post-date {
 			@include span-columns(6);
@@ -279,10 +281,12 @@ pre code.hljs {
       text-decoration: none;
     }
 	}
+
 	.site-header-container {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.33);
 		background-color: $highlight-color;
+
 		.site-header{
 			.title {
 				font-size: modular-scale(6);
@@ -293,11 +297,13 @@ pre code.hljs {
 			}
 		}
 	}
+
 	img {
 		display: block;
 		margin: auto;
 		width: 90%;
 	}
+
 	/*
 	*	Posts
 	*/
@@ -364,6 +370,7 @@ pre code.hljs {
 			}
 		}
 	}
+
 	/*
 	*	Pages
 	*/
@@ -416,9 +423,8 @@ pre code.hljs {
 	.wrapper {
 		@include outer-container;
 	}
-	.footer-heading {
+	.footer-heading { }
 
-	}
 	/*
 	*	Site Navigation (left)
 	*/
@@ -435,6 +441,7 @@ pre code.hljs {
 			@extend %default-ul;
 		}
 	}
+
 	/*
 	*	Contact Info (center)
 	*/
@@ -459,6 +466,7 @@ pre code.hljs {
 			@extend %default-ul;
 		}
 	}
+
 	/*
 	*	Site Description/Signature (right)
 	*/
@@ -491,7 +499,18 @@ pre code.hljs {
   padding: 0 !important;
   background: transparent !important;
 }
-/* Full-bleed video hero (ignore any theme max-width/padding constraints) */
+
+/* =========================================================
+   HOMEPAGE: FULL-BLEED VIDEO (edge-to-edge)
+   ========================================================= */
+
+/* Remove any left/right padding that can stop true edge-to-edge on home */
+.home .page-content {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* Break the hero out of any centered container */
 .home .site-header-container.has-cover {
   width: 100vw;
   margin-left: calc(50% - 50vw);
