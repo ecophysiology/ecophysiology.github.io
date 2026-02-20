@@ -78,7 +78,7 @@ Understanding how anthropogenic change impacts metabolic physiology is crucial f
 </details>
 
 <font size="4" font color="#5691E8"><b>The wind niche: The thermal and hydric effects of wind speed on terrestrial organisms</b></font>
-<p><b>Riddell, E.R.</b> and <b>C.K. Porter</b>. Integrative and Comparative Biology, icaf025. <a href="https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icaf025/8126092" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.R.</b> and <b>C.K. Porter</b>. Integrative and Comparative Biology, icaf025. <a href="{{ '/assets/ICB_Riddell_and_Porter_2025.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
