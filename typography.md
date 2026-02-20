@@ -68,7 +68,7 @@ In response to rapidly changing environmental conditions, many organisms are exp
 </details>
 
 <font size="4" font color="#5691E8"><b>Metabolic effects of dietary exposure to polystyrene microplastic and nanoplastic in fruit flies</b></font>
-<p><b>Riddell, E.R.</b>, R.M. Sorensen, E. McNeill, B. Jovanović. Journal of Experimental Biology, 228(19):jeb25052 <a href="{{ '/assets/ICB_Laterza-Barbosa_etal_2025.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
+<p><b>Riddell, E.R.</b>, R.M. Sorensen, E. McNeill, B. Jovanović. Journal of Experimental Biology, 228(19):jeb25052 <a href="{{ '/assets/JEB_Riddell_etal_2025.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
