@@ -124,7 +124,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Lack of thermal acclimation in multiple indices of climate vulnerability in bumble bees</b></font>
-<p><b>Poore, C.L. </b>, E.J. Ibarra-Garibay, A.L. Toth, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B, 292:20242216. <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2024.2216?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed" target="_blank">LINK</a> </p>
+<p><b>Poore, C.L. </b>, E.J. Ibarra-Garibay, A.L. Toth, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B, 292:20242216. <a href="{{ '/assets/Proc_B_Poore_et_al_2025.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
