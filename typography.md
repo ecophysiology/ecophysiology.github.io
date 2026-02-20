@@ -38,7 +38,7 @@ Understanding how phenotypic plasticity is generated, whether through shared or 
 <h1 id="Header">2025</h1>
 
 <font size="4" font color="#5691E8"><b>Coincident transitions across elevation and origins of functional innovations drove the phenotypic and ecological diversity of lungless salamanders</b></font>
-<p>Burress, E.D., M.R. Gade, <b>E.A. Riddell</b>, and M.M. Muñoz. Evolution, qpaf253 <a href="https://doi.org/10.1093/evolut/qpaf253" target="_blank">LINK</a> </p>
+<p>Burress, E.D., M.R. Gade, <b>E.A. Riddell</b>, and M.M. Muñoz. Evolution, qpaf253 <a href="{{ '/assets/Evolution_Burress_etal_2025.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -68,7 +68,7 @@ In response to rapidly changing environmental conditions, many organisms are exp
 </details>
 
 <font size="4" font color="#5691E8"><b>Metabolic effects of dietary exposure to polystyrene microplastic and nanoplastic in fruit flies</b></font>
-<p><b>Riddell, E.R.</b>, R.M. Sorensen, E. McNeill, B. Jovanović. Journal of Experimental Biology, 228(19):jeb25052 <a href="https://journals.biologists.com/jeb/article/228/19/jeb250522/369508/Metabolic-effects-of-dietary-exposure-to" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.R.</b>, R.M. Sorensen, E. McNeill, B. Jovanović. Journal of Experimental Biology, 228(19):jeb25052 <a href="{{ '/assets/ICB_Laterza-Barbosa_etal_2025.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
