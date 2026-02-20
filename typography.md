@@ -105,7 +105,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Plastic mechanisms for unraveling a universal trade-off between water loss and respiration</b></font>
-<p><b>Assis, B.</b>, C.K. Ghalambor, <b>E.A. Riddell</b>. Evolution, 79:1073-1085. <a href="https://academic.oup.com/evolut/article/79/6/1073/8082053" target="_blank">LINK</a> </p>
+<p><b>Assis, B.</b>, C.K. Ghalambor, <b>E.A. Riddell</b>. Evolution, 79:1073-1085. <a href="{{ '/assets/Evolution_Assis_et_al_2025.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
