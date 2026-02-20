@@ -87,7 +87,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Genome composition predicts physiological responses to temperature in polyploid salamanders</b></font>
-<p><b>Burger, I.J.</b>, M. Itgen, L. Tan, P. Woodward, L. Rivas-Moreno, T. Hunt, H.R. Ready, X.G.M. Geronimo, R.D. Denton, <b>E.A. Riddell</b>. The American Naturalist, 206(3): 000-000. <a href="https://www.journals.uchicago.edu/doi/10.1086/736728" target="_blank">LINK</a> </p>
+<p><b>Burger, I.J.</b>, M. Itgen, L. Tan, P. Woodward, L. Rivas-Moreno, T. Hunt, H.R. Ready, X.G.M. Geronimo, R.D. Denton, <b>E.A. Riddell</b>. The American Naturalist, 206(3): 000-000. <a href="{{ '/assets/Am_Nat_Burger_et_al_2025.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
