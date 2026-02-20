@@ -5,7 +5,7 @@ permalink: /publications/
 main_nav: true
 ---
 
-<p>Welcome! Below you will find publications from the lab, starting with the most recent work. Note that I have provided a link to the publication at the end of the author list below each publication. I have also bolded any co-authors that were trained as mentees. If you have trouble accessing any of the publications, please feel free to reach out to my e-mail (riddell@unc.edu) to request a copy.</p>
+<p>Welcome! Below you will find publications from the lab, starting with the most recent work. Note that I have provided a link to the publication at the end of the author list below each publication. I have also bolded any co-authors that were trained as mentees. Most publications below are available as PDFs in the embedded links, but if you have trouble accessing any of the publications, please feel free to reach out to my e-mail (riddell@unc.edu) to request a copy.</p>
 
 <style>
     details {
