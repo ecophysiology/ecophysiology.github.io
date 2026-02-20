@@ -135,7 +135,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 <h1 id="Header">2024</h1>
 
 <font size="4" font color="#5691E8"><b>The effects of humidity on thermoregulatory physiology of a small songbird</b></font>
-<p><b>Porter, C.K. </b>, <b>K.M. Cortes</b>, O. Levy, and <b>E.A. Riddell</b>. Journal of Experimental Biology, jeb. 247357. <a href="https://journals.biologists.com/jeb/article/227/13/jeb247357/359637/The-effects-of-humidity-on-thermoregulatory" target="_blank">LINK</a> </p>
+<p><b>Porter, C.K. </b>, <b>K.M. Cortes</b>, O. Levy, and <b>E.A. Riddell</b>. Journal of Experimental Biology, jeb. 247357. <a href="{{ '/assets/JEB_Porter_et_al_2024.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -144,7 +144,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Amphibians exhibit extremely high hydric costs of respiration</b></font>
-<p><b>Riddell, E.A. </b>, <b>I.J. Burger</b>, M.M. Muñoz, <b>S.J. Weaver</b>, M.W. Womack. Integrative and Comparative Biology, 64: 366–376. <a href="https://academic.oup.com/icb/article-abstract/64/2/366/7683269?redirectedFrom=fulltext" target="_blank">LINK</a></p>
+<p><b>Riddell, E.A. </b>, <b>I.J. Burger</b>, M.M. Muñoz, <b>S.J. Weaver</b>, M.W. Womack. Integrative and Comparative Biology, 64: 366–376. <a href="{{ '/assets/ICB_Riddell_et_al_2024.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -153,7 +153,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Assessing hybrid vigor using the thermal sensitivity of physiological trade-offs in tiger salamanders</b></font>
-<p><b>Burger, I.J. </b>, E. Carter, <b>L. Magner</b>, M.M. Muñoz, M.W. Sears, B. Fitzpatrick, and <b>E.A. Riddell</b>. Functional Ecology, 38:143-152. <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14463" target="_blank">LINK</a></p>
+<p><b>Burger, I.J. </b>, E. Carter, <b>L. Magner</b>, M.M. Muñoz, M.W. Sears, B. Fitzpatrick, and <b>E.A. Riddell</b>. Functional Ecology, 38:143-152. <a href="{{ '/assets/Functional_Ecology_Burger_et_al_2024.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
