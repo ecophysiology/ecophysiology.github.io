@@ -537,8 +537,9 @@ pre code.hljs {
   padding: 0 1em;
 }
 
-.home .home-intro .intro-text {
-  flex: 1 1 60%;
+.home .home-intro .intro-text p {
+  font-size: 2rem;     // large, strong statement
+  line-height: 1.5;
 }
 
 .home .home-intro .intro-image {
