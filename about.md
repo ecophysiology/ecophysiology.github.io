@@ -33,7 +33,7 @@ main_nav: true
     <div class="project-body">
       <h2 class="project-title">Amphibian Skin Breathing</h2>
       <p class="project-teaser">
-        We quantify how skin structure, boundary layers, and environment jointly govern oxygen uptake and water loss.
+        We quantify how skin structure and function jointly govern oxygen uptake and water loss.
       </p>
       <div class="tag-row">
         <span class="tag">Cutaneous exchange</span>
@@ -52,7 +52,7 @@ main_nav: true
     <div class="project-body">
       <h2 class="project-title">Desert Tortoise Conservation Physiology</h2>
       <p class="project-teaser">
-        We link heat and hydration physiology with behavior and landscapes to predict persistence in warming deserts.
+        We link heat and hydration physiology with landscapes to predict persistence in warming deserts.
       </p>
       <div class="tag-row">
         <span class="tag">Heat stress</span>
@@ -88,7 +88,7 @@ main_nav: true
       <img src="{{ site.baseurl }}/assets/bombus.jpg" alt="Bumble bee project image">
     </div>
     <div class="project-body">
-      <h2 class="project-title">Bumble Bee Collective Behavior Ecophysiology</h2>
+      <h2 class="project-title">Bumble Bee Collective Acclimation</h2>
       <p class="project-teaser">
         We study how colony-level behavior regulates thermal and energetic conditions that shape resilience to change.
       </p>
@@ -107,9 +107,9 @@ main_nav: true
       <img src="{{ site.baseurl }}/assets/tree_swallow.jpg" alt="Endotherm performance project image">
     </div>
     <div class="project-body">
-      <h2 class="project-title">Endotherm Performance and Climate</h2>
+      <h2 class="project-title">Modeling endotherm Performance </h2>
       <p class="project-teaser">
-        We quantify how wind, heat flux, and water balance shape performance limits and exposure risk in endotherms.
+        We quantify how heat flux shapes performance and exposure to climate change risk in endotherms.
       </p>
       <div class="tag-row">
         <span class="tag">Wind niche</span>
