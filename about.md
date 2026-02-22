@@ -145,7 +145,7 @@ main_nav: true
     position:absolute;
     top:0; left:0;
     width:100%; height:100%;
-    background: linear-gradient(90deg, rgba(0,0,0,0.70) 0%, rgba(0,0,0,0.35) 55%, rgba(0,0,0,0.10) 100%);
+    background: linear-gradient(90deg, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.18) 55%, rgba(0,0,0,0.05) 100%);
   }
   .hero-content{
     position:relative;
