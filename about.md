@@ -9,7 +9,7 @@ main_nav: true
 <section class="hero">
   <!-- Replace src with your video file path -->
   <video class="hero-video" autoplay muted loop playsinline preload="auto">
-    <source src="{{ site.baseurl }}/assets/research-hero.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/assets/research_project.mp4" type="video/mp4">
   </video>
 
   <div class="hero-overlay"></div>
