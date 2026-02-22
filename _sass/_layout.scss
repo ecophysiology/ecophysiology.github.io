@@ -660,3 +660,16 @@ pre code.hljs {
     width: 260px !important;
   }
 }
+@media (max-width: 860px){
+  .person{
+    grid-template-columns: 1fr;
+  }
+
+  .person-body{
+    padding: 0 1.25rem 1.5rem 1.25rem;
+  }
+
+  .person-media img{
+    height: 220px;
+  }
+}
