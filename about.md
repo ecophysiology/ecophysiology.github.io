@@ -28,7 +28,7 @@ main_nav: true
   <!-- 1 -->
   <article class="project" id="skin-breathing">
     <div class="project-media">
-      <img src="{{ site.baseurl }}/assets/projects/skin-breathing.jpg" alt="Amphibian skin breathing project image">
+      <img src="{{ site.baseurl }}/assets/hyla_versicolor.png" alt="Amphibian skin breathing project image">
     </div>
     <div class="project-body">
       <h2 class="project-title">Amphibian Skin Breathing</h2>
@@ -47,7 +47,7 @@ main_nav: true
   <!-- 2 -->
   <article class="project project--reverse" id="tortoise">
     <div class="project-media">
-      <img src="{{ site.baseurl }}/assets/projects/tortoise.jpg" alt="Desert tortoise project image">
+      <img src="{{ site.baseurl }}/assets/desert_tortoise.webp" alt="Desert tortoise project image">
     </div>
     <div class="project-body">
       <h2 class="project-title">Desert Tortoise Conservation Physiology</h2>
@@ -66,7 +66,7 @@ main_nav: true
   <!-- 3 -->
   <article class="project" id="salamanders">
     <div class="project-media">
-      <img src="{{ site.baseurl }}/assets/projects/woodland-salamander.jpg" alt="Woodland salamander project image">
+      <img src="{{ site.baseurl }}/assets/plethodon.jpeg" alt="Woodland salamander project image">
     </div>
     <div class="project-body">
       <h2 class="project-title">Woodland Salamander Ecophysiology</h2>
@@ -85,7 +85,7 @@ main_nav: true
   <!-- 4 -->
   <article class="project project--reverse" id="bumblebees">
     <div class="project-media">
-      <img src="{{ site.baseurl }}/assets/projects/bumblebee.jpg" alt="Bumble bee project image">
+      <img src="{{ site.baseurl }}/assets/bombus.jpg" alt="Bumble bee project image">
     </div>
     <div class="project-body">
       <h2 class="project-title">Bumble Bee Collective Behavior Ecophysiology</h2>
@@ -104,7 +104,7 @@ main_nav: true
   <!-- 5 -->
   <article class="project" id="endotherms">
     <div class="project-media">
-      <img src="{{ site.baseurl }}/assets/projects/endotherm.jpg" alt="Endotherm performance project image">
+      <img src="{{ site.baseurl }}/assets/tree_swallow.jpg" alt="Endotherm performance project image">
     </div>
     <div class="project-body">
       <h2 class="project-title">Endotherm Performance and Climate</h2>
