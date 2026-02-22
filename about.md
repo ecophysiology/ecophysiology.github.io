@@ -195,11 +195,16 @@ main_nav: true
   .project--reverse .project-media{ order: 2; }
   .project--reverse .project-body{ order: 1; }
 
+  .project-media{
+    padding: 1rem;
+  }
+
   .project-media img{
     width:100%;
-    height: 320px;
+    height:320px;
     object-fit: cover;
     display:block;
+    border-radius: 14px;
   }
   .project-body{
     padding: 1.5rem 1.5rem;
