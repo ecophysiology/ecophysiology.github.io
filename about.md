@@ -236,6 +236,9 @@ main_nav: true
     border-bottom: 2px solid rgba(86,145,232,0.35);
     padding-bottom: 2px;
   }
+  .page-title {
+    display: none;
+  }
 
   /* RESPONSIVE */
   @media (max-width: 860px){
