@@ -148,10 +148,11 @@ main_nav: true
     background: linear-gradient(90deg, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.18) 55%, rgba(0,0,0,0.05) 100%);
   }
   .hero-content{
-    position:relative;
+    position:absolute;
+    bottom: 3rem;     /* controls vertical position */
+    left: 3rem;       /* controls horizontal position */
     z-index:2;
-    padding: clamp(2rem, 4vw, 3.5rem);
-    max-width: 960px;
+    max-width: 700px;
   }
   .hero-title{
     font-size: clamp(2.2rem, 4vw, 3.2rem);
