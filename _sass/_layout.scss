@@ -622,6 +622,27 @@ pre code.hljs {
   border-bottom-left-radius: 6px;
   border-bottom-right-radius: 6px;
 }
+/* =========================================================
+   HOMEPAGE: FIELD DEFINITION (Ecophysiology block)
+   ========================================================= */
+
+.home .field-definition {
+  margin-bottom: 1.75rem;
+}
+
+.home .field-title {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+  letter-spacing: -0.01em;
+}
+
+.home .field-definition-text {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: $medium-gray;
+  margin: 0;
+}
 
 /* Responsive stacking */
 @media (max-width: 900px) {
