@@ -17,16 +17,8 @@ main_nav: true
   <div class="hero-content">
     <h1 class="hero-title">Research Projects</h1>
     <p class="hero-subtitle">
-      We blend experimental physiology with simulation-based models to identify the physiological and ecological
-      mechanisms that shape species’ distributions, extinction risk, and responses to environmental change.
+      We use physiology and models to predict how animals respond to environmental change.
     </p>
-
-    <div class="hero-chips">
-      <span class="chip">Physiology</span>
-      <span class="chip">Biophysics</span>
-      <span class="chip">Functional Genomics</span>
-      <span class="chip">Simulation Models</span>
-    </div>
   </div>
 </section>
 
