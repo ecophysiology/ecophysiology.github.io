@@ -5,41 +5,250 @@ permalink: /research/
 main_nav: true
 ---
 
-<img src="{{ site.baseurl }}/assets/summary_v2-01.png" alt="Profile Picture" style="width:1200px; height:auto;">
+<!-- HERO VIDEO -->
+<section class="hero">
+  <!-- Replace src with your video file path -->
+  <video class="hero-video" autoplay muted loop playsinline preload="auto">
+    <source src="{{ site.baseurl }}/assets/research-hero.mp4" type="video/mp4">
+  </video>
 
-We study organisms to understand (1) the mechanistic underpinnings of the niche, (2) the processes that drive climate vulnerability, and (3) the interactions between the genome and phenome that determine fitness.
+  <div class="hero-overlay"></div>
 
-I combine physiological experiments on animals with simulation-based models to explore the ecological and evolutionary consequences of variation in physiology across landscapes and through time. At the molecular level, I use functional genomics to understand relationship between genes and organismal responses to environmental change. Together, these approaches provide an integrative understanding of biological systems, from genes to geography. Read more by clicking on a discipline!
+  <div class="hero-content">
+    <h1 class="hero-title">Research Projects</h1>
+    <p class="hero-subtitle">
+      We blend experimental physiology with simulation-based models to identify the physiological and ecological
+      mechanisms that shape species’ distributions, extinction risk, and responses to environmental change.
+    </p>
 
-<h1 id="Header">Physiology</h1>
+    <div class="hero-chips">
+      <span class="chip">Physiology</span>
+      <span class="chip">Biophysics</span>
+      <span class="chip">Functional Genomics</span>
+      <span class="chip">Simulation Models</span>
+    </div>
+  </div>
+</section>
 
-<p><b>How does physiology vary across space?</b></p>
-​Animals can adjust physiological traits in ways that helps them live in different environments. My research explores the potential for animals to adapt or acclimate to stressful environments by adjusting physiological traits. My research has found that salamanders from lower elevations can exhibit lower water loss rates possible to minimize the risk of rapid dehydrating.
+<!-- PROJECTS -->
+<section class="projects">
 
-<p><b>How does physiology vary seasonally?</b></p>
-Animals in temperate climates experience a wide range of climatic conditions throughout the year. These dramatic environmental changes require equally dramatic changes in physiology, all else equal. I am working with Blair Wolf to understand how desert mammals adjust metabolic rates, water loss rates, and body temperature in response to seasonal changes in climate.
+  <!-- 1 -->
+  <article class="project" id="skin-breathing">
+    <div class="project-media">
+      <img src="{{ site.baseurl }}/assets/projects/skin-breathing.jpg" alt="Amphibian skin breathing project image">
+    </div>
+    <div class="project-body">
+      <h2 class="project-title">Amphibian Skin Breathing</h2>
+      <p class="project-teaser">
+        We quantify how skin structure, boundary layers, and environment jointly govern oxygen uptake and water loss.
+      </p>
+      <div class="tag-row">
+        <span class="tag">Cutaneous exchange</span>
+        <span class="tag">Water balance</span>
+        <span class="tag">Boundary layers</span>
+      </div>
+      <a class="project-link" href="{{ site.baseurl }}/research/skin-breathing/">Explore →</a>
+    </div>
+  </article>
 
-<p><b>What factors influence rates of water loss?</b></p>
-Water is essential for life. Animals that lose water too quickly risk rapidly dehydrating or limit the amount of time they can be active. The physiology of water loss, however, is very complex. Body size, boundary layers, humidity, and windspeed all play critical roles in determining how quickly animals lose water. A major goal of my research program is to improve the field of water loss physiology using experimental techniques and biophysical modeling.
+  <!-- 2 -->
+  <article class="project project--reverse" id="tortoise">
+    <div class="project-media">
+      <img src="{{ site.baseurl }}/assets/projects/tortoise.jpg" alt="Desert tortoise project image">
+    </div>
+    <div class="project-body">
+      <h2 class="project-title">Desert Tortoise Conservation Physiology</h2>
+      <p class="project-teaser">
+        We link heat and hydration physiology with behavior and landscapes to predict persistence in warming deserts.
+      </p>
+      <div class="tag-row">
+        <span class="tag">Heat stress</span>
+        <span class="tag">Hydration</span>
+        <span class="tag">Persistence forecasting</span>
+      </div>
+      <a class="project-link" href="{{ site.baseurl }}/research/tortoise/">Explore →</a>
+    </div>
+  </article>
 
-<h1 id="Header">Ecology</h1>
+  <!-- 3 -->
+  <article class="project" id="salamanders">
+    <div class="project-media">
+      <img src="{{ site.baseurl }}/assets/projects/woodland-salamander.jpg" alt="Woodland salamander project image">
+    </div>
+    <div class="project-body">
+      <h2 class="project-title">Woodland Salamander Ecophysiology</h2>
+      <p class="project-teaser">
+        We connect microclimate, performance, and physiology across landscapes to understand range limits and risk.
+      </p>
+      <div class="tag-row">
+        <span class="tag">Microclimate</span>
+        <span class="tag">Performance</span>
+        <span class="tag">Range limits</span>
+      </div>
+      <a class="project-link" href="{{ site.baseurl }}/research/salamanders/">Explore →</a>
+    </div>
+  </article>
 
-<p><b>How does physiology determine a species' range?</b></p>
-A fundamental problem in ecology is to explain the uneven distribution of a species across space. My research blends physiology and biophysics in simulation-based models to identify the mechanisms that determine a species geographic range. I have used physiological simulations to identify the importance of water loss physiology in structuring the geographic range of salamanders. My research has found that salamanders exhibit ecologically relevant resistance to water loss that helps to predict where salamanders can live across the Appalachian landscape.
+  <!-- 4 -->
+  <article class="project project--reverse" id="bumblebees">
+    <div class="project-media">
+      <img src="{{ site.baseurl }}/assets/projects/bumblebee.jpg" alt="Bumble bee project image">
+    </div>
+    <div class="project-body">
+      <h2 class="project-title">Bumble Bee Collective Behavior Ecophysiology</h2>
+      <p class="project-teaser">
+        We study how colony-level behavior regulates thermal and energetic conditions that shape resilience to change.
+      </p>
+      <div class="tag-row">
+        <span class="tag">Collective behavior</span>
+        <span class="tag">Nest thermoregulation</span>
+        <span class="tag">Energetics</span>
+      </div>
+      <a class="project-link" href="{{ site.baseurl }}/research/bumblebees/">Explore →</a>
+    </div>
+  </article>
 
-<p><b>How does physiology influence climate vulnerability?</b></p>
-Extinction rates are predicted to accelerate over the next century due to human-caused climate change. My research program focuses on the physiological and behavioral traits that are necessary to predict extinction risk under climate change. To answer these questions, I combine experimental data with computer simulations of warming to understand how animals might deal with warming climates in the future. Salamanders, for instance, exhibit remarkable physiological plasticity that increases their resistance to extinction.
+  <!-- 5 -->
+  <article class="project" id="endotherms">
+    <div class="project-media">
+      <img src="{{ site.baseurl }}/assets/projects/endotherm.jpg" alt="Endotherm performance project image">
+    </div>
+    <div class="project-body">
+      <h2 class="project-title">Endotherm Performance and Climate</h2>
+      <p class="project-teaser">
+        We quantify how wind, heat flux, and water balance shape performance limits and exposure risk in endotherms.
+      </p>
+      <div class="tag-row">
+        <span class="tag">Wind niche</span>
+        <span class="tag">Heat flux</span>
+        <span class="tag">Performance limits</span>
+      </div>
+      <a class="project-link" href="{{ site.baseurl }}/research/endotherms/">Explore →</a>
+    </div>
+  </article>
 
-<p><b>How does heat and mass flow between an animal and their environment?</b></p>
-Animal are in a constant state of energy flux with their environment. Whether it is heat, mass, or water, the exchange of these different forms of energy requires certain physiological and behavioral adjustments to maintain a state of balance. My research uses computer simulations to generate predictions on the physiological and behavioral responses to their environment using thermodynamic and biophysical theory. These simulations are a powerful tool to understand the impact of climate change on animals.
+</section>
 
-<h1 id="Header">Evolution</h1>
+<!-- STYLES (keep here for now; later we can move to your SCSS) -->
+<style>
+  /* HERO */
+  .hero{
+    position:relative;
+    width:100%;
+    min-height: 520px;
+    border-radius: 18px;
+    overflow:hidden;
+    margin: 0 0 2.5rem 0;
+  }
+  .hero-video{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    position:absolute;
+    top:0; left:0;
+    transform: scale(1.02);
+  }
+  .hero-overlay{
+    position:absolute;
+    top:0; left:0;
+    width:100%; height:100%;
+    background: linear-gradient(90deg, rgba(0,0,0,0.70) 0%, rgba(0,0,0,0.35) 55%, rgba(0,0,0,0.10) 100%);
+  }
+  .hero-content{
+    position:relative;
+    z-index:2;
+    padding: clamp(2rem, 4vw, 3.5rem);
+    max-width: 960px;
+  }
+  .hero-title{
+    font-size: clamp(2.2rem, 4vw, 3.2rem);
+    line-height: 1.05;
+    margin: 0 0 0.75rem 0;
+    color: #fff;
+    letter-spacing: -0.02em;
+  }
+  .hero-subtitle{
+    margin: 0 0 1.25rem 0;
+    color: rgba(255,255,255,0.88);
+    font-size: 1.12rem;
+    line-height: 1.55;
+    max-width: 62ch;
+  }
+  .hero-chips{ display:flex; gap: 10px; flex-wrap: wrap; }
+  .chip{
+    color: rgba(255,255,255,0.92);
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.18);
+    padding: 0.45rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.9rem;
+    backdrop-filter: blur(6px);
+  }
 
-<p><b>How does selection favor environmental cues?</b></p>
-Organisms rely upon external cues to avoid detrimental conditions during environmental change. Cues facilitate phenotypic changes by stimulating gene expression to regulate fitness-related traits. In turn, the response helps to avoid conditions that threaten survival. These environmentally-mediated responses are a widespread strategy among organisms termed phenotypic plasticity. My research has shown that temperature is an important cue for developing a desiccation-resistant phenotype.
+  /* PROJECTS */
+  .projects{ display: grid; gap: 1.25rem; margin-top: 1rem; }
+  .project{
+    display:grid;
+    grid-template-columns: 1.15fr 1fr;
+    gap: 1.2rem;
+    align-items: center;
+    background: #fff;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 18px;
+    overflow:hidden;
+    box-shadow: 0 6px 22px rgba(0,0,0,0.06);
+  }
+  .project--reverse{ grid-template-columns: 1fr 1.15fr; }
+  .project--reverse .project-media{ order: 2; }
+  .project--reverse .project-body{ order: 1; }
 
-<p><b>How do physiological trade-offs constrain evolution?</b></p>
-Reversible acclimation increases resilience to environmental stress, but acclimation may have hidden costs due to underlying links between related physiological traits. Interactions between physiological traits might result in trade-offs that undermine whole-organism performance and constrain phenotypic evolution. My research has found that trade-offs between water loss and metabolism structures whole-organism strategies for responding to environmental stressors and constrains phenotypic variation.
+  .project-media img{
+    width:100%;
+    height: 320px;
+    object-fit: cover;
+    display:block;
+  }
+  .project-body{
+    padding: 1.5rem 1.5rem;
+  }
+  .project-title{
+    margin: 0 0 0.55rem 0;
+    font-size: 1.65rem;
+    letter-spacing: -0.01em;
+  }
+  .project-teaser{
+    margin: 0 0 0.9rem 0;
+    color: rgba(0,0,0,0.72);
+    line-height: 1.55;
+    max-width: 62ch;
+  }
+  .tag-row{ display:flex; gap: 8px; flex-wrap: wrap; margin-bottom: 0.9rem; }
+  .tag{
+    font-size: 0.86rem;
+    color: rgba(0,0,0,0.70);
+    background: rgba(0,0,0,0.04);
+    border: 1px solid rgba(0,0,0,0.06);
+    padding: 0.35rem 0.6rem;
+    border-radius: 999px;
+  }
+  .project-link{
+    display:inline-block;
+    text-decoration:none;
+    font-weight: 600;
+    border-bottom: 2px solid rgba(86,145,232,0.35);
+    padding-bottom: 2px;
+  }
 
-<p><b>How conserved are mechanisms for regulating water loss physiology?</b></p>
-In terrestrial salamanders, gene expression analyses consistently identify regulation of stem cell differentiation and embryonic development of vasculature underlying plasticity in water loss physiology. The temperature-sensitive blood vessel development suggests that salamanders regulate water loss through the regression and regeneration of capillary beds in the skin, indicating that tissue regeneration may be used for physiological purposes beyond replacing lost limbs. My research will focus on understanding these mechanisms further and how conserved they are across amphibians.
+  /* RESPONSIVE */
+  @media (max-width: 860px){
+    .project, .project--reverse{
+      grid-template-columns: 1fr;
+    }
+    .project--reverse .project-media,
+    .project--reverse .project-body{
+      order: unset;
+    }
+    .project-media img{ height: 260px; }
+  }
+</style>
