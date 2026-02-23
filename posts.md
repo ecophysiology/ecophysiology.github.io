@@ -58,7 +58,7 @@ main_nav: true
     <article class="person" id="issi-burger">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/issi_burger.avif" alt="Issi Burger">
+        <img src="{{ site.baseurl }}/assets/issi_burger.jpg" alt="Issi Burger">
       </div>
       <div class="person-body">
         <h3 class="person-name">Issi Burger <span class="person-role">PhD Candidate</span></h3>
