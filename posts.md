@@ -189,6 +189,15 @@ main_nav: true
     overflow:hidden;
     margin: 0 0 2.5rem 0;
   }
+  .hero--video{ min-height: 520px; }
+  .hero-video{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    position:absolute;
+    inset:0;
+    transform: scale(1.02);
+  }
   .hero--photo{ min-height: 520px; }
   .hero-photo{
     width:100%;
