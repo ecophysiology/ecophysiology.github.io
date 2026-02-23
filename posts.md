@@ -5,9 +5,12 @@ permalink: /ourlab/
 main_nav: true
 ---
 
-<!-- HERO IMAGE -->
-<section class="hero hero--photo">
-  <img class="hero-photo" src="{{ site.baseurl }}/assets/IMG_4265.jpeg" alt="The lab at SICB 2026">
+<!-- HERO VIDEO -->
+<section class="hero hero--video">
+  <video class="hero-video" autoplay muted loop playsinline preload="auto">
+    <source src="{{ site.baseurl }}/assets/ourlab.mp4" type="video/mp4">
+  </video>
+
   <div class="hero-overlay"></div>
 
   <div class="hero-content">
