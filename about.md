@@ -33,12 +33,12 @@ main_nav: true
     <div class="project-body">
       <h2 class="project-title">Amphibian Skin Breathing</h2>
       <p class="project-teaser">
-        We quantify how skin structure and function jointly govern oxygen uptake and water loss.
+        We study how skin structure and function jointly govern oxygen uptake and water loss.
       </p>
       <div class="tag-row">
-        <span class="tag">Cutaneous exchange</span>
+        <span class="tag">Cutaneous respiration</span>
         <span class="tag">Water balance</span>
-        <span class="tag">Boundary layers</span>
+        <span class="tag">Respirometry</span>
       </div>
       <a class="project-link" href="{{ site.baseurl }}/research/skin-breathing/">Explore →</a>
     </div>
@@ -57,7 +57,7 @@ main_nav: true
       <div class="tag-row">
         <span class="tag">Heat stress</span>
         <span class="tag">Hydration</span>
-        <span class="tag">Persistence forecasting</span>
+        <span class="tag">Mechanistic Niche Modeling</span>
       </div>
       <a class="project-link" href="{{ site.baseurl }}/research/tortoise/">Explore →</a>
     </div>
@@ -71,7 +71,7 @@ main_nav: true
     <div class="project-body">
       <h2 class="project-title">Woodland Salamander Ecophysiology</h2>
       <p class="project-teaser">
-        We connect microclimate, performance, and physiology across landscapes to understand range limits and risk.
+        We connect microclimate, performance, and physiology across landscapes to understand range limits and extinction risk.
       </p>
       <div class="tag-row">
         <span class="tag">Microclimate</span>
@@ -90,7 +90,7 @@ main_nav: true
     <div class="project-body">
       <h2 class="project-title">Bumble Bee Collective Acclimation</h2>
       <p class="project-teaser">
-        We study how colony-level behavior regulates thermal and energetic conditions that shape resilience to change.
+        We study how colony-level behavior regulates thermal and energetic conditions that shape resilience to climate change.
       </p>
       <div class="tag-row">
         <span class="tag">Collective behavior</span>
@@ -112,9 +112,9 @@ main_nav: true
         We quantify how heat flux shapes performance and exposure to climate change risk in endotherms.
       </p>
       <div class="tag-row">
-        <span class="tag">Wind niche</span>
         <span class="tag">Heat flux</span>
-        <span class="tag">Performance limits</span>
+        <span class="tag">Performance curves</span>
+        <span class="tag">Species Distribution Modeling</span>
       </div>
       <a class="project-link" href="{{ site.baseurl }}/research/endotherms/">Explore →</a>
     </div>
