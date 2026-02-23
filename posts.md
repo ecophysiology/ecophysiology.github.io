@@ -15,11 +15,6 @@ main_nav: true
 
   <div class="hero-content">
     <h1 class="hero-title">Our Lab</h1>
-    <p class="hero-subtitle">Ecophysiology and Global Change Biology</p>
-    <p class="hero-caption">
-      The lab at SICB 2026. From left to right, Sneha Adayapalam (undergraduate), Savannah Weaver, Olivia Gatto (undergraduate),
-      Ellen Keaveney, David Adams, Tamara Tyner-Swanson, Eric Riddell, Issi Burger.
-    </p>
   </div>
 </section>
 
