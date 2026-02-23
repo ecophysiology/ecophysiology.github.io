@@ -103,7 +103,7 @@ main_nav: true
     <article class="person" id="david-adams">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/david_adams.avif" alt="David Adams">
+        <img src="{{ site.baseurl }}/assets/david_adams.jpeg" alt="David Adams">
       </div>
       <div class="person-body">
         <h3 class="person-name">David Adams <span class="person-role">PhD Student</span></h3>
