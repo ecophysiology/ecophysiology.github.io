@@ -30,7 +30,7 @@ main_nav: true
     <article class="person" id="eric-riddell">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/people/eric_riddell.jpg" alt="Eric Riddell">
+        <img src="{{ site.baseurl }}/assets/eric_riddell.jpg" alt="Eric Riddell">
       </div>
       <div class="person-body">
         <h3 class="person-name">Eric Riddell <span class="person-role">Principal Investigator</span></h3>
@@ -45,7 +45,7 @@ main_nav: true
     <article class="person" id="ellen-keaveny">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/people/ellen_keaveny.jpg" alt="Ellen Keaveny">
+        <img src="{{ site.baseurl }}/assets/ellen_keaveny.jpg" alt="Ellen Keaveny">
       </div>
       <div class="person-body">
         <h3 class="person-name">Ellen Keaveny <span class="person-role">Postdoc</span></h3>
@@ -60,7 +60,7 @@ main_nav: true
     <article class="person" id="issi-burger">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/people/issi_burger.jpg" alt="Issi Burger">
+        <img src="{{ site.baseurl }}/assets/issi_burger.jpg" alt="Issi Burger">
       </div>
       <div class="person-body">
         <h3 class="person-name">Issi Burger <span class="person-role">PhD Candidate</span></h3>
@@ -75,7 +75,7 @@ main_nav: true
     <article class="person" id="tamara-tyner">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/people/tamara_tyner.jpg" alt="Tamara Tyner">
+        <img src="{{ site.baseurl }}/assets/tamara_tyner.jpg" alt="Tamara Tyner">
       </div>
       <div class="person-body">
         <h3 class="person-name">Tamara Tyner <span class="person-role">PhD Candidate</span></h3>
@@ -90,7 +90,7 @@ main_nav: true
     <article class="person" id="savannah-weaver">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/people/savannah_weaver.jpg" alt="Savannah Weaver">
+        <img src="{{ site.baseurl }}/assets/savannah_weaver.jpg" alt="Savannah Weaver">
       </div>
       <div class="person-body">
         <h3 class="person-name">Savannah Weaver <span class="person-role">PhD Student</span></h3>
@@ -105,7 +105,7 @@ main_nav: true
     <article class="person" id="david-adams">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/people/david_adams.jpg" alt="David Adams">
+        <img src="{{ site.baseurl }}/assets/david_adams.jpg" alt="David Adams">
       </div>
       <div class="person-body">
         <h3 class="person-name">David Adams <span class="person-role">PhD Student</span></h3>
