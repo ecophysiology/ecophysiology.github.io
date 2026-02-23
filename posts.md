@@ -28,7 +28,7 @@ main_nav: true
     <article class="person" id="eric-riddell">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/eric_riddell.jpg" alt="Eric Riddell">
+        <img src="{{ site.baseurl }}/assets/eric_riddell.avif" alt="Eric Riddell">
       </div>
       <div class="person-body">
         <h3 class="person-name">Eric Riddell <span class="person-role">Principal Investigator</span></h3>
@@ -58,7 +58,7 @@ main_nav: true
     <article class="person" id="issi-burger">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/issi_burger.jpg" alt="Issi Burger">
+        <img src="{{ site.baseurl }}/assets/issi_burger.avif" alt="Issi Burger">
       </div>
       <div class="person-body">
         <h3 class="person-name">Issi Burger <span class="person-role">PhD Candidate</span></h3>
@@ -73,10 +73,10 @@ main_nav: true
     <article class="person" id="tamara-tyner">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/tamara_tyner.jpg" alt="Tamara Tyner">
+        <img src="{{ site.baseurl }}/assets/tamara_tyner.avif" alt="Tamara Tyner">
       </div>
       <div class="person-body">
-        <h3 class="person-name">Tamara Tyner <span class="person-role">PhD Candidate</span></h3>
+        <h3 class="person-name">Tamara Tyner-Swanson <span class="person-role">PhD Candidate</span></h3>
         <p class="person-contact"><a href="mailto:tltyner@iastate.edu">tltyner@iastate.edu</a></p>
         <p class="person-bio">
           My name is Tamara and I am joining the Ecophysiology Lab after studying and working as a Forensic Anthropologist for the past few years. Before my anthropology days, I studied organismal biology and stable isotopes in aquatic food webs at the University of Kansas. I'm very excited to return to bio and explore the physiology of bumble bees! Outside of researching, I enjoy cooking, gardening, and any sort of adventure I can jump into with friends and family.
@@ -88,7 +88,7 @@ main_nav: true
     <article class="person" id="savannah-weaver">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/savannah_weaver.jpg" alt="Savannah Weaver">
+        <img src="{{ site.baseurl }}/assets/savannah_weaver.avif" alt="Savannah Weaver">
       </div>
       <div class="person-body">
         <h3 class="person-name">Savannah Weaver <span class="person-role">PhD Student</span></h3>
@@ -103,7 +103,7 @@ main_nav: true
     <article class="person" id="david-adams">
       <div class="person-media">
         <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/david_adams.jpg" alt="David Adams">
+        <img src="{{ site.baseurl }}/assets/david_adams.avif" alt="David Adams">
       </div>
       <div class="person-body">
         <h3 class="person-name">David Adams <span class="person-role">PhD Student</span></h3>
