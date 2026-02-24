@@ -65,7 +65,7 @@ permalink: /research/skin-breathing/
         <div class="fig-label">Figure 2</div>
       </div>
       <div class="panel-text">
-        <h2>Structure: histology and morphometrics</h2>
+        <h2>Skin structure</h2>
         <p>
           We use histology to characterize skin structure to connect morphology to physiology.
           Depending on the question, this can include epidermal thickness, gland densities,
@@ -76,7 +76,7 @@ permalink: /research/skin-breathing/
           <div class="callout-title">What we measure</div>
           <p>
             Thickness, layer organization, surface complexity, and features associated with
-            permeability and hydration — summarized into interpretable traits.
+            permeability and hydration.
           </p>
         </div>
       </div>
