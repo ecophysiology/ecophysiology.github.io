@@ -165,10 +165,8 @@ permalink: /research/skin-breathing/
   .proj-hero{
     position:relative;
     width:100%;
-    min-height: 520px;
-    border-radius: 18px;
+    min-height:520px; /* or use aspect-ratio instead */
     overflow:hidden;
-    margin: 0 0 2.5rem 0;
   }
   .proj-hero-image{
     position:absolute;
