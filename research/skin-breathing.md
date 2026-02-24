@@ -4,17 +4,18 @@ title: "Amphibian Skin Breathing"
 permalink: /research/skin-breathing/
 ---
 
-<!-- HERO VIDEO (optional) -->
+<!-- HERO IMAGE -->
 <section class="proj-hero">
-  <video class="proj-hero-video" autoplay muted loop playsinline preload="metadata">
-    <source src="{{ site.baseurl }}/assets/skin_breathing.mp4" type="video/mp4">
-  </video>
+  <img class="proj-hero-image"
+       src="{{ site.baseurl }}/assets/hyla_versicolor.png"
+       alt="Hyla cinerea">
+
   <div class="proj-hero-overlay"></div>
 
   <div class="proj-hero-content">
     <h1 class="proj-hero-title">Amphibian Skin Breathing</h1>
     <p class="proj-hero-subtitle">
-      Linking skin structure (histology) to skin function: oxygen uptake and water-loss resistance.
+      Linking skin structure to function
     </p>
   </div>
 </section>
