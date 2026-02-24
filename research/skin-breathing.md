@@ -82,27 +82,28 @@ permalink: /research/skin-breathing/
       </div>
     </article>
 
-    <!-- PANEL 3 -->
-    <article class="panel">
-      <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/fig_flux_cartoon.png" alt="Cartoon showing oxygen flux in and water flux out">
-        <div class="fig-label">Figure 3</div>
-      </div>
-      <div class="panel-text">
-        <h2>Function: oxygen uptake and water-loss physiology</h2>
-        <p>
-          We measure physiological performance of the skin as a transport surface:
-          <b>how effectively oxygen is absorbed</b> and <b>how rapidly water is lost</b>
-          under controlled environmental conditions.
-        </p>
+  <!-- PANEL 3 -->
+  <article class="panel">
+    <div class="panel-figure">
+      <img src="{{ site.baseurl }}/assets/phylogeny.png" alt="Cartoon phylogeny with frog species at the tips">
+      <div class="fig-label">Figure 3</div>
+    </div>
 
-        <ul class="key-points">
-          <li><b>Oxygen:</b> skin-driven uptake under standardized flow / boundary conditions</li>
-          <li><b>Water:</b> evaporative water loss rates and resistance metrics</li>
-          <li><b>Environment:</b> temperature, humidity, airflow, and hydration state</li>
-        </ul>
-      </div>
-    </article>
+    <div class="panel-text">
+      <h2>Comparative approach: linking traits to evolution</h2>
+      <p>
+        We use the <b>comparative (phylogenetic) method</b> to ask how skin structure and environment
+        shape skin breathing across species. By combining trait data with evolutionary relationships,
+        we can test whether changes in skin anatomy predict differences in oxygen uptake and dehydration risk.
+      </p>
+
+      <ul class="key-points">
+        <li><b>Across species:</b> quantify skin traits and flux performance in multiple lineages</li>
+        <li><b>Phylogeny-aware tests:</b> account for shared ancestry when estimating trait–function links</li>
+        <li><b>Inference:</b> identify repeated evolutionary shifts that point to mechanism, not coincidence</li>
+      </ul>
+    </div>
+  </article>
 
     <!-- PANEL 4 -->
     <article class="panel panel--reverse">
