@@ -43,16 +43,16 @@ permalink: /research/skin-breathing/
         <div class="fig-label">Figure 1</div>
       </div>
       <div class="panel-text">
-        <h2>Skin as a multi-functional barrier</h2>
+        <h2>Skin as a barrier</h2>
         <p>
           Amphibian skin must do two things that often work against each other:
           <b>let oxygen diffuse inward</b> while <b>slowing water loss outward</b>.
-          We treat the skin as a layered transport system with structure that can be quantified.
+          This produces a fundamental trade-off between breathing and hydration.
         </p>
 
         <ul class="key-points">
-          <li><b>Oxygen uptake:</b> diffusion through hydrated tissue and boundary layers</li>
-          <li><b>Water balance:</b> evaporation + permeability set dehydration rate</li>
+          <li><b>Oxygen uptake:</b> the absorption of oxygen across respiratory tissue</li>
+          <li><b>Water balance:</b> evaporative demand + skin permeability determine the water loss rate </li>
           <li><b>Trade-offs:</b> traits that help one function can constrain the other</li>
         </ul>
       </div>
@@ -61,15 +61,15 @@ permalink: /research/skin-breathing/
     <!-- PANEL 2 -->
     <article class="panel panel--reverse">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/fig_histology_cartoon.png" alt="Cartoon of histology workflow and measurements">
+        <img src="{{ site.baseurl }}/assets/histology.png" alt="Cartoon of histology workflow and measurements">
         <div class="fig-label">Figure 2</div>
       </div>
       <div class="panel-text">
         <h2>Structure: histology and morphometrics</h2>
         <p>
-          We quantify skin microstructure using histology to connect anatomy to transport.
-          Depending on the system, this can include epidermal thickness, gland densities,
-          keratinization, capillary proximity, and other features that influence diffusion and resistance.
+          We use histology to characterize skin structure to connect morphology to physiology.
+          Depending on the question, this can include epidermal thickness, gland densities,
+          capillary density, and other features that influence diffusion and resistance.
         </p>
 
         <div class="callout">
