@@ -26,8 +26,8 @@ permalink: /research/skin-breathing/
   <!-- ONE-LINER -->
   <div class="proj-lede">
     <p>
-      Frogs and salamanders rely on their skin as a living interface with the environment.
-      We study how microscopic structure and physiological function interact to shape
+      Frogs and salamanders rely on their skin to breathe.
+      We study how skin structure and physiology interact to shape
       oxygen absorption and dehydration risk.
     </p>
   </div>
@@ -39,7 +39,7 @@ permalink: /research/skin-breathing/
     <article class="panel">
       <div class="panel-figure">
         <!-- “cartoon” illustration -->
-        <img src="{{ site.baseurl }}/assets/fig_skin_layers_cartoon.png" alt="Cartoon schematic of frog skin layers">
+        <img src="{{ site.baseurl }}/assets/frog_breathing.png" alt="Flow of oxygen, carbon dioxide, and water">
         <div class="fig-label">Figure 1</div>
       </div>
       <div class="panel-text">
