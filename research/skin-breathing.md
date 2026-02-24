@@ -170,19 +170,24 @@ permalink: /research/skin-breathing/
     overflow:hidden;
     margin: 0 0 2.5rem 0;
   }
-  .proj-hero-video{
+  .proj-hero-image{
+    position:absolute;
+    inset:0;
     width:100%;
     height:100%;
     object-fit:cover;
-    position:absolute;
-    inset:0;
-    transform: scale(1.02);
+    z-index:0;
   }
   .proj-hero-overlay{
     position:absolute;
     inset:0;
-    background: linear-gradient(90deg, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.18) 55%, rgba(0,0,0,0.06) 100%);
+    z-index:1;
+    background: linear-gradient(90deg,
+      rgba(0,0,0,0.55) 0%,
+      rgba(0,0,0,0.18) 55%,
+      rgba(0,0,0,0.06) 100%);
   }
+
   .proj-hero-content{
     position:absolute;
     left: 3rem;
