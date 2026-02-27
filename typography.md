@@ -24,6 +24,15 @@ main_nav: true
 </style>
 <h1 id="Header">2026</h1>
 
+<font size="4" font color="#5691E8"><b>How vulnerable are amphibians to climate change? A mechanistic perspective</b></font>
+<p><b>E.A. Riddell</b>, D.R. Adams, and M.W. Womack. Functional Ecology, In press <a href="google.com" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+Amphibians are frequently identified as highly vulnerable to climate change, yet the mechanisms driving this sensitivity remain uncertain. Approaches that explicitly link physiological mechanisms to environmental variation provide powerful tools for forecasting climate vulnerability. However, their reliability depends on assumptions that accurately reflect the conditions amphibians experience in nature. Here, we evaluate the physiological mechanisms most often invoked to explain amphibian climate vulnerability, including overheating, desiccation, energetic constraints, and seasonal dormancy, and assess the ecological realism of current modeling frameworks. We show that broad-scale assessments often overlook widespread behavioral buffering, such as nocturnal activity, subterranean refuge use, and close association with saturated microhabitats, which substantially reduce exposure to extreme temperatures and water loss. We identify opportunities to improve mechanistic models by incorporating microclimatic heterogeneity, behavioral avoidance of stressful conditions, and hydric landscape dynamics. Doing so will clarify when and where climate change poses a true physiological threat and provide greater insight into the processes shaping amphibian extinction risk. Grounding mechanistic forecasts in ecological reality is essential for avoiding mischaracterization of risk and for directing limited resources toward the amphibian research, species, and regions most in need.
+
+</details>
+
 <font size="4" font color="#5691E8"><b>Geographic divergence in the mechanisms underlying physiological plasticity: Implications for responses to environmental change</b></font>
 <p><b>E.A. Riddell</b>. The American Naturalist, In press <a href="google.com" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
