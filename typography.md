@@ -35,6 +35,16 @@ Understanding how phenotypic plasticity is generated, whether through shared or 
 
 </details>
 
+<font size="4" font color="#5691E8"><b>Live birth in lizards: A process-based model for the roles of temperature, behavior, and life history</b></font>
+<p>Garcia-Costoya, G., S.F. Domínguez-Guerrero, L. Fromhage, M.E. Gifford, <b>E.A. Riddell</b>, and M.L. Logan. Evolution Letters, qraf043 <a href="https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qraf043/8321751?searchresult=1" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+Life-history traits evolve to optimize fitness trade-offs across an organism’s life cycle. Potentially to mediate the trade-off between survival and fecundity, multiple animal groups have independently evolved live birth (viviparity), including at least 70 transitions in lizards alone. In lizards, viviparity is thought to evolve as a mechanism to improve embryonic development in cold climates (cold climate hypothesis, or CCH), possibly at the expense of the mother’s survival. Past comparative studies often align with the CCH’s predictions, but they usually treat core features of the hypothesis as implicit and, most importantly, infer process from pattern rather than testing causal mechanisms. To address this, we developed a process-based model that integrates behavior, thermal physiology, life history, and climate to predict optimal gestation length in lizards globally. We generated a comprehensive trait database of 89 lizard populations that vary in parity mode, and we used ecophysiological modelling to test our model’s predictive power. Our model produced accurate predictions, strongly supporting the hypothesis that cold climates favor the evolution of viviparity in lizards and revealing the ecological contexts and underlying mechanisms by which this life history strategy evolves.
+
+
+</details>
+
 <h1 id="Header">2025</h1>
 
 <font size="4" font color="#5691E8"><b>Coincident transitions across elevation and origins of functional innovations drove the phenotypic and ecological diversity of lungless salamanders</b></font>
@@ -43,16 +53,6 @@ Understanding how phenotypic plasticity is generated, whether through shared or 
   <summary> Abstract (+)</summary>
   
 Ecological opportunity (EO) is an important catalyst for evolution. Whereas theory often centers around a lineage encountering a source of EO in isolation, in practice they experience numerous sources of opportunity, either concurrently or sequentially. Such multiplicity can obscure the macroevolutionary signature of EO. Here, we test the effects of elevation (a proxy of the “mountain effect”) and an array of functional innovations on the evolutionary history of plethodontid salamanders, a diverse and charismatic radiation of lungless amphibians. Functional innovations unlock access to novel microhabitats, ultimately enabling sub-lineages to occupy a diverse range of ecological niches, particularly in lowland areas where those niches are more abundant. Consistent with expanded ecological opportunity, such transitions to lower elevation result in rapid phenotypic evolution. At high elevation, by contrast, rates of phenotypic evolution and phenotypic disparity decline, reflecting a loss of phenotypically extreme ecological specialists. Transitions in elevation and the origin of innovations appear largely coincident among lungless salamanders, suggesting myriad sources of EO. The magnitude of the “mountain effect” on evolutionary rates (∼10-fold) is on par or greatly exceeds that of islands, lakes, and coral reefs on other iconic vertebrate radiations. Therefore, we find that elevation acts as a major ecological moderator and, in concert with functional innovations, shapes the ecological and phenotypic diversity of lungless salamanders.
-
-
-</details>
-
-<font size="4" font color="#5691E8"><b>Live birth in lizards: A process-based model for the roles of temperature, behavior, and life history</b></font>
-<p>Garcia-Costoya, G., S.F. Domínguez-Guerrero, L. Fromhage, M.E. Gifford, <b>E.A. Riddell</b>, and M.L. Logan. Evolution Letters, qraf043 <a href="https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qraf043/8321751?searchresult=1" target="_blank">LINK</a> </p>
-  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
-  <summary> Abstract (+)</summary>
-  
-Life-history traits evolve to optimize fitness trade-offs across an organism’s life cycle. Potentially to mediate the trade-off between survival and fecundity, multiple animal groups have independently evolved live birth (viviparity), including at least 70 transitions in lizards alone. In lizards, viviparity is thought to evolve as a mechanism to improve embryonic development in cold climates (cold climate hypothesis, or CCH), possibly at the expense of the mother’s survival. Past comparative studies often align with the CCH’s predictions, but they usually treat core features of the hypothesis as implicit and, most importantly, infer process from pattern rather than testing causal mechanisms. To address this, we developed a process-based model that integrates behavior, thermal physiology, life history, and climate to predict optimal gestation length in lizards globally. We generated a comprehensive trait database of 89 lizard populations that vary in parity mode, and we used ecophysiological modelling to test our model’s predictive power. Our model produced accurate predictions, strongly supporting the hypothesis that cold climates favor the evolution of viviparity in lizards and revealing the ecological contexts and underlying mechanisms by which this life history strategy evolves.
 
 
 </details>
