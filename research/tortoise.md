@@ -117,22 +117,26 @@ permalink: /research/tortoise/
 <!-- PAGE-LOCAL STYLES -->
 <style>
   /* HERO */
-  .proj-hero{
-    position:relative;
-    width:100%;
-    height:520px;
-    overflow:hidden;
-  }
-  .proj-hero-image{
-    position:absolute;
-    inset:0;
-    width:100%;
-    height:100%;
-    display:block;
-    object-fit:cover;
-    object-position:center;
-    max-width:none !important;
-  }
+   .proj-hero{
+  position: relative;
+  height: 520px;
+  overflow: hidden;
+
+  /* FULL-BLEED */
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+}
+.proj-hero-image{
+  position: absolute;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  max-width: none !important;
+}
   .proj-hero-overlay{
     position:absolute;
     inset:0;
