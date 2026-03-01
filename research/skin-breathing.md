@@ -97,9 +97,9 @@ permalink: /research/skin-breathing/
       </p>
 
       <ul class="key-points">
-        <li><b>Across species:</b> quantify skin traits and flux performance in multiple lineages</li>
-        <li><b>Phylogeny-aware tests:</b> account for shared ancestry when estimating trait–function links</li>
-        <li><b>Inference:</b> identify repeated evolutionary shifts that point to mechanism, not coincidence</li>
+        <li><b>Across species:</b> quantify skin traits and gas flux in multiple lineages</li>
+        <li><b>Comparative method:</b> account for relatedness when understanding species' differences</li>
+        <li><b>Inference:</b> identify repeated evolutionary shifts that point to selection</li>
       </ul>
     </div>
   </article>
