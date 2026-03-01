@@ -165,6 +165,7 @@ permalink: /research/skin-breathing/
  .proj-hero{
   position: relative;
   width: 100%;
+  background: #fff;
   height: 520px;      /* use height (not min-height) for absolute children */
   overflow: hidden;
   background: #000;   /* or transparent; set explicitly so you don’t see theme gray */
