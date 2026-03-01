@@ -26,9 +26,8 @@ permalink: /research/skin-breathing/
   <!-- ONE-LINER -->
   <div class="proj-lede">
     <p>
-      Frogs and salamanders rely on their skin to breathe.
-      We study how skin structure and physiology interact to shape
-      oxygen absorption and dehydration risk.
+      Amphibians rely on their skin to breathe.
+      We study how amphibians breathe across their skin and how they adapt to different environments by adjusting skin breathing.
     </p>
   </div>
 
@@ -92,9 +91,9 @@ permalink: /research/skin-breathing/
     <div class="panel-text">
       <h2>Comparative approach: linking traits to evolution</h2>
       <p>
-        We use the <b>comparative (phylogenetic) method</b> to ask how skin structure and environment
+        We use the <b>comparative phylogenetic method</b> to ask how skin structure and environment
         shape skin breathing across species. By combining trait data with evolutionary relationships,
-        we can test whether changes in skin anatomy predict differences in oxygen uptake and dehydration risk.
+        we can test whether phenotype differences between species are driven by natural selection or shared ancestry.
       </p>
 
       <ul class="key-points">
