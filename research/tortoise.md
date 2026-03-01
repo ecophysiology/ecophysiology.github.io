@@ -15,7 +15,7 @@ permalink: /research/tortoise/
   <div class="proj-hero-content">
     <h1 class="proj-hero-title">Desert Tortoise Physiology</h1>
     <p class="proj-hero-subtitle">
-      Linking age-specific physiology to mechanistic predictions for conservation and translocations.
+      Linking age-specific physiology to mechanistic predictions for conservation.
     </p>
   </div>
 </section>
@@ -46,14 +46,14 @@ permalink: /research/tortoise/
         <h2>Physiology across age classes</h2>
         <p>
           We test whether <b>hatchlings and juveniles are more thermally sensitive</b> than adults and whether
-          early life stages face narrower safety margins during hot, dry conditions. By measuring performance
-          and stress responses across temperatures, we identify which age classes are most vulnerable—and why.
+          early life stages may be more vulnerable. By measuring physiological
+           responses across temperatures, we identify which age classes are most vulnerable and why.
         </p>
 
         <ul class="key-points">
           <li><b>Age comparisons:</b> hatchlings, juveniles, and adults</li>
-          <li><b>Thermal sensitivity:</b> performance curves and limits across temperatures</li>
-          <li><b>Mechanisms:</b> water balance, metabolic demand, and heat exchange constraints</li>
+          <li><b>Thermal sensitivity:</b> performance curves across temperatures</li>
+          <li><b>Mechanisms:</b> metabolic rate, water loss rate, energy and water balance</li>
         </ul>
       </div>
     </article>
@@ -71,7 +71,7 @@ permalink: /research/tortoise/
           We integrate age-specific physiology into <b>mechanistic niche models</b> to predict where tortoises can
           maintain safe body temperatures and water balance across real landscapes. These forecasts can guide
           decisions about <b>translocation sites</b> and identify when microclimate refuges are necessary for success.
-          This work is conducted in partnership with the <b>San Diego Zoo</b>.
+          This work is conducted in partnership with the <b>San Diego Zoo Wildlife Alliance</b>.
         </p>
 
         <ul class="key-points">
@@ -90,7 +90,7 @@ permalink: /research/tortoise/
     <div class="method-grid">
       <div class="method-card">
         <h3>Physiology</h3>
-        <p>Thermal sensitivity assays across age classes, focused on performance and stress-relevant traits.</p>
+        <p>Respirometry across age classes, focused on thermal sensitivity of physiological traits.</p>
       </div>
       <div class="method-card">
         <h3>Microclimate</h3>
