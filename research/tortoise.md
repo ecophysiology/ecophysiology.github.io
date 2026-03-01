@@ -61,7 +61,7 @@ permalink: /research/tortoise/
     <!-- PANEL 2 -->
     <article class="panel panel--reverse">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/fig_tortoise_mnm.png" alt="Cartoon linking physiology to mechanistic niche models and translocation site predictions">
+        <img src="{{ site.baseurl }}/assets/tortoise_model.png" alt="Cartoon linking physiology to mechanistic niche models and translocation site predictions">
         <div class="fig-label">Figure 2</div>
       </div>
 
