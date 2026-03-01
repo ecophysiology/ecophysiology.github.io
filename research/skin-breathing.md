@@ -107,7 +107,7 @@ permalink: /research/skin-breathing/
     <!-- PANEL 4 -->
     <article class="panel panel--reverse">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/fig_model_link_cartoon.png" alt="Cartoon linking traits to predictions across environments">
+        <img src="{{ site.baseurl }}/assets/frog_tree.png" alt="Cartoon linking traits to predictions across environments">
         <div class="fig-label">Figure 4</div>
       </div>
       <div class="panel-text">
