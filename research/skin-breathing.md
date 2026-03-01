@@ -177,6 +177,7 @@ permalink: /research/skin-breathing/
   height: 100%;
   display: block;     /* prevents inline-image whitespace quirks */
   object-fit: cover;
+  max-width: none !important;
   object-position: center;
 }
   .proj-hero-overlay{
