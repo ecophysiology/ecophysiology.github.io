@@ -7,7 +7,7 @@ permalink: /research/tortoise/
 <!-- HERO IMAGE -->
 <section class="proj-hero">
   <img class="proj-hero-image"
-       src="{{ site.baseurl }}/assets/tortoise_hero.png"
+       src="{{ site.baseurl }}/assets/desert_tortoise.webp"
        alt="Desert tortoise in habitat">
 
   <div class="proj-hero-overlay"></div>
