@@ -113,15 +113,15 @@ permalink: /research/skin-breathing/
       <div class="panel-text">
         <h2>Why it matters</h2>
         <p>
-          Skin transport sets the boundary between survival and stress. By linking measurable structure
-          to measurable function, we can improve forecasts of dehydration risk and physiological performance
+          Rates of water loss and gas exchange serve an imporant link between organism fitness and environmental change. 
+          By understanding variation in these rates across species, we can improve forecasts of dehydration risk and physiological performance
           across microclimates — and better understand how amphibians respond to environmental change.
         </p>
 
         <div class="callout">
           <div class="callout-title">Big picture</div>
           <p>
-            Mechanism → traits → performance → exposure risk. This is the bridge from histology to ecology.
+            Traits → performance → energy and water balance. This is the bridge from physiology to ecology.
           </p>
         </div>
       </div>
@@ -139,11 +139,11 @@ permalink: /research/skin-breathing/
       </div>
       <div class="method-card">
         <h3>Skin flux</h3>
-        <p>Controlled assays for oxygen uptake and water loss under defined boundary conditions.</p>
+        <p>Skin-specific measurements of gas exchange and water loss using respirometry.</p>
       </div>
       <div class="method-card">
         <h3>Integration</h3>
-        <p>Trait-function models to identify which structures explain functional variation.</p>
+        <p>Mechanistic niche models to identify which structures explain functional variation.</p>
       </div>
     </div>
   </section>
