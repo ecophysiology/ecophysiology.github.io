@@ -38,7 +38,7 @@ permalink: /research/tortoise/
     <!-- PANEL 1 -->
     <article class="panel">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/fig_tortoise_age_phys.png" alt="Cartoon showing hatchling, juvenile, and adult physiology across temperatures">
+        <img src="{{ site.baseurl }}/assets/hatchling.jpeg" alt="Cartoon showing hatchling, juvenile, and adult physiology across temperatures">
         <div class="fig-label">Figure 1</div>
       </div>
 
