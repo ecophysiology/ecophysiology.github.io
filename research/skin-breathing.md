@@ -164,22 +164,23 @@ permalink: /research/skin-breathing/
   /* HERO */
  .proj-hero{
   position: relative;
-  width: 100%;
-  background: #fff;
-  height: 520px;      /* use height (not min-height) for absolute children */
+  height: 520px;
   overflow: hidden;
-  background: #000;   /* or transparent; set explicitly so you don’t see theme gray */
-}
 
+  /* FULL-BLEED */
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+}
 .proj-hero-image{
   position: absolute;
   inset: 0;
-  width: 100%;
-  height: 100%;
-  display: block;     /* prevents inline-image whitespace quirks */
+  width: 100% !important;
+  height: 100% !important;
   object-fit: cover;
-  max-width: none !important;
   object-position: center;
+  display: block;
+  max-width: none !important;
 }
   .proj-hero-overlay{
     position:absolute;
