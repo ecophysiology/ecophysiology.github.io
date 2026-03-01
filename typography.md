@@ -174,7 +174,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 <h1 id="Header">2023</h1>
 
 <font size="4" font color="#5691E8"><b>Adaptive and non-adaptive convergent evolution in feather reflectance of California Chanel Islands songbirds</b></font>
-<p><b>Porter, C.K.</b>, F.G. Romero, D.C. Adams, R.C.K. Bowie, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B, 290: 20231914. <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2023.1914" target="_blank">LINK</a> </p>
+<p><b>Porter, C.K.</b>, F.G. Romero, D.C. Adams, R.C.K. Bowie, and <b>E.A. Riddell</b>. Proceedings of the Royal Society B, 290: 20231914. <a href="{{ '/assets/Proc_B_Porter_et_al_2023.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -183,7 +183,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Parameterizing mechanistic niche models in biophysical ecology: a review of empirical approaches</b></font>
-<p><b>Riddell, E.A. </b>, <b>I.J. Burger</b>, <b>T.L. Tyner-Swanson</b>, <b>J. Biggerstaff</b>, M.M. Muñoz, O. Levy, and <b>C.K. Porter</b>. Journal of Experimental Biology, 226: jeb245543. <a href="https://journals.biologists.com/jeb/article/226/22/jeb245543/334656/Parameterizing-mechanistic-niche-models-in" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.A. </b>, <b>I.J. Burger</b>, <b>T.L. Tyner-Swanson</b>, <b>J. Biggerstaff</b>, M.M. Muñoz, O. Levy, and <b>C.K. Porter</b>. Journal of Experimental Biology, 226: jeb245543. <a href="{{ '/assets/JEB_Riddell_et_al_2023.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -210,7 +210,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Hydric effects on thermal tolerance influence climate vulnerability in a high-latitude beetle</b></font>
-<p><b>Riddell, E.A. </b>, M. Mutanen, C.K. Ghalambor. Global Change Biology, gcb.16830.. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16830" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.A. </b>, M. Mutanen, C.K. Ghalambor. Global Change Biology, gcb.16830. <a href="{{ '/assets/GCB_Riddell_et_al_2023.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
