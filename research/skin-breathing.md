@@ -162,21 +162,23 @@ permalink: /research/skin-breathing/
 <!-- PAGE-LOCAL STYLES (keep here for now; later move to SCSS) -->
 <style>
   /* HERO */
-  .proj-hero{
-    position:relative;
-    width:100%;
-    min-height:520px; /* or use aspect-ratio instead */
-    overflow:hidden;
-  }
-  .proj-hero-image{
-    position:absolute;
-    inset:0;
-    width:100%;
-    height:100%;
-    object-fit:cover;   /* THIS is the key */
-    object-position:center;
-    z-index:0;
-  }
+ .proj-hero{
+  position: relative;
+  width: 100%;
+  height: 520px;      /* use height (not min-height) for absolute children */
+  overflow: hidden;
+  background: #000;   /* or transparent; set explicitly so you don’t see theme gray */
+}
+
+.proj-hero-image{
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;     /* prevents inline-image whitespace quirks */
+  object-fit: cover;
+  object-position: center;
+}
   .proj-hero-overlay{
     position:absolute;
     inset:0;
