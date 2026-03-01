@@ -219,7 +219,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Plumage balances camouflage and thermoregulation in horned larks (Eremophila alpestris)</b></font>
-<p>Mason, N.A., <b>E.A. Riddell</b>, F. Romero, C. Cicero, R.C.K. Bowie. The American Naturalist, 201(2). <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/722560?journalCode=an" target="_blank">LINK</a> </p>
+<p>Mason, N.A., <b>E.A. Riddell</b>, F. Romero, C. Cicero, R.C.K. Bowie. The American Naturalist, 201(2). <a href="{{ '/assets/Am_Nat_Mason_et_al_2023.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -239,7 +239,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Thermal adaptation of pelage in desert rodents balances cooling and insulation</b></font>
-<p><b>Riddell, E.A.</b>, J.L. Patton, & S.R. Beissinger. Evolution, evo.14463. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14643" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.A.</b>, J.L. Patton, & S.R. Beissinger. Evolution, evo.14463. <a href="{{ '/assets/Evolution_Riddell_et_al_2022.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -248,7 +248,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Integrating physiology into correlative models can alter predictions of habitat suitability under climate change for a threatened amphibian</b></font>
-<p>Newman, J., <b>E.A. Riddell</b>, M.W. Sears, K. Barrett. Ecography, e06082. <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.06082" target="_blank">LINK</a> </p>
+<p>Newman, J., <b>E.A. Riddell</b>, M.W. Sears, K. Barrett. Ecography, e06082. <a href="{{ '/assets/Ecography_2022_Newman_and_Riddell_et_al_2022.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -275,7 +275,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>The thermal costs and benefits of replicated color evolution in the White Sands Desert lizard community</b></font>
-<p>Gunderson, A.R., <b>E.A. Riddell</b>, M.W. Sears, and E.B. Rosenblum. The American Naturalist 199 (5): 666-678. <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/719027?journalCode=an" target="_blank">LINK</a> </p>
+<p>Gunderson, A.R., <b>E.A. Riddell</b>, M.W. Sears, and E.B. Rosenblum. The American Naturalist 199 (5): 666-678. <a href="{{ '/assets/Am_Nat_Gunderson_et_al_2022.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -286,7 +286,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 <h1 id="Header">2021</h1>
 
 <font size="4" font color="#5691E8"><b>Why are species traits weak predictors of range shifts?</b></font>
-<p>Beissinger S.R. and <b>E.A. Riddell</b>. Annual Reviews of Ecology, Evolution, and Systematics, 52:47-66. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-012021-092849" target="_blank">LINK</a> </p>
+<p>Beissinger S.R. and <b>E.A. Riddell</b>. Annual Reviews of Ecology, Evolution, and Systematics, 52:47-66. <a href="{{ '/assets/AREES_Beissinger_and_Riddell_2021.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -295,7 +295,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Exposure to climate change drives stability or collapse of desert mammal and bird communities</b></font>
-<p><b>Riddell, E.A.</b>, K. Iknayan, L. Hargrove, S. Tremor, J.L. Patton, R. Ramirez, B.O. Wolf, & S.R. Beissinger. Science 371: 633-636. <a href="https://www.science.org/doi/10.1126/science.abd4605" target="_blank">LINK</a> </p>
+<p><b>Riddell, E.A.</b>, K. Iknayan, L. Hargrove, S. Tremor, J.L. Patton, R. Ramirez, B.O. Wolf, & S.R. Beissinger. Science 371: 633-636. <a href="{{ '/assets/Science_Riddell_et_al_2021.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -306,7 +306,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 <h1 id="Header">2020</h1>
 
 <font size="4" font color="#5691E8"><b>Terrestrial salamanders maintain habitat suitability under climate change despite trade-offs between water loss and gas exchange</b></font>
-<p><b>Riddell, E.A.</b> and M.W. Sears. Physiological and Biochemical Zoology 93: 310-319 <a href="https://www.journals.uchicago.edu/doi/10.1086/709558">LINK</a> </p>
+<p><b>Riddell, E.A.</b> and M.W. Sears. Physiological and Biochemical Zoology 93: 310-319 <a href="{{ '/assets/PBZ_Riddell_and_Sears_2020.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -317,7 +317,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 <h1 id="Header">2019</h1>
 
 <font size="4" font color="#5691E8"><b>Cooling requirements fueled the collapse of a desert bird community from climate change</b></font>
-<p><b>Riddell, E.A.</b>, K. Iknayan, B.O. Wolf, B. Sinervo, and S.R. Beissinger. Proceedings of the National Academy of Sciences U.S.A. <a href="https://www.pnas.org/doi/10.1073/pnas.1908791116">LINK</a> </p>
+<p><b>Riddell, E.A.</b>, K. Iknayan, B.O. Wolf, B. Sinervo, and S.R. Beissinger. Proceedings of the National Academy of Sciences U.S.A. <a href="{{ '/assets/PNAS_Riddell_et_al_2019.pdf' | relative_url }}" target="_blank"> PDF </a>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -326,7 +326,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Thermal cues drive plasticity of desiccation resistance in a montane salamander with implications for climate change</b></font>
-<p><b>Riddell, E.A.</b>, E. Roback, C.E. Wells, K. R. Zamudio, and M.W. Sears. Nature Communications, 10: 4091. <a href="https://www.nature.com/articles/s41467-019-11990-4">LINK</a> </p>
+<p><b>Riddell, E.A.</b>, E. Roback, C.E. Wells, K. R. Zamudio, and M.W. Sears. Nature Communications, 10: 4091. <a href="{{ '/assets/Nature_Comm_Riddell_et_al_2019.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -335,7 +335,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>The world still isn't flat: lessons learned from organismal interactions with environmental heterogeneity in terrestrial environments</b></font>
-<p>Sears, M.W., <b>E.A. Riddell</b>, T. Rusch, and M. J. Angilletta, Jr. Integrative and Comparative Biology, icz130. <a href="https://www.nature.com/articles/s41467-019-11990-4">LINK</a> </p>
+<p>Sears, M.W., <b>E.A. Riddell</b>, T. Rusch, and M. J. Angilletta, Jr. Integrative and Comparative Biology, icz130. <a href="{{ '/assets/ICB_Sears_et_al_2019.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -346,7 +346,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 <h1 id="Header">2018</h1>
 
 <font size="4" font color="#5691E8"><b>Plasticity reveals hidden resistance to extinction under climate change in the global hotspot of salamander diversity</b></font>
-<p><b>Riddell E.A.</b>, J. Odom, J. Damm, and M.W. Sears. Science Advances 4, eaar5471. <a href="https://www.science.org/doi/10.1126/sciadv.aar5471">LINK</a> </p>
+<p><b>Riddell E.A.</b>, J. Odom, J. Damm, and M.W. Sears. Science Advances 4, eaar5471. <a href="{{ '/assets/Science_Advances_Riddell_et_al_2018.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -355,7 +355,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Trade-offs between water loss and gas exchange influence habitat suitability in a woodland salamander</b></font>
-<p><b>Riddell E.A.</b>, J. McPhail, J.D. Damm, and M.W. Sears. Functional Ecology 32: 916-925. <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13030">LINK</a> </p>
+<p><b>Riddell E.A.</b>, J. McPhail, J.D. Damm, and M.W. Sears. Functional Ecology 32: 916-925. <a href="{{ '/assets/Functional_Ecology_Riddell_et_al_2018.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -364,7 +364,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Recurrent sublethal warming in the nest reduces embryo survival and post-hatching growth</b></font>
-<p>Carlo, M.C., <b>E.A. Riddell</b>, O. Levy, and M.W. Sears. Ecology Letters, 21:104-116. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.12877">LINK</a> </p>
+<p>Carlo, M.C., <b>E.A. Riddell</b>, O. Levy, and M.W. Sears. Ecology Letters, 21:104-116. <a href="{{ '/assets/Ecology_Letters_Carlo_et_al_2017.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -375,7 +375,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 <h1 id="Header">2017</h1>
 
 <font size="4" font color="#5691E8"><b>​Physical calculations of resistance to water loss improve species range models: reply</b></font>
-<p><b>Riddell E.A.</b> and M.W. Sears. Ecology 98: 2965-2968. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2022">LINK</a> </p>
+<p><b>Riddell E.A.</b> and M.W. Sears. Ecology 98: 2965-2968. <a href="{{ '/assets/Ecology_Riddell_et_al_2017.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -384,7 +384,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 </details>
 
 <font size="4" font color="#5691E8"><b>Physical calculations of resistance to water loss improve predictions of species range models</b></font>
-<p><b>Riddell E.A.</b>, E.K. Apanovitch, J.P. Odom, and M.W. Sears. Ecological Monographs, 87: 21-33. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1240">LINK</a> </p>
+<p><b>Riddell E.A.</b>, E.K. Apanovitch, J.P. Odom, and M.W. Sears. Ecological Monographs, 87: 21-33. <a href="{{ '/assets/Ecological_Monographs_Riddell_et_al_2017.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -395,7 +395,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 <h1 id="Header">2015</h1>
 
 <font size="4" font color="#5691E8"><b>​Geographic variation of resistances to water loss within two species of salamanders: implications for activity</b></font>
-<p><b>Riddell E.A.</b> and M.W. Sears. Riddell E.A., and M.W. Sears. Ecosphere 6: Article 86. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/ES14-00360.1">LINK</a> </p>
+<p><b>Riddell E.A.</b> and M.W. Sears. Riddell E.A., and M.W. Sears. Ecosphere 6: Article 86. <a href="{{ '/assets/Ecosphere_Riddell_and_Sears_2015.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -406,7 +406,7 @@ Wind can significantly influence heat and water exchange between organisms and t
 <h1 id="Header">2013</h1>
 
 <font size="4" font color="#5691E8"><b>​Incidental capture of an alternative prey by a dietary specialist, the endangered Snail Kite</b></font>
-<p><b>Riddell E.A.</b>, and D.P. Cavanaugh. Florida Field Naturalist 41:49-50. <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=2244&context=ffn">LINK</a> </p>
+<p><b>Riddell E.A.</b>, and D.P. Cavanaugh. Florida Field Naturalist 41:49-50. <a href="{{ '/assets/FFN_Riddell_and_Cavanaugh_2013.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
