@@ -26,7 +26,7 @@ main_nav: true
 <section class="projects">
 
 <!-- 1 -->
-  <article class="project" id="salamanders">
+  <article class="project" id="woodland-salamanders">
     <div class="project-media">
       <img src="{{ site.baseurl }}/assets/plethodon.jpeg" alt="Woodland salamander project image">
     </div>
