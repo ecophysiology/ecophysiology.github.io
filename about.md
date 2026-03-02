@@ -45,7 +45,7 @@ main_nav: true
   </article>
   
   <!-- 2 -->
-  <article class="project" id="skin-breathing">
+  <article class="project project--reverse" id="skin-breathing">
     <div class="project-media">
       <img src="{{ site.baseurl }}/assets/hyla_versicolor.png" alt="Amphibian skin breathing project image">
     </div>
@@ -64,7 +64,7 @@ main_nav: true
   </article>
 
   <!-- 3 -->
-  <article class="project project--reverse" id="tortoise">
+  <article class="project" id="tortoise">
     <div class="project-media">
       <img src="{{ site.baseurl }}/assets/desert_tortoise.webp" alt="Desert tortoise project image">
     </div>
