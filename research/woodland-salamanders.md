@@ -37,7 +37,7 @@ permalink: /research/woodland-salamanders/
     <!-- SECTION 1 -->
     <article class="panel">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/salamander_flux.png"
+        <img src="{{ site.baseurl }}/assets/salamander.png"
              alt="Metabolic rate and water loss illustration">
         <div class="fig-label">Section 1</div>
       </div>
@@ -70,7 +70,7 @@ permalink: /research/woodland-salamanders/
     <!-- SECTION 2 -->
     <article class="panel panel--reverse">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/salamander_winter.png"
+        <img src="{{ site.baseurl }}/assets/salamander.png"
              alt="Winter dormancy and metabolic physiology illustration">
         <div class="fig-label">Section 2</div>
       </div>
@@ -102,7 +102,7 @@ permalink: /research/woodland-salamanders/
     <!-- SECTION 3 -->
     <article class="panel">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/salamander_regeneration.png"
+        <img src="{{ site.baseurl }}/assets/salamander.png"
              alt="Tail regeneration and metabolic rate illustration">
         <div class="fig-label">Section 3</div>
       </div>
