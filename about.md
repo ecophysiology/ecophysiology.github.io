@@ -25,6 +25,25 @@ main_nav: true
 <!-- PROJECTS -->
 <section class="projects">
 
+<!-- 3 -->
+  <article class="project" id="salamanders">
+    <div class="project-media">
+      <img src="{{ site.baseurl }}/assets/plethodon.jpeg" alt="Woodland salamander project image">
+    </div>
+    <div class="project-body">
+      <h2 class="project-title">Woodland Salamander Ecophysiology</h2>
+      <p class="project-teaser">
+        We connect microclimate, performance, and physiology across landscapes to understand range limits and extinction risk.
+      </p>
+      <div class="tag-row">
+        <span class="tag">Microclimate</span>
+        <span class="tag">Performance</span>
+        <span class="tag">Range limits</span>
+      </div>
+      <a class="project-link" href="{{ site.baseurl }}/research/salamanders/">Explore →</a>
+    </div>
+  </article>
+  
   <!-- 1 -->
   <article class="project" id="skin-breathing">
     <div class="project-media">
@@ -60,25 +79,6 @@ main_nav: true
         <span class="tag">Mechanistic Niche Modeling</span>
       </div>
       <a class="project-link" href="{{ site.baseurl }}/research/tortoise/">Explore →</a>
-    </div>
-  </article>
-
-  <!-- 3 -->
-  <article class="project" id="salamanders">
-    <div class="project-media">
-      <img src="{{ site.baseurl }}/assets/plethodon.jpeg" alt="Woodland salamander project image">
-    </div>
-    <div class="project-body">
-      <h2 class="project-title">Woodland Salamander Ecophysiology</h2>
-      <p class="project-teaser">
-        We connect microclimate, performance, and physiology across landscapes to understand range limits and extinction risk.
-      </p>
-      <div class="tag-row">
-        <span class="tag">Microclimate</span>
-        <span class="tag">Performance</span>
-        <span class="tag">Range limits</span>
-      </div>
-      <a class="project-link" href="{{ site.baseurl }}/research/salamanders/">Explore →</a>
     </div>
   </article>
 
