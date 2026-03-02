@@ -25,7 +25,7 @@ main_nav: true
 <!-- PROJECTS -->
 <section class="projects">
 
-<!-- 3 -->
+<!-- 1 -->
   <article class="project" id="salamanders">
     <div class="project-media">
       <img src="{{ site.baseurl }}/assets/plethodon.jpeg" alt="Woodland salamander project image">
@@ -44,7 +44,7 @@ main_nav: true
     </div>
   </article>
   
-  <!-- 1 -->
+  <!-- 2 -->
   <article class="project" id="skin-breathing">
     <div class="project-media">
       <img src="{{ site.baseurl }}/assets/hyla_versicolor.png" alt="Amphibian skin breathing project image">
@@ -63,7 +63,7 @@ main_nav: true
     </div>
   </article>
 
-  <!-- 2 -->
+  <!-- 3 -->
   <article class="project project--reverse" id="tortoise">
     <div class="project-media">
       <img src="{{ site.baseurl }}/assets/desert_tortoise.webp" alt="Desert tortoise project image">
