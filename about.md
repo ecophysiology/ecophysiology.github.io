@@ -40,7 +40,7 @@ main_nav: true
         <span class="tag">Performance</span>
         <span class="tag">Range limits</span>
       </div>
-      <a class="project-link" href="{{ site.baseurl }}/research/salamanders/">Explore →</a>
+      <a class="project-link" href="{{ site.baseurl }}/research/woodland-salamanders/">Explore →</a>
     </div>
   </article>
   
