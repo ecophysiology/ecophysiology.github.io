@@ -7,7 +7,7 @@ permalink: /research/woodland-salamanders/
 <!-- HERO IMAGE -->
 <section class="proj-hero">
   <img class="proj-hero-image"
-       src="{{ site.baseurl }}/assets/salamander_forest.png"
+       src="{{ site.baseurl }}/assets/plethodon.jpeg"
        alt="Woodland salamander in leaf litter">
 
   <div class="proj-hero-overlay"></div>
@@ -15,7 +15,7 @@ permalink: /research/woodland-salamanders/
   <div class="proj-hero-content">
     <h1 class="proj-hero-title">Ecophysiology of Woodland Salamanders</h1>
     <p class="proj-hero-subtitle">
-      Linking metabolism, water balance, dormancy, and regeneration to climate vulnerability
+      Linking metabolism, water balance, dormancy, and tissue regeneration.
     </p>
   </div>
 </section>
@@ -26,8 +26,8 @@ permalink: /research/woodland-salamanders/
   <!-- LEDE -->
   <div class="proj-lede">
     <p>
-      Woodland salamanders are among the most climate-sensitive vertebrates in North America.
-      We study how physiology links environment to fitness — and how those links shape
+      Woodland salamanders are one of the most unique and ecologically important vertebrates in North America.
+      We study how physiology links environment to fitness and how those links shape
       vulnerability, range limits, and evolutionary trajectories.
     </p>
   </div>
@@ -79,14 +79,14 @@ permalink: /research/woodland-salamanders/
         <h2>Winter dormancy, energetics, and species ranges</h2>
         <p>
           Winter is a dominant selective force for temperate salamanders.
-          We investigate how <b>metabolic suppression</b>, tissue structure,
+          We investigate how <b>metabolic regulation</b>, tissue structure,
           and energy storage strategies during dormancy influence survival,
           overwinter performance, and geographic range limits.
         </p>
 
         <ul class="key-points">
-          <li><b>Metabolic physiology:</b> rates during dormancy and rewarming</li>
-          <li><b>Histology:</b> tissue organization and structural adaptation</li>
+          <li><b>Metabolic physiology:</b> rates during dormancy and warming</li>
+          <li><b>Histology:</b> tissue organization and structural changes</li>
           <li><b>Energetics:</b> stored fuels and seasonal constraints</li>
         </ul>
 
@@ -103,7 +103,7 @@ permalink: /research/woodland-salamanders/
     <article class="panel">
       <div class="panel-figure">
         <img src="{{ site.baseurl }}/assets/salamander_regeneration.png"
-             alt="Tail regeneration and metabolic trade-off illustration">
+             alt="Tail regeneration and metabolic rate illustration">
         <div class="fig-label">Section 3</div>
       </div>
 
@@ -112,7 +112,7 @@ permalink: /research/woodland-salamanders/
         <p>
           Salamanders are renowned for their regenerative capacity, yet rates of regeneration
           vary across environments. We examine how <b>metabolic rate</b>, <b>elevation</b>,
-          and environmental energy availability shape regeneration dynamics.
+          and energy availability shape regeneration rates and mechanisms.
         </p>
 
         <ul class="key-points">
@@ -124,7 +124,7 @@ permalink: /research/woodland-salamanders/
         <div class="callout">
           <div class="callout-title">Current focus</div>
           <p>
-            We are quantifying tail-tip regeneration rates to test how environmental
+            We are quantifying tail-tip regeneration rates to test how
             energy availability shapes regenerative investment.
           </p>
         </div>
