@@ -37,8 +37,8 @@ permalink: /research/bumblebees/
     <!-- SECTION 1 -->
     <article class="panel">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/bee_metabolism.png"
-             alt="Bumble bee queen physiology illustration">
+        <img src="{{ site.baseurl }}/assets/bombus_breathing.png"
+             alt="Different breathing patterns between species">
         <div class="fig-label">Section 1</div>
       </div>
 
@@ -71,7 +71,7 @@ permalink: /research/bumblebees/
     <!-- SECTION 2 -->
     <article class="panel panel--reverse">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/bee_nest.png"
+        <img src="{{ site.baseurl }}/assets/bombus.jpg"
              alt="Bumble bee nest and coordinated behavior illustration">
         <div class="fig-label">Section 2</div>
       </div>
