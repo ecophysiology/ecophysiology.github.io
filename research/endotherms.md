@@ -38,7 +38,7 @@ permalink: /research/endotherms/
     <!-- SECTION 1 -->
     <article class="panel">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/endotherm_tpc.png"
+        <img src="{{ site.baseurl }}/assets/cartoon.png"
              alt="Endotherm thermal performance curve illustration">
         <div class="fig-label">Section 1</div>
       </div>
