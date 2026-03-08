@@ -71,7 +71,7 @@ permalink: /research/bumblebees/
     <!-- SECTION 2 -->
     <article class="panel panel--reverse">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/bombus.jpg"
+        <img src="{{ site.baseurl }}/assets/bee_colony.webp"
              alt="Bumble bee nest and coordinated behavior illustration">
         <div class="fig-label">Section 2</div>
       </div>
