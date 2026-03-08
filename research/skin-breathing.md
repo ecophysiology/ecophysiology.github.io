@@ -354,4 +354,14 @@ permalink: /research/skin-breathing/
     .panel-figure img{ height: 260px; }
     .method-grid{ grid-template-columns: 1fr; }
   }
+  .fig-caption{
+  margin-top: 0.6rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: rgba(0,0,0,0.60);
+  font-style: italic;
+}
+.fig-caption b{
+  font-style: normal;
+}
 </style>
