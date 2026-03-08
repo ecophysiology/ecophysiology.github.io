@@ -71,7 +71,7 @@ permalink: /research/endotherms/
     <!-- SECTION 2 -->
     <article class="panel panel--reverse">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/endotherm_range.png"
+        <img src="{{ site.baseurl }}/assets/q_prediction.png"
              alt="Endotherm climate and distribution illustration">
         <div class="fig-label">Section 2</div>
       </div>
