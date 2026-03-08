@@ -37,10 +37,17 @@ permalink: /research/bumblebees/
     <!-- SECTION 1 -->
     <article class="panel">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/bombas_breathing.png"
-             alt="Different breathing patterns between species">
-        <div class="fig-label">Section 1</div>
-      </div>
+  <img src="{{ site.baseurl }}/assets/bombas_breathing.png"
+       alt="Discontinuous gas exchange patterns in bumble bees">
+
+  <div class="fig-label">Figure 1</div>
+
+  <div class="fig-caption">
+    <b>Figure 1.</b> Discontinuous gas exchange patterns in two bumble bee species measured at the same temperature. 
+    Both species show cyclic patterns of spiracle opening and closing, but differ in the amplitude and timing 
+    of breathing.
+  </div>
+</div>
 
       <div class="panel-text">
         <h2>Thermal sensitivity of queen physiology</h2>
