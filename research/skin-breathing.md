@@ -37,10 +37,18 @@ permalink: /research/skin-breathing/
     <!-- PANEL 1 -->
     <article class="panel">
       <div class="panel-figure">
-        <!-- “cartoon” illustration -->
-        <img src="{{ site.baseurl }}/assets/frog_breathing.png" alt="Flow of oxygen, carbon dioxide, and water">
-        <div class="fig-label">Figure 1</div>
-      </div>
+  <!-- “cartoon” illustration -->
+  <img src="{{ site.baseurl }}/assets/trade-off.png" alt="Relationship between water loss and oxygen uptake across organisms">
+
+  <div class="fig-label">Figure 1</div>
+
+  <div class="fig-caption">
+    <b>Figure 1.</b> Relationship between water loss and oxygen uptake across a diversity of organisms. 
+    Species that absorb oxygen across respiratory surfaces inevitably lose water through the same tissues. 
+    Amphibians show the most extreme relationship, exhibiting very high water loss rates relative to the 
+    amount of oxygen they consume.
+  </div>
+</div>
       <div class="panel-text">
         <h2>Skin as a barrier</h2>
         <p>
