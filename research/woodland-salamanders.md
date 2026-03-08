@@ -70,7 +70,7 @@ permalink: /research/woodland-salamanders/
     <!-- SECTION 2 -->
     <article class="panel panel--reverse">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/salamander.png"
+        <img src="{{ site.baseurl }}/assets/mapping_figure_v2.png"
              alt="Winter dormancy and metabolic physiology illustration">
         <div class="fig-label">Section 2</div>
       </div>
@@ -102,7 +102,7 @@ permalink: /research/woodland-salamanders/
     <!-- SECTION 3 -->
     <article class="panel">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/salamander.png"
+        <img src="{{ site.baseurl }}/assets/tail_tip.png"
              alt="Tail regeneration and metabolic rate illustration">
         <div class="fig-label">Section 3</div>
       </div>
