@@ -37,7 +37,7 @@ permalink: /research/bumblebees/
     <!-- SECTION 1 -->
     <article class="panel">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/bombus_breathing.png"
+        <img src="{{ site.baseurl }}/assets/bombas_breathing.png"
              alt="Different breathing patterns between species">
         <div class="fig-label">Section 1</div>
       </div>
