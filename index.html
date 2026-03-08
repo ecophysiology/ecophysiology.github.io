@@ -45,7 +45,54 @@ pagination:
 
 </div>
 <!-- End Intro Section -->
+	
+<!-- Featured Papers -->
+<section class="featured-papers">
+  <div class="featured-header">
+    <h2>Recent Research</h2>
+    <p>Selected papers from the lab</p>
+  </div>
 
+  <div class="paper-slider" id="paperSlider">
+    <div class="paper-track">
+
+      <article class="paper-slide active">
+        <div class="paper-meta">The American Naturalist · 2025</div>
+        <h3 class="paper-title">Genome composition predicts physiological responses to temperature in polyploid salamanders</h3>
+        <p class="paper-quote">
+          “Genomic composition of hybrids may be a suitable predictor of hybrid trait performance.”
+        </p>
+        <a class="paper-link" href="www.google.com" target="_blank" rel="noopener">Read paper →</a>
+      </article>
+
+      <article class="paper-slide">
+        <div class="paper-meta">Functional Ecology · 2026</div>
+        <h3 class="paper-title">How vulnerable are amphibians to climate change? A mechanistic perspective</h3>
+        <p class="paper-quote">
+          “Amphibians are unlikely to overheat under climate change.”
+        </p>
+        <a class="paper-link" href="www.google.com" target="_blank" rel="noopener">Read paper →</a>
+      </article>
+
+      <article class="paper-slide">
+        <div class="paper-meta">The American Naturlist · 2026</div>
+        <h3 class="paper-title">Geographic divergence in the mechanisms underlying physiological plasticity: Implications for responses to environmental change</h3>
+        <p class="paper-quote">
+          “The same plasticity in water loss rates can be produced using different mechanisms in woodland salamanders.”
+        </p>
+        <a class="paper-link" href="https://www.journals.uchicago.edu/doi/10.1086/741059" target="_blank" rel="noopener">Read paper →</a>
+      </article>
+
+    </div>
+
+    <div class="paper-dots">
+      <button class="paper-dot active" data-slide="0" aria-label="Go to paper 1"></button>
+      <button class="paper-dot" data-slide="1" aria-label="Go to paper 2"></button>
+      <button class="paper-dot" data-slide="2" aria-label="Go to paper 3"></button>
+    </div>
+  </div>
+</section>
+	
   <div class="wrapper">
     <ul class="post-list">
       {% for post in paginator.posts %}
