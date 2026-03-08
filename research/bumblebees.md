@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bumble Bee Physiology
-permalink: /research/bumble-bee/
+permalink: /research/bumblebees/
 ---
 
 <div class="hero-intro">
