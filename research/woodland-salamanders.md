@@ -70,10 +70,20 @@ permalink: /research/woodland-salamanders/
     <!-- SECTION 2 -->
     <article class="panel panel--reverse">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/mapping_figure_v2.png"
-             alt="Winter dormancy and metabolic physiology illustration">
-        <div class="fig-label">Section 2</div>
-      </div>
+  <img src="{{ site.baseurl }}/assets/mapping_figure_v2.png"
+       alt="Winter warming and salamander habitat loss">
+
+  <div class="fig-label">Figure 2</div>
+
+  <div class="fig-caption">
+    <b>Figure 2.</b> Winter warming threatens the global hotspot of salamander diversity.
+    By estimating seasonal energy reserves across winter months, we show that salamanders
+    deplete a substantial fraction of stored energy under warmer conditions. When winter
+    metabolic rate is incorporated into projections of future climate warming, large
+    portions of currently suitable habitat become energetically unsuitable
+    (<b>panel F</b>).
+  </div>
+</div>
 
       <div class="panel-text">
         <h2>Winter dormancy, energetics, and species ranges</h2>
