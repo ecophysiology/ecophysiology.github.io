@@ -39,7 +39,7 @@ permalink: /research/endotherms/
 <article class="panel panel--wide">
 
   <div class="panel-figure panel-figure--wide">
-    <img src="{{ site.baseurl }}/assets/endotherm_tpc.png"
+    <img src="{{ site.baseurl }}/assets/cartoon.png"
          alt="Endotherm thermal performance curve illustration">
     <div class="fig-label">Section 1</div>
   </div>
@@ -84,7 +84,7 @@ permalink: /research/endotherms/
     <!-- SECTION 2 -->
     <article class="panel panel--reverse">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/q_prediction.png"
+        <img src="{{ site.baseurl }}/assets/Q_prediction.png"
              alt="Endotherm climate and distribution illustration">
         <div class="fig-label">Section 2</div>
       </div>
