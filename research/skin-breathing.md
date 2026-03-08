@@ -267,8 +267,8 @@ permalink: /research/skin-breathing/
   }
 
   .panel-text{
-    padding: 1.5rem 1.5rem 1.5rem 0;
-  }
+  padding: 1.5rem;
+}
   .panel-text h2{
     margin: 0 0 0.6rem 0;
     font-size: 1.55rem;
