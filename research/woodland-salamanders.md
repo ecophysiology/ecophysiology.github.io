@@ -111,14 +111,14 @@ permalink: /research/woodland-salamanders/
         <h2>Ecology and evolution of tissue regeneration</h2>
         <p>
           Salamanders are renowned for their regenerative capacity, yet rates of regeneration
-          vary across environments. We examine how <b>metabolic rate</b>, <b>elevation</b>,
-          and energy availability shape regeneration rates and mechanisms.
+          vary across environments. We examine how <b>metabolic rate</b>, <b>temperature</b>,
+          and <b>elevation</b> shape regeneration rates and mechanisms.
         </p>
 
         <ul class="key-points">
           <li><b>Tail-tip regeneration:</b> standardized assays across populations</li>
-          <li><b>Metabolic links:</b> energetic costs of tissue rebuilding</li>
-          <li><b>Evolutionary gradients:</b> regeneration across elevation and climate</li>
+          <li><b>Metabolic rates:</b> energetic costs of tail regeneration</li>
+          <li><b>Elevational gradients:</b> regeneration rates across elevation and populations</li>
         </ul>
 
         <div class="callout">
