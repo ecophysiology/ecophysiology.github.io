@@ -37,7 +37,7 @@ permalink: /research/woodland-salamanders/
     <!-- SECTION 1 -->
     <article class="panel">
       <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/salamander.png"
+        <img src="{{ site.baseurl }}/assets/metcalfi.jpg"
              alt="Metabolic rate and water loss illustration">
         <div class="fig-label">Section 1</div>
       </div>
