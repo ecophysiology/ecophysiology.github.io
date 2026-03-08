@@ -36,37 +36,50 @@ permalink: /research/endotherms/
   <div class="proj-panels">
 
     <!-- SECTION 1 -->
-    <article class="panel">
-      <div class="panel-figure">
-        <img src="{{ site.baseurl }}/assets/cartoon.png"
-             alt="Endotherm thermal performance curve illustration">
-        <div class="fig-label">Section 1</div>
-      </div>
+<article class="panel panel--wide">
 
-      <div class="panel-text">
-        <h2>Thermal performance and heat balance</h2>
-        <p>
-          Thermal performance curves are widely used to describe how temperature shapes
-          organismal function, but there are few broadly useful equivalents for endotherms.
-          Our work proposes that performance in endotherms can be understood using
-          <b>net sensible heat flux</b> between animals and their environments.
-        </p>
+  <div class="panel-figure panel-figure--wide">
+    <img src="{{ site.baseurl }}/assets/endotherm_tpc.png"
+         alt="Endotherm thermal performance curve illustration">
+    <div class="fig-label">Section 1</div>
+  </div>
 
-        <ul class="key-points">
-          <li><b>Heat exchange:</b> net sensible heat flux between organism and environment</li>
-          <li><b>Thermal balance:</b> minimal thermoregulatory costs</li>
-          <li><b>Optimal performance:</b> predicted to occur where heat gain and loss are balanced</li>
-        </ul>
+  <div class="panel-text panel-text--wide">
+    <h2>Thermal performance and heat balance</h2>
 
-        <div class="callout">
-          <div class="callout-title">Goal</div>
-          <p>
-            Develop a mechanistic framework for endotherm performance in which
-            Topt emerges at the point of thermal balance.
-          </p>
-        </div>
-      </div>
-    </article>
+    <p>
+      Thermal performance curves are widely used to describe how temperature
+      shapes organismal function, but there are few broadly applicable
+      frameworks for endotherms. Because endotherms actively regulate body
+      temperature, performance depends not simply on environmental temperature
+      but on the balance of heat exchange between organisms and their
+      environments.
+    </p>
+
+    <p>
+      Our work proposes that performance in endotherms can be understood using
+      <b>net sensible heat flux</b>. When heat gain and heat loss are balanced,
+      thermoregulatory costs are minimized, producing a natural prediction for
+      the environmental conditions where performance is highest.
+    </p>
+
+    <ul class="key-points">
+      <li><b>Heat exchange:</b> net sensible heat flux between organism and environment</li>
+      <li><b>Thermal balance:</b> minimal metabolic costs of thermoregulation</li>
+      <li><b>Optimal performance:</b> predicted to occur near heat balance</li>
+    </ul>
+
+    <div class="callout">
+      <div class="callout-title">Concept</div>
+      <p>
+        In endotherms, optimal performance may occur where environmental heat
+        exchange minimizes thermoregulatory costs.
+      </p>
+    </div>
+
+  </div>
+
+</article>
 
     <!-- SECTION 2 -->
     <article class="panel panel--reverse">
@@ -287,6 +300,26 @@ permalink: /research/endotherms/
     .panel-figure img{ height: 260px; }
     .method-grid{ grid-template-columns: 1fr; }
   }
+  /* WIDE PANEL FOR CONCEPTUAL FIGURES */
+
+.panel--wide{
+  grid-template-columns: 1fr;
+}
+
+.panel-figure--wide{
+  padding: 1.5rem 1.5rem 0 1.5rem;
+}
+
+.panel-figure--wide img{
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.panel-text--wide{
+  padding: 1.25rem 1.75rem 1.75rem 1.75rem;
+  max-width: 900px;
+}
 </style>
 
 </section>
