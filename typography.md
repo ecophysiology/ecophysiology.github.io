@@ -24,8 +24,17 @@ main_nav: true
 </style>
 <h1 id="Header">2026</h1>
 
+<font size="4" font color="#5691E8"><b>Tadpole and frog skin thicknesses are evolutionarily decoupled</b></font>
+<p> M.C. Womack, M. Hamada, C. Melissinos, L. Ormaechea, Q.N. Pham, V.L. Urgiles, <b>E.A. Riddell</b>. Integrative and Comparative Biology, In press <a href="https://google.com" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+Most animals have a complex life cycle that allows organisms to evolve distinct phenotypes at different life stages, termed developmental or adaptive decoupling. Support for developmental decoupling has been found in a wide range of morphological, physiological, behavioral, and molecular traits, largely from studies on insects and amphibians. However, few studies have focused on morphological structures that are continuously present and developing throughout metamorphosis, which may not evolve as independently as structures only present in one life stage or structures that completely regenerate during metamorphosis. Most anurans undergo metamorphosis, transitioning from larval (tadpole) to adult stages, while remaining continuously active. Critical organs, such as the skin, are present and developing before, during, and after metamorphosis. We measured and compared dorsal and ventral skin layer thicknesses of both tadpoles and adults in ten anuran species. Our results support developmental decoupling of anuran skin thickness across metamorphosis, agreeing with prior studies of more complex anuran morphological traits. In testing this hypothesis, we found interesting skin thickness variation among tadpole and adult species that was not fully explained by body size, which prompts future studies to test skin adaptation hypotheses within each life stage. 
+
+</details>
+
 <font size="4" font color="#5691E8"><b>A framework for estimating climate change vulnerability based on conditional relationships</b></font>
-<p><b>Burger, I.J.</b>, <b>E.A. Riddell</b>. Integrative and Comparative Biology, icag022 <a href="https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icag022/8651069" target="_blank">LINK</a> </p>
+<p><b>Burger, I.J.</b>, and <b>E.A. Riddell</b>. Integrative and Comparative Biology, icag022 <a href="https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icag022/8651069" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
