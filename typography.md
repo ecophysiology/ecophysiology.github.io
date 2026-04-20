@@ -24,6 +24,15 @@ main_nav: true
 </style>
 <h1 id="Header">2026</h1>
 
+<font size="4" font color="#5691E8"><b>A framework for estimating climate change vulnerability based on conditional relationships</b></font>
+<p><b>Burger, I.J.</b>, <b>E.A. Riddell</b>. Integrative and Comparative Biology, icag022 <a href="https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icag022/8651069" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+Identifying the drivers of species’ vulnerability to climate change is a key question at the intersection of ecology, physiology, and evolution. Climate vulnerability estimates are often composed of three subcomponents: exposure, sensitivity, and response. There are several different approaches for combining these components into an estimate of vulnerability, such as adding or multiplying subcomponents; however, these methods do not account for the conditional relationship between these values. Without accounting for these conditional relationships, vulnerability scores can appear similar across species, even when a species experiences no exposure to climate change. Here, we introduce a new method of calculating climate change vulnerability, the conditional climate change vulnerability index, that incorporates the relationships between subcomponents. This approach ensures that species’ sensitivity depends on the degree of exposure and a species’ response depends on their exposure and sensitivity, thereby explicitly capturing the conditional relationships among components. We discuss the drawbacks of traditional methods of estimating vulnerability and show how the new index better captures the conditional structure of vulnerability. In this perspective, we compare the performance of traditional and conditional vulnerability indices, analyze the relationship between the estimates of vulnerability and exposure, and describe how the different indices perform when the subcomponents are pushed to extreme values. By accounting for the conditional dependence among subcomponents, the conditional climate change vulnerability index more accurately represents how exposure, sensitivity, and response jointly determine vulnerability, facilitating a more integrative understanding of the factors that shape extinction risk under climate change.
+
+</details>
+
 <font size="4" font color="#5691E8"><b>How vulnerable are amphibians to climate change? A mechanistic perspective</b></font>
 <p><b>E.A. Riddell</b>, D.R. Adams, and M.W. Womack. Functional Ecology, In press <a href="google.com" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
