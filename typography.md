@@ -34,7 +34,7 @@ Identifying the drivers of species’ vulnerability to climate change is a key q
 </details>
 
 <font size="4" font color="#5691E8"><b>How vulnerable are amphibians to climate change? A mechanistic perspective</b></font>
-<p><b>E.A. Riddell</b>, D.R. Adams, and M.W. Womack. Functional Ecology, In press <a href="google.com" target="_blank">LINK</a> </p>
+<p><b>E.A. Riddell</b>, D.R. Adams, and M.W. Womack. Functional Ecology, In press <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70303" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -43,7 +43,7 @@ Amphibians are frequently identified as highly vulnerable to climate change, yet
 </details>
 
 <font size="4" font color="#5691E8"><b>Geographic divergence in the mechanisms underlying physiological plasticity: Implications for responses to environmental change</b></font>
-<p><b>E.A. Riddell</b>. The American Naturalist, In press <a href="google.com" target="_blank">LINK</a> </p>
+<p><b>E.A. Riddell</b>. The American Naturalist, In press <a href="https://www.journals.uchicago.edu/doi/10.1086/741059" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
