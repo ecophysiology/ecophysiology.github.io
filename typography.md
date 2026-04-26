@@ -24,6 +24,15 @@ main_nav: true
 </style>
 <h1 id="Header">2026</h1>
 
+<font size="4" font color="#5691E8"><b>Modeling population dynamics in a woodland salamander using historical surveys: A comparison of age-structured and individual-based approaches</b></font>
+<p>  <b>I.J. Burger</b> <b>R. Olugbusi</b>, <b>E.A. Riddell</b>. Theoretical Ecology, In press <a href="https://google.com" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+Population growth models are essential tools for predicting population demographic trends and assessing population viability over time. Population growth models are often parameterized using demographic data that account for imperfect detection; however, historical datasets—collected prior to the widespread incorporation of imperfect detection—may still yield valuable insights into long-term population dynamics. Here, we used a deterministic age structured model and a stochastic individual based model, which were both parameterized with age-specific vital rates, to estimate population growth in a woodland salamander (Plethodon metcalfi). To parameterize our model, we used long-term historical demographic data collected by Hairston (1983) to estimate population growth. Our objectives were to evaluate differences between the population growth models and assess whether historical demographic data can produce realistic estimates of population dynamics. We found that the individual based model predicted a declining population size, whereas the age structured model predicted an increasing population size. However, sensitivity analyses revealed that minimal changes to survival or fecundity were sufficient to produce stable populations in both models, reflecting observations of these populations in the wild. Therefore, our results sugges that historical data can be informative even in the absence of detection-corrected estimates in cryptic species. We also found that both models were capable of predicting age distributions similar to those observed in nature. Together, these results emphasize the importance of model selection and utility of historical datasets in forecasting population resilience under variable environmental conditions.
+
+</details>
+
 <font size="4" font color="#5691E8"><b>Tadpole and frog skin thicknesses are evolutionarily decoupled</b></font>
 <p> M.C. Womack, M. Hamada, C. Melissinos, L. Ormaechea, Q.N. Pham, V.L. Urgiles, <b>E.A. Riddell</b>. Integrative and Comparative Biology, In press <a href="https://google.com" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
