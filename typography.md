@@ -25,7 +25,7 @@ main_nav: true
 <h1 id="Header">2026</h1>
 
 <font size="4" font color="#5691E8"><b>Modeling population dynamics in a woodland salamander using historical surveys: A comparison of age-structured and individual-based approaches</b></font>
-<p>  <b>I.J. Burger</b> <b>R. Olugbusi</b>, <b>E.A. Riddell</b>. Theoretical Ecology, In press <a href="https://google.com" target="_blank">LINK</a> </p>
+<p>  <b>I.J. Burger</b> <b>R. Olugbusi</b>, <b>E.A. Riddell</b>. Theoretical Ecology, 19, 9 <a href="https://doi.org/10.1007/s12080-026-00638-x" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -34,7 +34,7 @@ Population growth models are essential tools for predicting population demograph
 </details>
 
 <font size="4" font color="#5691E8"><b>Tadpole and frog skin thicknesses are evolutionarily decoupled</b></font>
-<p> M.C. Womack, M. Hamada, C. Melissinos, L. Ormaechea, Q.N. Pham, V.L. Urgiles, <b>E.A. Riddell</b>. Integrative and Comparative Biology, In press <a href="https://google.com" target="_blank">LINK</a> </p>
+<p> M.C. Womack, M. Hamada, C. Melissinos, L. Ormaechea, Q.N. Pham, V.L. Urgiles, <b>E.A. Riddell</b>. Integrative and Comparative Biology, 66, icag028 <a href="https://doi.org/10.1093/icb/icag028" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -43,7 +43,7 @@ Most animals have a complex life cycle that allows organisms to evolve distinct 
 </details>
 
 <font size="4" font color="#5691E8"><b>A framework for estimating climate change vulnerability based on conditional relationships</b></font>
-<p><b>Burger, I.J.</b>, and <b>E.A. Riddell</b>. Integrative and Comparative Biology, icag022 <a href="https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icag022/8651069" target="_blank">LINK</a> </p>
+<p><b>Burger, I.J.</b>, and <b>E.A. Riddell</b>. Integrative and Comparative Biology, icag022 <a href="https://doi.org/10.1093/icb/icag022" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -52,7 +52,7 @@ Identifying the drivers of species’ vulnerability to climate change is a key q
 </details>
 
 <font size="4" font color="#5691E8"><b>How vulnerable are amphibians to climate change? A mechanistic perspective</b></font>
-<p><b>E.A. Riddell</b>, D.R. Adams, and M.W. Womack. Functional Ecology, In press <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70303" target="_blank">LINK</a> </p>
+<p><b>E.A. Riddell</b>, D.R. Adams, and M.W. Womack. Functional Ecology, 40(6):1550-1560 <a href="https://doi.org/10.1111/1365-2435.70303" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
@@ -61,7 +61,7 @@ Amphibians are frequently identified as highly vulnerable to climate change, yet
 </details>
 
 <font size="4" font color="#5691E8"><b>Geographic divergence in the mechanisms underlying physiological plasticity: Implications for responses to environmental change</b></font>
-<p><b>E.A. Riddell</b>. The American Naturalist, In press <a href="https://www.journals.uchicago.edu/doi/10.1086/741059" target="_blank">LINK</a> </p>
+<p><b>E.A. Riddell</b>. The American Naturalist, In press <a href="https://doi.org/10.1086/741059" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
