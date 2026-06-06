@@ -25,7 +25,7 @@ main_nav: true
 <h1 id="Header">2026</h1>
 
 <font size="4" font color="#5691E8"><b>Modeling population dynamics in a woodland salamander using historical surveys: A comparison of age-structured and individual-based approaches</b></font>
-<p>  <b>I.J. Burger</b> <b>R. Olugbusi</b>, <b>E.A. Riddell</b>. Theoretical Ecology, 19, 9 <a href="https://doi.org/10.1007/s12080-026-00638-x" target="_blank">LINK</a> </p>
+<p>  <b>I.J. Burger</b>, <b>R. Olugbusi</b>, <b>E.A. Riddell</b>. Theoretical Ecology, 19, 9 <a href="https://doi.org/10.1007/s12080-026-00638-x" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
