@@ -24,6 +24,26 @@ main_nav: true
 </style>
 <h1 id="Header">2026</h1>
 
+<font size="4" font color="#5691E8"><b>Warts and All: Evolutionary and ecological patterns in frog skin texture </b></font>
+<p>  Urgiles*, V.L., D.K. Wainwright, A.E. Savage, <b>E.A. Riddell</b>, & M.C. Womack, Journal of Evolutionary Biology, In press.
+ <a href="google.com" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+More soon!
+
+</details>
+
+<font size="4" font color="#5691E8"><b>Physiology is a hidden dimension of diversity in the radiation of woodland salamanders </b></font>
+<p>  Alomar, N.M., H. Camarillo, E.D. Burress, J. Laterza-Barbosa, M.R. Gade, S.F. Domínguez-Guerrero, I. Hernández Rodríguez, L.R.V. Alencar, B.L. Bodensteiner, <b>I.J. Burger</b>, <b>E.A. Riddell</b>, & M.M. Muñoz. Proceedings of the National Academy of Sciences, In press.
+ <a href="google.com" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+More soon!
+
+</details>
+
 <font size="4" font color="#5691E8"><b>Modeling population dynamics in a woodland salamander using historical surveys: A comparison of age-structured and individual-based approaches</b></font>
 <p>  <b>I.J. Burger</b>, <b>R. Olugbusi</b>, <b>E.A. Riddell</b>. Theoretical Ecology, 19, 9 <a href="https://doi.org/10.1007/s12080-026-00638-x" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
