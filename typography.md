@@ -46,7 +46,7 @@ More soon!
 
 <font size="4" font color="#5691E8"><b>Physiology is a hidden dimension of diversity in the radiation of woodland salamanders </b></font>
 <p>  Alomar, N.M., H. Camarillo, E.D. Burress, J. Laterza-Barbosa, M.R. Gade, S.F. Domínguez-Guerrero, I. Hernández Rodríguez, L.R.V. Alencar, B.L. Bodensteiner, <b>I.J. Burger</b>, <b>E.A. Riddell</b>, & M.M. Muñoz. Proceedings of the National Academy of Sciences, In press.
- <a href="http://google.com" target="_blank">LINK</a> </p>
+ <a href="https://www.pnas.org/doi/10.1073/pnas.2523895123" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
