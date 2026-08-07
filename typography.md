@@ -24,8 +24,8 @@ main_nav: true
 </style>
 <h1 id="Header">2026</h1>
 
-<font size="4" font color="#5691E8"><b>Divergent population trajectories despite similar response to temperature in a widespread aerial insectivore</b></font>
-<p>  Taff, C.C.*, …, <b>E.A. Riddell</b>, … (80 Co-authors). Proceedings of the National Academy of Sciences, In press.
+<font size="4" font color="#5691E8"><b>Shifting aspect enhances climate buffering in montane landscapes</b></font>
+<p>  <b>Adams, D.R.</b> and <b>E.A. Riddell</b>. Nature Climate Change, In press.
  <a href="http://google.com" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
@@ -34,13 +34,33 @@ More soon!
 
 </details>
 
-<font size="4" font color="#5691E8"><b>Warts and All: Evolutionary and ecological patterns in frog skin texture </b></font>
-<p>  Urgiles*, V.L., D.K. Wainwright, A.E. Savage, <b>E.A. Riddell</b>, & M.C. Womack, Journal of Evolutionary Biology, In press.
+<font size="4" font color="#5691E8"><b>Weak coupling between gas exchange and water loss in lungless salamanders</b></font>
+<p> Alomar, N.M., <b>E.A. Riddell</b>, M.M. Muñoz. Integrative and Comparative Biology, In press.
  <a href="http://google.com" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
 More soon!
+
+</details>
+
+<font size="4" font color="#5691E8"><b>Divergent population trajectories despite similar response to temperature in a widespread aerial insectivore</b></font>
+<p>  Taff, C.C.*, …, <b>E.A. Riddell</b>, … (80 Co-authors). Proceedings of the National Academy of Sciences, In press.
+ <a href="https://doi.org/10.1073/pnas.2601817123" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+Climate change is shifting when animals breed, but it is not clear why some populations keep pace with warming while others fall behind. Differences could arise from variation in sensitivity to temperature or constraints on the ability to respond to temperature. Without knowing whether populations differ in sensitivity—or in their ability to act on that sensitivity—we cannot identify which are most at risk. Using 1,555 population-years from 123 populations of tree swallows (Tachycineta bicolor), we show that populations have similar sensitivity to local temperature, advancing breeding by about one day per degree of warming. However, northern populations face tighter time constraints and greater exposure to recent warming. Northern populations have advanced laying dates the most, but still experience stronger selection for earlier breeding, especially in warm years; they have also declined most in breeding abundance. These findings suggest that vulnerability to climate change can arise not just from different sensitivity to warming, but from when and where populations can respond effectively. By disentangling sensitivity from timing constraints, our results are consistent with a general mechanism by which even uniformly responsive species can show uneven impacts of climate change across their ranges.
+
+</details>
+
+<font size="4" font color="#5691E8"><b>Warts and All: Evolutionary and ecological patterns in frog skin texture </b></font>
+<p>  Urgiles*, V.L., D.K. Wainwright, A.E. Savage, <b>E.A. Riddell</b>, & M.C. Womack, Journal of Evolutionary Biology, In press.
+ <a href="https://academic.oup.com/jeb/article/39/7/900/8697346" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+
+The external appearance of frog skin varies among species and across body regions. Although this variation has long been recognized, it remains an understudied aspect of frog diversity. Further, the evolutionary processes driving this variation are unclear because previous work has been largely qualitative. Here we quantify the skin texture of 187 species spanning 45 of the 57 frog families using standardized gel-based profilometry. Using phylogenetic comparative models we explore the extent to which skin texture differs among body regions, how these differences have evolved across major frog clades, and whether microhabitat, climate, and body size help explain texture patterns. We find that the ventral posterior region, which functions in water uptake and rehydration, tends to be rougher than other body regions, yet skin texture evolves at similar rates across the body. Microhabitat, particularly arboreality, is linked to greater skin texture variation among body regions. Among species occupying more terrestrial microhabitats (e.g., arboreal, burrowing, leaflitter), we find that body size and local climate has little effect on skin texture. By comparing skin texture across a wide range of species and environments worldwide, our study tests hypotheses about external skin diversity in frogs that have previously received limited comparative evaluation and highlights texture as an informative component of amphibian skin biology.
 
 </details>
 
@@ -50,7 +70,7 @@ More soon!
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
-More soon!
+Morphological evolution can be explosive, producing visually spectacular adaptive radiations like Caribbean anoles, Malagasy vangas, and African Rift Lake cichlids. Yet morphological stasis, the long-term retention of a conserved body plan, is often observed across evolutionary radiations. Woodland salamanders (Plethodon) are a classic example of such “nonadaptive” radiation, characterized by prolific speciation alongside morphological stasis (i.e., limited morphological divergence), often attributed to phylogenetic conservatism in their climatic and microhabitat niches. However, the multidimensional nature of phenotypes and the niche means that adaptive evolution in less apparent traits can occur even when morphology appears static. We investigated whether woodland salamanders exhibit adaptive divergence in a less conspicuous phenotypic axis—specifically, physiology—and compared patterns and rates of trait evolution to those of morphological traits. We found that most physiological traits are associated with climatic variation and exhibit elevated rates of evolution, high trait disparity, and more frequent shifts in adaptive optima than morphological traits. In particular, skin resistance to water loss, metabolic rate, and cold tolerance exhibit evolutionary signatures of adaptive radiation. Notably, morphology is not entirely static: Some traits show climatic associations, several exhibit localized shifts, and evolutionary rates exceed those of slower evolving physiological traits, such as heat tolerance. Biological systems, as evidenced by woodland salamanders, are not exclusively “conserved” or “labile” in their evolution, and this system illustrates how the same features that limit morphological divergence may also facilitate physiological evolution. Woodland salamanders exemplify how adaptive radiation can proceed despite outward similarity.
 
 </details>
 
