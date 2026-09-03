@@ -109,22 +109,22 @@ main_nav: true
   <div class="past">
     <div class="past-item">
       <div class="past-name">Braulio Assis</div>
-      <div class="past-role">Postdoc</div>
+      <div class="past-role">Postdoc, moved on to a postdoc at Colorado State University</div>
     </div>
 
     <div class="past-item">
       <div class="past-name">Cody Porter</div>
-      <div class="past-role">Postdoc, currently faculty at Hope College</div>
+      <div class="past-role">Postdoc, moved on to a faculty position at Hope College</div>
     </div>
 
     <div class="past-item">
       <div class="past-name">Tamara Tyner-Swanson</div>
-      <div class="past-role">PhD Student, currently a postdoc at South Dakota State University</div>
+      <div class="past-role">PhD Student, moved on to a postdoc at South Dakota State University</div>
     </div>
 
     <div class="past-item">
       <div class="past-name">Colton Poore</div>
-      <div class="past-role">Masters Student, currently Science Communicator at the Alfred P. Sloan Foundation</div>
+      <div class="past-role">Masters Student, moved on to be a Science Communicator at the Alfred P. Sloan Foundation</div>
     </div>
   </div>
 </section>
