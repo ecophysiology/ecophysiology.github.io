@@ -69,21 +69,6 @@ main_nav: true
       </div>
     </article>
 
-    <!-- Tamara -->
-    <article class="person" id="tamara-tyner">
-      <div class="person-media">
-        <!-- TODO: replace filename with your actual asset -->
-        <img src="{{ site.baseurl }}/assets/tamara_tyner.avif" alt="Tamara Tyner">
-      </div>
-      <div class="person-body">
-        <h3 class="person-name">Tamara Tyner-Swanson <span class="person-role">PhD Candidate</span></h3>
-        <p class="person-contact"><a href="mailto:tltyner@iastate.edu">tltyner@iastate.edu</a></p>
-        <p class="person-bio">
-          My name is Tamara and I am joining the Ecophysiology Lab after studying and working as a Forensic Anthropologist for the past few years. Before my anthropology days, I studied organismal biology and stable isotopes in aquatic food webs at the University of Kansas. I'm very excited to return to bio and explore the physiology of bumble bees! Outside of researching, I enjoy cooking, gardening, and any sort of adventure I can jump into with friends and family.
-        </p>
-      </div>
-    </article>
-
     <!-- Savannah -->
     <article class="person" id="savannah-weaver">
       <div class="person-media">
@@ -91,7 +76,7 @@ main_nav: true
         <img src="{{ site.baseurl }}/assets/savannah_weaver.avif" alt="Savannah Weaver">
       </div>
       <div class="person-body">
-        <h3 class="person-name">Savannah Weaver <span class="person-role">PhD Student</span></h3>
+        <h3 class="person-name">Savannah Weaver <span class="person-role">PhD Candidate</span></h3>
         <p class="person-contact"><a href="mailto:savjw@unc.edu">savjw@unc.edu</a></p>
         <p class="person-bio">
           I am pursuing my PhD in the Ecophysiology Lab after spending my Master’s investigating the hydration and evaporative water loss of lizards in the Physiology Ecology of Reptiles Lab at California Polytechnic State University, San Luis Obispo. While at UNC Chapel Hill, I will be focusing on hydric trade-offs for anurans, their acclimation capacity, and how that will relate to their extinction or resilience to climate change. In addition to the mind-blowing physiology of reptiles and amphibians, I love the great outdoors, my mischievous kitties, and good food.
@@ -130,6 +115,11 @@ main_nav: true
     <div class="past-item">
       <div class="past-name">Cody Porter</div>
       <div class="past-role">Postdoc, currently faculty at Hope College</div>
+    </div>
+
+    <div class="past-item">
+      <div class="past-name">Tamara Tyner-Swanson</div>
+      <div class="past-role">PhD Student, currently a postdoc at South Dakota State University</div>
     </div>
 
     <div class="past-item">
