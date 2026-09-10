@@ -24,7 +24,7 @@ main_nav: true
 </style>
 <h1 id="Header">2026</h1>
 
-<font size="4" font color="#5691E8"><b>Shifting aspect enhances climate buffering in montane landscapes</b></font>
+<font size="4" font color="#5691E8"><b>Topographic variation shapes organismal responses across mountain landscapes</b></font>
 <p>  <b>Adams, D.R.</b> and <b>E.A. Riddell</b>. Nature Climate Change, In press.
  <a href="http://google.com" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
