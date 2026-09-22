@@ -24,6 +24,16 @@ main_nav: true
 </style>
 <h1 id="Header">2026</h1>
 
+<font size="4" font color="#5691E8"><b>Thermal imbalance drives avian performance and responses to climate warming</b></font>
+<p>  <b>Porter, C.K.</b>,<b>D.R. Adams</b>, O. Levy, N. Urinovsky, and <b>E.A. Riddell</b>. Proceedings of the National Academy of Sciences, In press.
+ <a href="http://google.com" target="_blank">LINK</a> </p>
+  <details style="margin: 0; padding: 0; margin-bottom: 30px;">
+  <summary> Abstract (+)</summary>
+  
+More soon!
+
+</details>
+
 <font size="4" font color="#5691E8"><b>Topographic variation shapes organismal responses across mountain landscapes</b></font>
 <p>  <b>Adams, D.R.</b> and <b>E.A. Riddell</b>. Nature Climate Change, In press.
  <a href="http://google.com" target="_blank">LINK</a> </p>
