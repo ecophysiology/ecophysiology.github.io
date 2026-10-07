@@ -53,7 +53,7 @@ permalink: /research/skin-breathing/
         <h2>Skin as a barrier</h2>
         <p>
           Amphibian skin must do two things that often work against each other:
-          <b>let oxygen diffuse inward</b> while <b>slowing water loss outward</b>.
+          let oxygen diffuse inward while slowing water loss outward.
           This produces a fundamental trade-off between breathing and hydration.
         </p>
 
@@ -99,7 +99,7 @@ permalink: /research/skin-breathing/
     <div class="panel-text">
       <h2>Comparative approach: linking traits to evolution</h2>
       <p>
-        We use the <b>comparative phylogenetic method</b> to ask how skin structure and environment
+        We use the comparative phylogenetic method to ask how skin structure and environment
         shape skin breathing across species. By combining trait data with evolutionary relationships,
         we can test whether phenotype differences between species are driven by natural selection or shared ancestry.
       </p>
@@ -123,7 +123,7 @@ permalink: /research/skin-breathing/
         <p>
           Rates of water loss and gas exchange serve an imporant link between organism fitness and environmental change. 
           By understanding variation in these rates across species, we can improve forecasts of dehydration risk and physiological performance
-          across microclimates — and better understand how amphibians respond to environmental change.
+          across microclimates and better understand how amphibians respond to environmental change.
         </p>
 
         <div class="callout">
