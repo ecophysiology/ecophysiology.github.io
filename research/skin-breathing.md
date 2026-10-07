@@ -137,34 +137,6 @@ permalink: /research/skin-breathing/
 
   </div>
 
-  <!-- OPTIONAL: METHODS SNAPSHOT -->
-  <section class="proj-section">
-    <h2 class="proj-section-title">Methods snapshot</h2>
-    <div class="method-grid">
-      <div class="method-card">
-        <h3>Histology</h3>
-        <p>Sampling, sectioning, staining, imaging, and standardized morphometric measurements.</p>
-      </div>
-      <div class="method-card">
-        <h3>Skin flux</h3>
-        <p>Skin-specific measurements of gas exchange and water loss using respirometry.</p>
-      </div>
-      <div class="method-card">
-        <h3>Integration</h3>
-        <p>Mechanistic niche models to identify which structures explain functional variation.</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- OPTIONAL: CTA -->
-  <section class="proj-section">
-    <h2 class="proj-section-title">Interested in collaborating?</h2>
-    <p class="proj-cta">
-      If you’re working on amphibian physiology, skin structure, diffusion barriers, or dehydration ecology,
-      feel free to reach out: <a href="mailto:riddell@unc.edu">riddell@unc.edu</a>.
-    </p>
-  </section>
-
 </section>
 
 <!-- PAGE-LOCAL STYLES (keep here for now; later move to SCSS) -->
