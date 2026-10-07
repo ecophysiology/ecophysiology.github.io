@@ -58,7 +58,7 @@ permalink: /research/endotherms/
 
     <p>
       Our work proposes that performance in endotherms can be understood using
-      <b>net sensible heat flux</b>. When heat gain and heat loss are balanced,
+      net sensible heat flux. When heat gain and heat loss are balanced,
       thermoregulatory costs are minimized, producing a natural prediction for
       the environmental conditions where performance is highest.
     </p>
