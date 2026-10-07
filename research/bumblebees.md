@@ -54,8 +54,8 @@ permalink: /research/bumblebees/
         <p>
           We study how temperature shapes the physiology of bumble bee queens during
           colony founding. In our work, queens exposed to warm temperatures showed little
-          evidence of individual acclimation in <b>metabolic rate</b>, <b>water loss rate</b>,
-          or <b>thermal tolerance</b>. At the same time, bee species differ in how they breathe,
+          evidence of individual acclimation in metabolic rate, water loss rate,
+          or thermal tolerance. At the same time, bee species differ in how they breathe,
           and certain species show greater thermal sensitivity of metabolic rate than others.
         </p>
 
