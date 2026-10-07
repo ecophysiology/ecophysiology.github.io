@@ -45,7 +45,7 @@ permalink: /research/tortoise/
       <div class="panel-text">
         <h2>Physiology across age classes</h2>
         <p>
-          We test whether <b>hatchlings and juveniles are more thermally sensitive</b> than adults and whether
+          We test whether hatchlings and juveniles are more thermally sensitive than adults and whether
           early life stages may be more vulnerable. By measuring physiological
            responses across temperatures, we identify which age classes are most vulnerable and why.
         </p>
@@ -68,10 +68,10 @@ permalink: /research/tortoise/
       <div class="panel-text">
         <h2>From mechanism to management</h2>
         <p>
-          We integrate age-specific physiology into <b>mechanistic niche models</b> to predict where tortoises can
+          We integrate age-specific physiology into mechanistic niche models to predict where tortoises can
           maintain safe body temperatures and water balance across real landscapes. These forecasts can guide
-          decisions about <b>translocation sites</b> and identify when microclimate refuges are necessary for success.
-          This work is conducted in partnership with the <b>San Diego Zoo Wildlife Alliance</b>.
+          decisions about translocation sites and identify when microclimate refuges are necessary for success.
+          This work is conducted in partnership with the San Diego Zoo Wildlife Alliance.
         </p>
 
         <ul class="key-points">
