@@ -45,7 +45,7 @@ permalink: /research/woodland-salamanders/
       <div class="panel-text">
         <h2>Physiology and climate vulnerability</h2>
         <p>
-          We quantify how <b>metabolic rate</b> and <b>water loss</b> interact to shape
+          We quantify how metabolic rate and water loss interact to shape
           organismal performance across thermal and hydric gradients. Because salamanders
           rely heavily on cutaneous respiration, changes in skin resistance directly influence
           oxygen uptake, activity capacity, and dehydration risk.
@@ -81,7 +81,7 @@ permalink: /research/woodland-salamanders/
     deplete a substantial fraction of stored energy under warmer conditions. When winter
     metabolic rate is incorporated into projections of future climate warming, large
     portions of currently suitable habitat become energetically unsuitable
-    (<b>panel F</b>).
+    (panel F).
   </div>
 </div>
 
@@ -89,7 +89,7 @@ permalink: /research/woodland-salamanders/
         <h2>Winter dormancy, energetics, and species ranges</h2>
         <p>
           Winter is a dominant selective force for temperate salamanders.
-          We investigate how <b>metabolic regulation</b>, tissue structure,
+          We investigate how metabolic regulation, tissue structure,
           and energy storage strategies during dormancy influence survival,
           overwinter performance, and geographic range limits.
         </p>
@@ -121,8 +121,8 @@ permalink: /research/woodland-salamanders/
         <h2>Ecology and evolution of tissue regeneration</h2>
         <p>
           Salamanders are renowned for their regenerative capacity, yet rates of regeneration
-          vary across environments. We examine how <b>metabolic rate</b>, <b>temperature</b>,
-          and <b>elevation</b> shape regeneration rates and mechanisms.
+          vary across environments. We examine how metabolic rate, temperature,
+          and elevation shape regeneration rates and mechanisms.
         </p>
 
         <ul class="key-points">
