@@ -44,7 +44,7 @@ main_nav: true
   <article class="outreach-post outreach-post--reverse">
     <div class="outreach-media">
       <!-- Replace sciren.jpg with the filename of your SciREN photo. -->
-      <img src="{{ site.baseurl }}/assets/sciren.jpg"
+      <img src="{{ site.baseurl }}/assets/sciren.jpeg"
            alt="Ecophysiology Lab participating in SciREN">
     </div>
     <div class="outreach-body">
