@@ -81,10 +81,13 @@ main_nav: true
     margin: 0 0 2.5rem 0;
     display: flex;
     align-items: flex-end;
-    background: linear-gradient(120deg,
-      rgba(31, 54, 75, 0.96) 0%,
-      rgba(51, 84, 105, 0.92) 55%,
-      rgba(77, 111, 125, 0.88) 100%);
+    background:
+  linear-gradient(
+    120deg,
+    rgba(0, 0, 0, 0.45),
+    rgba(0, 0, 0, 0.15)
+  ),
+  url("{{ site.baseurl }}/assets/outreach.png") center / cover no-repeat;
   }
   .outreach-hero-content { padding: 3rem; max-width: 760px; }
   .outreach-hero-title {
