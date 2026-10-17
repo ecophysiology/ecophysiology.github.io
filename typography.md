@@ -36,7 +36,7 @@ Thermal performance curves (TPCs) are widely used to predict ectothermic respons
 
 <font size="4" font color="#5691E8"><b>Topographic variation shapes organismal responses across mountain landscapes</b></font>
 <p>  <b>Adams, D.R.</b> and <b>E.A. Riddell</b>. Nature Climate Change, In press.
- <a href="https://www.nature.com/articles/s41558-026-02773-z" target="_blank">LINK</a> </p>
+ <a href="https://doi.org/10.1093/icb/icag142" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
