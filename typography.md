@@ -26,31 +26,31 @@ main_nav: true
 
 <font size="4" font color="#5691E8"><b>Thermal imbalance drives avian performance and responses to climate warming</b></font>
 <p>  <b>Porter, C.K.</b>, <b>D.R. Adams</b>, O. Levy, N. Urinovsky, and <b>E.A. Riddell</b>. Proceedings of the National Academy of Sciences, In press.
- <a href="http://google.com" target="_blank">LINK</a> </p>
+ <a href="{{ '/assets/PNAS_QPC_Manuscript.pdf' | relative_url }}" target="_blank"> PDF </a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
-More soon!
+Thermal performance curves (TPCs) are widely used to predict ectothermic responses to climate warming but are less effective for predicting endotherm performance across environmental conditions because thermoregulation often decouples body temperature from ambient temperature. We develop theory and provide empirical evidence for performance curves in endotherms structured by net sensible heat flux (Q), an integrative index of thermoregulatory imbalance. Using biophysical simulations in tree swallows, we show that performance varies predictably with Q (which we term “QPCs”), thereby explaining variation in nestling provisioning performance, reproductive fitness, and geographic limits, while also forecasting responses to climate change. We also demonstrate that thermal imbalance helps shape breeding ranges of birds across North America. Our findings introduce Q as a broadly relevant ecophysiological dimension that constrains performance in endotherms and provides a new framework for predicting endotherm responses to climate warming.
 
 </details>
 
 <font size="4" font color="#5691E8"><b>Topographic variation shapes organismal responses across mountain landscapes</b></font>
 <p>  <b>Adams, D.R.</b> and <b>E.A. Riddell</b>. Nature Climate Change, In press.
- <a href="http://google.com" target="_blank">LINK</a> </p>
+ <a href="https://www.nature.com/articles/s41558-026-02773-z" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
-More soon!
+Topography is expected to mediate species’ responses to climate change by providing terrain-driven microclimates that buffer animals from warming, yet how topographic shading drives animal responses to climate change remains poorly understood. Using bioenergetic simulations that incorporate topographic shading to predict the ecological and physiological consequences of climate warming, we show that topographic variation can reduce energy expenditure by as much as 20.8% and increase the buffering benefits of shifting elevation by 82.1% for diurnal ectotherms. In contrast, topographic shading provided little buffering for nocturnal ectotherms. Warming also increased energetic costs most at low elevations, widening elevational differences in energetic costs. Across North America, 48.9% of mountain ranges are depleted in topographic features that buffer the effects of warming, with tectonic history shaping present-day terrain-driven microclimates. Together, our results highlight topographic variation as a critical variable shaping organismal experiences of climate change at both landscape and continental scales.
 
 </details>
 
 <font size="4" font color="#5691E8"><b>Weak coupling between gas exchange and water loss in lungless salamanders</b></font>
 <p> Alomar, N.M., <b>E.A. Riddell</b>, M.M. Muñoz. Integrative and Comparative Biology, In press.
- <a href="http://google.com" target="_blank">LINK</a> </p>
+ <a href="https://academic.oup.com/icb/article-abstract/doi/10.1093/icb/icag142/8752650)" target="_blank">LINK</a> </p>
   <details style="margin: 0; padding: 0; margin-bottom: 30px;">
   <summary> Abstract (+)</summary>
   
-More soon!
+Gas exchange requires a permeable respiratory surface, yet the same permeability also creates a pathway for water loss, posing a particular challenge for organisms whose respiratory surfaces are directly exposed to the terrestrial environment. Woodland salamanders (Plethodon) are a diverse radiation of lungless, terrestrial amphibians that rely entirely on cutaneous respiration, coupling gas exchange and water loss through a shared surface. Whether this shared surface produces a consistent relationship between water loss and metabolic rate across species, or whether the two traits can diverge despite their functional link, remains unresolved. Here, we quantified metabolic rate, water loss rate, and the ratio between these traits across 30 Plethodon species and related these traits to elevational distributions, geographic range size, and climatic conditions across species’ ranges. We also compared the relationship between gas exchange and water loss in Plethodon to that observed across a broader set of amphibian taxa. Metabolic rate and water loss were not tightly correlated across Plethodon, despite a positive association across amphibians more broadly. Instead, physiological traits correlated with different aspects of species’ elevational limits, range sizes, and climatic niches. Metabolic rate was most consistently associated with elevation and climate, with lower values observed in species occupying higher, cooler environments. Water loss alone showed weaker and less consistent environmental associations, but the transpiration ratio varied with elevational limits such that species extending into lower-elevation environments exhibited greater hydric efficiency. These patterns were also reflected in phylogenetic path analyses, which supported lower elevational limit as a mediator linking physiology to geographic range size. These results suggest that although cutaneous respiration imposes broad hydric costs across amphibians, Plethodon species do not show a single, shared pattern of physiological coupling between gas exchange and water loss.
 
 </details>
 
