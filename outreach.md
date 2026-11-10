@@ -59,7 +59,7 @@ main_nav: true
         responses to environmental change.
       </p>
       <!-- Replace # with the website you want this post to link to. -->
-      <a class="outreach-link" href="#"
+      <a class="outreach-link" href="{{ '/outreach/sciren/' | relative_url }}"
          target="_blank" rel="noopener noreferrer">
         Learn more about SciREN →
       </a>
